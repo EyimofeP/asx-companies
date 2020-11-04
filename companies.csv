@@ -1,0 +1,2176 @@
+Rank,Company Code,Company Name,Price,Change,Percent,Market,Year
+1,CSL,CSL Ltd,$291.99,+5.94,+2.08%,$132.85 B,+12.50%
+2,CBA,Commonwealth Bank of Australia,$69.82,+0.95,+1.38%,$123.87 B,-9.38%
+3,BHP,BHP Group Ltd,$34.70,+0.89,+2.63%,$102.22 B,-4.88%
+4,WBC,Westpac Banking Corporation,$17.70,-0.1,-0.56%,$63.93 B,-36.51%
+5,NAB,National Australia Bank Ltd,$18.90,+0.08,+0.43%,$62.18 B,-31.74%
+6,ANZ,Australia and New Zealand Banking Group Ltd,$19.47,+0.21,+1.09%,$55.30 B,-24.97%
+7,WES,Wesfarmers Ltd,$47.09,+0.84,+1.82%,$53.39 B,+17.14%
+8,FMG,Fortescue Metals Group Ltd,$17.29,+0.08,+0.47%,$53.24 B,+84.33%
+9,WOW,Woolworths Group Ltd,$38.81,+0.28,+0.73%,$49.11 B,+2.92%
+10,MQG,Macquarie Group Ltd,$130.83,+3.46,+2.72%,$47.30 B,-2.80%
+11,TCL,Transurban Group,$13.53,+0.26,+1.96%,$37.03 B,-10.69%
+12,RIO,RIO Tinto Ltd,$94.79,+2.29,+2.48%,$35.19 B,+1.17%
+13,GMG,Goodman Group,$18.69,+0.08,+0.43%,$34.53 B,+30.61%
+14,TLS,Telstra Corporation Ltd,$2.76,+0.03,+1.10%,$32.83 B,-21.59%
+15,APT,Afterpay Ltd,$99.13,+0.86,+0.88%,$28.20 B,+262.05%
+16,NCM,Newcrest Mining Ltd,$30.33,+0.75,+2.54%,$24.77 B,-5.98%
+17,COL,Coles Group Ltd,$18.32,+0.25,+1.38%,$24.44 B,+22.22%
+18,FPH,Fisher & Paykel Healthcare Corporation Ltd,$33.57,-0.41,-1.21%,$19.34 B,+84.55%
+19,ALL,Aristocrat Leisure Ltd,$29.77,+1.11,+3.87%,$19.01 B,-4.95%
+20,WPL,Woodside Petroleum Ltd,$18.37,+0.96,+5.51%,$17.68 B,-43.86%
+21,SHL,Sonic Healthcare Ltd,$35.46,+0.54,+1.55%,$16.94 B,+21.90%
+22,JHX,James Hardie Industries Plc,$36.27,+1.07,+3.04%,$16.10 B,+43.59%
+23,XRO,Xero Ltd,$112.55,+1.67,+1.51%,$16.08 B,+62.97%
+24,REA,REA Group Ltd,$120.63,+0.96,+0.80%,$15.89 B,+11.51%
+25,SYD,Sydney Airport,$5.80,+0.11,+1.93%,$15.65 B,-33.31%
+26,ASX,ASX Ltd,$80.40,+0.25,+0.31%,$15.57 B,-1.37%
+27,BXB,Brambles Ltd,$10.10,+0.54,+5.65%,$15.18 B,-16.04%
+28,RHC,Ramsay Health Care Ltd,$63.35,+1.16,+1.87%,$14.50 B,-8.56%
+29,COH,Cochlear Ltd,$217.37,+2.61,+1.22%,$14.29 B,+1.76%
+30,AMC,Amcor Plc,$15.40,+0.4,+2.67%,$13.77 B,+8.99%
+31,TPG,TPG Telecom Ltd,$7.07,-0.05,-0.70%,$13.15 B,-20.56%
+32,APA,APA Group,$10.88,+0.11,+1.02%,$12.84 B,-5.88%
+33,QBE,QBE Insurance Group Ltd,$8.59,+0.35,+4.25%,$12.63 B,-31.55%
+34,SCG,Scentre Group,$2.28,+0.13,+6.05%,$11.83 B,-41.24%
+35,NST,Northern Star Resources Ltd,$15.34,+0.3,+2.00%,$11.37 B,+52.18%
+36,IAG,Insurance Australia Group Ltd,$4.80,+0.12,+2.56%,$11.09 B,-39.77%
+37,SUN,Suncorp Group Ltd,$8.22,+0.1,+1.23%,$10.53 B,-38.29%
+38,MFG,Magellan Financial Group Ltd,$57.14,+2.27,+4.14%,$10.49 B,+18.82%
+39,S32,SOUTH32 Ltd,$2.13,+0.08,+3.90%,$10.32 B,-18.39%
+40,STO,Santos Ltd,$4.95,+0.3,+6.45%,$10.31 B,-39.26%
+41,SGP,Stockland,$4.22,+0.23,+5.76%,$10.07 B,-14.23%
+42,RMD,Resmed Inc,$27.96,+0.49,+1.78%,$9.99 B,+30.35%
+43,EVN,Evolution Mining Ltd,$5.83,+0.1,+1.75%,$9.96 B,+36.85%
+44,A2M,The a2 Milk Company Ltd,$13.40,-0.08,-0.59%,$9.95 B,+11.11%
+45,AIA,Auckland International Airport Ltd,$6.69,+0.14,+2.14%,$9.85 B,-22.75%
+46,DXS,Dexus,$9.02,+0.22,+2.50%,$9.84 B,-24.20%
+47,WTC,Wisetech Global Ltd,$29.74,+1.21,+4.24%,$9.63 B,+11.39%
+48,CCL,Coca-Cola Amatil Ltd,$12.46,+0.01,+0.08%,$9.02 B,+23.24%
+49,REH,Reece Ltd,$13.85,+0.22,+1.61%,$8.95 B,+36.27%
+50,MGR,Mirvac Group,$2.25,+0.12,+5.63%,$8.86 B,-29.91%
+51,LLC,Lendlease Group,$12.69,+0.34,+2.75%,$8.73 B,-33.14%
+52,PMGOLD,Gold Corporation,$26.91,+0.04,+0.15%,$8.65 B,+22.88%
+53,QAN,Qantas Airways Ltd,$4.47,+0.16,+3.71%,$8.43 B,-32.78%
+54,AFI,Australian Foundation Investment Company Ltd,$6.73,+0.14,+2.12%,$8.19 B,+1.20%
+55,GPT,GPT Group,$4.20,+0.05,+1.21%,$8.18 B,-30.35%
+56,AGL,AGL Energy Ltd,$12.90,+0.19,+1.50%,$8.04 B,-34.42%
+57,SPK,Spark New Zealand Ltd,$4.32,+0.07,+1.65%,$8.00 B,+2.86%
+58,TAH,Tabcorp Holdings Ltd,$3.46,+0.15,+4.53%,$7.67 B,-27.68%
+59,-,AST,Ausnet Services Ltd,$2.01,0.00,0.00%,$7.54 B
+60,ORG,Origin Energy Ltd,$4.28,+0.27,+6.73%,$7.54 B,-46.43%
+61,SEK,Seek Ltd,$21.14,-0.19,-0.89%,$7.46 B,-7.00%
+62,BSL,Bluescope Steel Ltd,$14.78,+0.16,+1.09%,$7.45 B,+9.16%
+63,MPL,Medibank Private Ltd,$2.68,+0.02,+0.75%,$7.38 B,-20.48%
+64,DMP,Domino's PIZZA Enterprises Ltd,$85.17,+0.08,+0.09%,$7.37 B,+66.84%
+65,AZJ,Aurizon Holdings Ltd,$3.78,+0.04,+1.07%,$7.13 B,-35.39%
+66,CIM,Cimic Group Ltd,$21.74,+0.24,+1.12%,$6.87 B,-35.10%
+67,MCY,Mercury NZ Ltd,$5.02,-0.07,-1.38%,$6.84 B,+9.37%
+68,CPU,Computershare Ltd,$12.62,+0.43,+3.53%,$6.83 B,-20.23%
+69,SVW,Seven Group Holdings Ltd,$20.03,+0.64,+3.30%,$6.80 B,+4.21%
+70,ALD,Ampol Ltd,$25.88,+0.52,+2.05%,$6.46 B,-6.30%
+71,TWE,Treasury Wine Estates Ltd,$8.95,-0.29,-3.14%,$6.46 B,-49.72%
+72,SAR,Saracen Mineral Holdings Ltd,$5.77,+0.14,+2.49%,$6.39 B,+53.20%
+73,MEZ,Meridian Energy Ltd,$5.09,+0.11,+2.21%,$6.39 B,+20.05%
+74,ORI,Orica Ltd,$15.55,+0.49,+3.25%,$6.31 B,-34.19%
+75,SOL,Washington H Soul Pattinson & Company Ltd,$25.76,+0.3,+1.18%,$6.17 B,+16.04%
+76,VCX,Vicinity Centres,$1.32,+0.065,+5.18%,$6.01 B,-50.75%
+77,BLD,Boral Ltd,$4.88,+0.07,+1.46%,$5.98 B,-2.79%
+78,VAS,Vanguard Australian Shares INDEX ETF,$77.42,+1.47,+1.94%,$5.95 B,-8.50%
+79,CHC,Charter Hall Group,$12.54,+0.27,+2.20%,$5.84 B,+10.19%
+80,NXT,NEXTDC Ltd,$12.79,+0.13,+1.03%,$5.83 B,+94.38%
+81,CWN,Crown Resorts Ltd,$8.57,+0.3,+3.63%,$5.80 B,-30.89%
+82,AMP,AMP Ltd,$1.66,-0.02,-1.19%,$5.70 B,-10.03%
+83,OSH,Oil Search Ltd,$2.73,+0.19,+7.48%,$5.67 B,-61.25%
+84,HVN,Harvey Norman Holdings Ltd,$4.52,+0.1,+2.26%,$5.63 B,+8.92%
+85,ALX,Atlas Arteria,$5.81,+0.19,+3.38%,$5.57 B,-27.41%
+86,JBH,JB Hi-Fi Ltd,$48.17,+0.37,+0.77%,$5.53 B,+34.44%
+87,ARG,Argo Investments Ltd,$7.54,+0.09,+1.21%,$5.45 B,-9.59%
+88,ANN,Ansell Ltd,$41.91,+0.94,+2.29%,$5.39 B,+50.00%
+89,IEL,Idp Education Ltd,$19.32,-0.41,-2.08%,$5.38 B,+8.60%
+90,QUB,QUBE Holdings Ltd,$2.71,+0.09,+3.44%,$5.15 B,-16.29%
+91,CAR,Carsales.com Ltd,$20.88,+0.28,+1.36%,$5.14 B,+31.99%
+92,WOR,Worley Ltd,$9.75,+0.59,+6.44%,$5.09 B,-30.36%
+93,OZL,OZ Minerals Ltd,$14.68,+0.13,+0.89%,$4.86 B,+41.43%
+94,ALU,Altium Ltd,$36.98,+0.61,+1.68%,$4.84 B,+14.77%
+95,MIN,Mineral Resources Ltd,$25.09,+0.76,+3.12%,$4.73 B,+75.46%
+96,ALQ,Als Ltd,$9.49,+0.18,+1.93%,$4.58 B,+15.87%
+97,CWY,Cleanaway Waste Management Ltd,$2.13,+0.07,+3.40%,$4.38 B,+14.21%
+98,AWC,Alumina Ltd,$1.46,+0.035,+2.46%,$4.24 B,-37.61%
+99,NWL,Netwealth Group Ltd,$17.45,+0.36,+2.11%,$4.15 B,+88.85%
+100,APX,Appen Ltd,$33.76,+1.51,+4.68%,$4.11 B,+57.91%
+101,IPL,Incitec Pivot Ltd,$2.05,+0.105,+5.40%,$3.98 B,-43.21%
+102,-,EBO,Ebos Group Ltd,$24.22,0.00,0.00%,$3.98 B
+103,NEC,Nine Entertainment Co. Holdings Ltd,$2.17,+0.04,+1.88%,$3.70 B,+18.58%
+104,BEN,Bendigo and Adelaide Bank Ltd,$6.94,+0.16,+2.36%,$3.68 B,-33.91%
+105,STW,SPDR S&P/ASX 200 Fund,$56.39,+1.1,+1.99%,$3.68 B,-9.20%
+106,BRG,Breville Group Ltd,$26.09,+0.61,+2.39%,$3.62 B,+64.09%
+107,IFT,Infratil Ltd,$4.97,-0.12,-2.36%,$3.60 B,+11.19%
+108,SKI,Spark Infrastructure Group,$2.04,+0.02,+0.99%,$3.55 B,-0.97%
+109,-,CNU,Chorus Ltd,$7.88,0.00,0.00%,$3.52 B
+110,PMV,Premier Investments Ltd,$21.86,+0.73,+3.46%,$3.47 B,+12.28%
+111,PME,Pro Medicus Ltd,$32.75,+0.66,+2.06%,$3.41 B,+30.74%
+112,CGF,Challenger Ltd,$5.00,+0.15,+3.09%,$3.38 B,-36.14%
+113,FBU,Fletcher Building Ltd,$4.09,+0.14,+3.54%,$3.37 B,-6.62%
+114,RWC,Reliance Worldwide Corporation Ltd,$4.23,+0.14,+3.42%,$3.34 B,+0.48%
+115,IVV,Ishares S&P 500 ETF,$472.93,+4.13,+0.88%,$3.32 B,+6.16%
+116,SGR,The Star Entertainment Group Ltd,$3.42,+0.21,+6.54%,$3.26 B,-27.23%
+117,DOW,Downer Edi Ltd,$4.61,+0.14,+3.13%,$3.23 B,-42.81%
+118,SDF,Steadfast Group Ltd,$3.59,+0.04,+1.13%,$3.12 B,0.00%
+119,MTS,Metcash Ltd,$3.03,+0.1,+3.41%,$3.10 B,+6.69%
+120,Z1P,ZIP Co Ltd,$5.85,+0.2,+3.54%,$3.04 B,+60.27%
+121,GNE,Genesis Energy Ltd,$2.88,-0.03,-1.03%,$3.01 B,-4.00%
+122,IOZ,Ishares Core S&P/ASX 200 ETF,$24.84,+0.46,+1.89%,$2.99 B,-8.81%
+123,APE,Eagers Automotive Ltd,$11.62,+0.67,+6.12%,$2.99 B,-4.36%
+124,BOQ,Bank of Queensland Ltd,$6.45,+0.03,+0.47%,$2.93 B,-29.12%
+125,MLT,Milton Corporation Ltd,$4.29,+0.04,+0.94%,$2.89 B,-9.68%
+126,VEA,Viva Energy Group Ltd,$1.76,+0.065,+3.84%,$2.86 B,-28.58%
+127,TNE,Technology One Ltd,$8.87,+0.04,+0.45%,$2.83 B,+18.11%
+128,BPT,Beach Energy Ltd,$1.23,+0.08,+6.96%,$2.81 B,-48.75%
+129,GOZ,Growthpoint Properties Australia,$3.58,+0.15,+4.37%,$2.76 B,-15.96%
+130,IGO,IGO Ltd,$4.65,+0.2,+4.49%,$2.75 B,-26.77%
+131,BKW,Brickworks Ltd,$17.96,+0.33,+1.87%,$2.70 B,-1.91%
+132,LYC,Lynas Corporation Ltd,$2.94,+0.1,+3.52%,$2.65 B,+18.29%
+133,BWP,BWP Trust,$4.09,+0.06,+1.49%,$2.63 B,-2.15%
+134,BAP,Bapcor Ltd,$7.71,+0.17,+2.26%,$2.62 B,+6.49%
+135,LNK,Link Administration Holdings Ltd,$4.84,+0.11,+2.33%,$2.57 B,-13.42%
+136,SCP,Shopping Centres Australasia Property Group,$2.38,+0.03,+1.28%,$2.56 B,-12.18%
+137,SUL,Super Retail Group Ltd,$11.32,+0.31,+2.82%,$2.56 B,+20.35%
+138,CLW,Charter Hall Long Wale REIT,$4.94,+0.1,+2.07%,$2.55 B,-13.54%
+139,ORA,Orora Ltd,$2.65,+0.07,+2.71%,$2.54 B,-32.91%
+140,ARB,ARB Corporation Ltd,$31.39,+0.67,+2.18%,$2.54 B,+67.15%
+141,YAL,Yancoal Australia Ltd,$1.90,-0.03,-1.55%,$2.51 B,-37.09%
+142,FLT,Flight Centre Travel Group Ltd,$12.19,+0.8,+7.02%,$2.43 B,-67.76%
+143,PPH,Pushpay Holdings Ltd,$8.74,+0.46,+5.56%,$2.41 B,+194.28%
+144,-,CMW,Cromwell Property Group,$0.92,0.00,0.00%,$2.41 B
+145,DHG,Domain Holdings Australia Ltd,$4.00,+0.16,+4.17%,$2.34 B,+23.84%
+146,MGG,Magellan Global Trust,$1.86,+0.01,+0.54%,$2.31 B,+2.20%
+147,CSR,CSR Ltd,$4.75,+0.09,+1.93%,$2.31 B,+0.21%
+148,VGS,Vanguard MSCI INDEX International Shares ETF,$79.80,+0.82,+1.04%,$2.28 B,+1.21%
+149,PDL,Pendal Group Ltd,$6.89,+0.49,+7.66%,$2.22 B,-4.83%
+150,KGN,Kogan.com Ltd,$20.90,+0.55,+2.70%,$2.21 B,+196.88%
+151,SNZ,Summerset Group Holdings Ltd,$9.65,-0.14,-1.43%,$2.21 B,+56.91%
+152,VOC,Vocus Group Ltd,$3.53,+0.12,+3.52%,$2.19 B,+4.44%
+153,WPR,Waypoint REIT,$2.76,+0.03,+1.10%,$2.17 B,-4.50%
+154,RRL,Regis Resources Ltd,$4.19,+0.04,+0.96%,$2.14 B,-16.37%
+155,HLS,Healius Ltd,$3.43,+0.03,+0.88%,$2.14 B,+8.20%
+156,AAA,Betashares Australian High Interest Cash ETF,$50.075,-0.005,-0.01%,$2.12 B,-0.01%
+157,ILU,Iluka Resources Ltd,$5.01,-0.07,-1.38%,$2.12 B,-43.96%
+158,CDA,Codan Ltd,$11.71,+0.04,+0.34%,$2.11 B,+82.68%
+159,CTD,Corporate Travel Management Ltd,$15.47,+0.8,+5.45%,$2.10 B,-11.20%
+160,MP1,Megaport Ltd,$13.60,+0.31,+2.33%,$2.10 B,+59.62%
+161,DRR,Deterra Royalties Ltd,$3.95,-0.11,-2.71%,$2.09 B,-14.13%
+162,CQR,Charter Hall Retail REIT,$3.59,+0.1,+2.87%,$2.05 B,-19.69%
+163,SKC,Skycity Entertainment Group Ltd,$2.66,+0.16,+6.40%,$2.02 B,-27.32%
+164,ABC,Adbri Ltd,$3.05,+0.1,+3.39%,$1.99 B,-3.18%
+165,SGM,Sims Ltd,$9.84,+0.31,+3.25%,$1.98 B,-0.71%
+166,ABP,Abacus Property Group,$2.96,+0.11,+3.86%,$1.97 B,-25.25%
+167,IFL,IOOF Holdings Ltd,$3.01,+0.13,+4.51%,$1.95 B,-56.07%
+168,VTS,Vanguard US Total Market Shares INDEX ETF,$240.83,+2.22,+0.93%,$1.94 B,+6.78%
+169,SBM,ST Barbara Ltd,$2.74,+0.08,+3.01%,$1.93 B,-4.20%
+170,NHF,Nib Holdings Ltd,$4.22,+0.08,+1.93%,$1.93 B,-39.89%
+171,SLR,Silver Lake Resources Ltd,$2.17,+0.05,+2.36%,$1.91 B,+82.35%
+172,HTA,Hutchison Telecommunications (Australia) Ltd,$0.14,+0.015,+12.00%,$1.90 B,+21.74%
+173,NSR,National Storage REIT,$1.825,+0.02,+1.11%,$1.86 B,-3.69%
+174,PTM,Platinum Asset Management Ltd,$3.15,+0.12,+3.96%,$1.85 B,-26.23%
+175,MSB,Mesoblast Ltd,$3.13,+0.08,+2.62%,$1.84 B,+73.41%
+176,IOO,Ishares Global 100 ETF,$78.59,+0.69,+0.89%,$1.82 B,+5.55%
+177,CIA,Champion Iron Ltd,$3.81,+0.27,+7.63%,$1.80 B,+88.61%
+178,TYR,Tyro Payments Ltd,$3.60,+0.02,+0.56%,$1.80 B,+6.51%
+179,PBH,Pointsbet Holdings Ltd,$10.38,+0.58,+5.92%,$1.80 B,+159.57%
+180,NIC,Nickel Mines Ltd,$0.84,-0.015,-1.75%,$1.79 B,+32.54%
+181,MGE,Magellan Global Equities Fund (Managed Fund),$4.00,+0.02,+0.50%,$1.76 B,+4.99%
+182,ELD,Elders Ltd,$11.30,+0.23,+2.08%,$1.76 B,+89.60%
+183,IRE,Iress Ltd,$9.04,+0.07,+0.78%,$1.75 B,-29.76%
+184,PNV,Polynovo Ltd,$2.55,+0.07,+2.82%,$1.69 B,+4.51%
+185,VUK,Virgin Money Uk Plc,$1.755,+0.055,+3.24%,$1.68 B,-33.02%
+186,-,WAM,WAM Capital Ltd,$2.27,0.00,0.00%,$1.68 B
+187,RMS,Ramelius Resources Ltd,$2.06,+0.105,+5.37%,$1.67 B,+53.73%
+188,DDR,Dicker Data Ltd,$9.63,-0.03,-0.31%,$1.66 B,+40.79%
+189,VEU,Vanguard All-World Ex-US Shares INDEX ETF,$71.64,+1.13,+1.60%,$1.63 B,-5.05%
+190,VAP,Vanguard Australian Property Securities INDEX ETF,$76.20,+1.61,+2.16%,$1.63 B,-16.78%
+191,BIN,Bingo Industries Ltd,$2.45,-0.03,-1.21%,$1.60 B,+2.08%
+192,CIP,Centuria Industrial REIT,$3.11,+0.05,+1.63%,$1.59 B,-7.31%
+193,PPT,Perpetual Ltd,$27.82,+0.79,+2.92%,$1.57 B,-24.28%
+194,PRU,Perseus Mining Ltd,$1.28,+0.06,+4.92%,$1.57 B,+36.90%
+195,NAN,Nanosonics Ltd,$5.12,+0.07,+1.39%,$1.54 B,-27.17%
+196,INA,Ingenia Communities Group,$4.71,+0.06,+1.29%,$1.54 B,+6.32%
+197,AIZ,Air New Zealand Ltd,$1.34,+0.03,+2.29%,$1.50 B,-49.81%
+198,IVC,Invocare Ltd,$10.30,+0.17,+1.68%,$1.48 B,-22.73%
+199,IAF,Ishares Core Composite Bond ETF,$117.22,+0.36,+0.31%,$1.46 B,+2.35%
+200,VAF,Vanguard Australian Fixed Interest INDEX ETF,$52.70,+0.14,+0.27%,$1.45 B,+1.00%
+201,MFF,MFF Capital Investments Ltd,$2.58,+0.04,+1.58%,$1.44 B,-24.88%
+202,ZEL,Z Energy Ltd,$2.75,+0.08,+3.00%,$1.43 B,-44.89%
+203,CGC,Costa Group Holdings Ltd,$3.56,+0.05,+1.43%,$1.43 B,+35.36%
+204,DEG,De Grey Mining Ltd,$1.115,+0.075,+7.21%,$1.43 B,"+1,789.83%"
+205,IPH,IPH Ltd,$6.59,+0.08,+1.23%,$1.42 B,-16.58%
+206,GOLD,ETFs Metal Securities Australia Ltd,$251.82,-0.07,-0.03%,$1.42 B,+22.58%
+207,FCL,Fineos Corporation Holdings Plc,$4.62,+0.1,+2.21%,$1.39 B,+51.97%
+208,AVN,Aventus Group,$2.45,+0.02,+0.82%,$1.39 B,-11.87%
+209,BKL,Blackmores Ltd,$71.80,+1.24,+1.76%,$1.39 B,-15.20%
+210,TLT,Tilt Renewables Ltd,$3.66,+0.02,+0.55%,$1.38 B,+27.73%
+211,VHY,Vanguard Australian Shares High Yield ETF,$51.95,+0.89,+1.74%,$1.36 B,-13.70%
+212,HUB,HUB24 Ltd,$21.00,-0.35,-1.64%,$1.33 B,+69.63%
+213,NUF,Nufarm Ltd,$3.49,+0.09,+2.65%,$1.33 B,-41.64%
+214,JHG,Janus Henderson Group Plc,$35.47,+0.5,+1.43%,$1.32 B,+3.59%
+215,SLK,Sealink Travel Group Ltd,$5.95,+0.09,+1.54%,$1.30 B,+13.99%
+216,CEN,Contact Energy Ltd,$6.95,+0.05,+0.73%,$1.29 B,-3.07%
+217,EVT,Event Hospitality and Entertainment Ltd,$8.00,+0.05,+0.63%,$1.29 B,-38.41%
+218,QUAL,Vaneck Vectors MSCI World Ex Australia Quality ETF,$32.44,+0.35,+1.09%,$1.28 B,+12.29%
+219,CCP,Credit Corp Group Ltd,$19.00,+1.33,+7.53%,$1.28 B,-41.25%
+220,WEB,Webjet Ltd,$3.77,+0.3,+8.65%,$1.28 B,-55.12%
+221,MXT,MCP Master Income Trust,$1.98,+0.01,+0.51%,$1.27 B,-3.57%
+222,AUB,AUB Group Ltd,$16.96,+0.27,+1.62%,$1.26 B,+36.44%
+223,CNI,Centuria Capital Group,$2.29,+0.02,+0.88%,$1.23 B,+5.16%
+224,MVW,Vaneck Vectors Australian EQUAL Weight ETF,$28.42,+0.67,+2.41%,$1.23 B,-9.20%
+225,GOR,Gold Road Resources Ltd,$1.39,+0.065,+4.91%,$1.22 B,+17.30%
+226,UMG,United Malt Group Ltd,$4.08,-0.03,-0.73%,$1.22 B,-0.49%
+227,TPW,Temple & Webster Group Ltd,$10.00,-0.06,-0.60%,$1.20 B,+358.72%
+228,NDQ,Betashares Nasdaq 100 ETF,$26.10,-0.08,-0.31%,$1.18 B,+30.05%
+229,OCL,Objective Corporation Ltd,$12.53,-0.47,-3.62%,$1.17 B,+180.94%
+230,-,ISX,Isignthis Ltd,$1.07,0.00,0.00%,$1.17 B
+231,ZIM,Zimplats Holdings Ltd,$10.89,-0.04,-0.37%,$1.17 B,+0.83%
+232,NEA,Nearmap Ltd,$2.33,+0.08,+3.56%,$1.14 B,-10.04%
+233,CKF,Collins Foods Ltd,$9.74,+0.17,+1.78%,$1.14 B,-2.60%
+234,WGX,Westgold Resources Ltd,$2.68,+0.11,+4.28%,$1.13 B,+9.84%
+235,VGAD,Vanguard MSCI INDEX International Shares (Hedged) ETF,$73.34,+1.11,+1.54%,$1.12 B,+1.68%
+236,RBL,Redbubble Ltd,$4.09,-0.05,-1.21%,$1.11 B,+114.14%
+237,WHC,Whitehaven Coal Ltd,$1.07,+0.05,+4.90%,$1.10 B,-67.77%
+238,-,RBD,Restaurant Brands New Zealand Ltd,$8.80,0.00,0.00%,$1.10 B
+239,GUD,G.U.D. Holdings Ltd,$12.58,+0.12,+0.96%,$1.09 B,+14.57%
+240,BGA,Bega Cheese Ltd,$5.03,+0.01,+0.20%,$1.08 B,+34.49%
+241,EML,EML Payments Ltd,$2.98,+0.06,+2.06%,$1.08 B,-25.88%
+242,ING,Inghams Group Ltd,$2.88,-0.02,-0.69%,$1.07 B,-9.15%
+243,CRN,Coronado Global Resources Inc,$0.77,+0.065,+9.22%,$1.07 B,-66.37%
+244,COF,Centuria Office REIT,$2.07,+0.02,+0.98%,$1.07 B,-30.77%
+245,LIC,Lifestyle Communities Ltd,$10.17,+0.04,+0.40%,$1.06 B,+21.07%
+246,CQE,Charter Hall Social Infrastructure REIT,$2.90,+0.05,+1.75%,$1.05 B,-21.20%
+247,BKI,BKI Investment Company Ltd,$1.40,+0.01,+0.72%,$1.03 B,-15.66%
+248,MAQ,Macquarie Telecom Group Ltd,$47.50,-0.42,-0.88%,$1.01 B,+103.17%
+249,CUV,Clinuvel Pharmaceuticals Ltd,$20.30,+0.37,+1.86%,$1.00 B,-34.77%
+250,AUI,Australian United Investment Company Ltd,$8.01,+0.05,+0.63%,$999.67 M,-16.13%
+251,ASB,Austal Ltd,$2.78,+0.12,+4.51%,$999.57 M,-36.09%
+252,WLE,Wam Leaders Ltd,$1.19,+0.02,+1.71%,$994.98 M,+0.85%
+253,BGL,Bellevue Gold Ltd,$1.165,-0.015,-1.27%,$978.48 M,+115.74%
+254,GEM,G8 Education Ltd,$1.16,+0.01,+0.87%,$970.57 M,-55.56%
+255,NWH,NRW Holdings Ltd,$2.25,+0.07,+3.21%,$960.04 M,-11.77%
+256,PNI,Pinnacle Investment Management Group Ltd,$5.12,+0.18,+3.64%,$958.63 M,+4.07%
+257,HMC,Home Consortium,$3.70,+0.02,+0.54%,$951.74 M,-5.37%
+258,LSF,L1 Long Short Fund Ltd,$1.505,+0.045,+3.08%,$947.16 M,-5.35%
+259,MHH,Magellan High Conviction Trust,$1.535,+0.035,+2.33%,$942.06 M,-8.36%
+260,CHN,Chalice Gold Mines Ltd,$3.01,+0.2,+7.12%,$929.05 M,"+1,405.00%"
+261,PLS,Pilbara Minerals Ltd,$0.415,+0.015,+3.75%,$924.25 M,+9.21%
+262,ARF,Arena REIT,$2.71,+0.03,+1.12%,$924.22 M,-7.51%
+263,-,IFN,Infigen Energy,$0.93,0.00,0.00%,$902.80 M
+264,AX1,Accent Group Ltd,$1.665,+0.045,+2.78%,$902.21 M,+8.47%
+265,NHC,New Hope Corporation Ltd,$1.08,+0.025,+2.37%,$898.95 M,-52.00%
+266,DUI,Diversified United Investment Ltd,$4.23,+0.01,+0.24%,$898.74 M,-10.76%
+267,DTL,Data#3 Ltd,$5.83,-0.07,-1.19%,$897.67 M,+70.97%
+268,MND,Monadelphous Group Ltd,$9.48,+0.32,+3.49%,$897.58 M,-40.00%
+269,RSG,Resolute Mining Ltd,$0.805,+0.01,+1.26%,$888.63 M,-35.86%
+270,HM1,Hearts and Minds Investments Ltd,$3.93,+0.01,+0.26%,$884.25 M,+31.44%
+271,WAF,West African Resources Ltd,$1.005,+0.07,+7.49%,$880.49 M,+99.01%
+272,PSI,PSC Insurance Group Ltd,$2.99,+0.09,+3.10%,$873.93 M,+7.17%
+273,NWS,News Corporation,$18.72,+0.31,+1.68%,$872.54 M,-9.48%
+274,SM1,Synlait Milk Ltd,$4.82,-0.08,-1.63%,$864.54 M,-44.98%
+275,LEP,Ale Property Group,$4.35,+0.01,+0.23%,$860.47 M,-18.84%
+276,OBL,Omni Bridgeway Ltd,$3.36,+0.02,+0.60%,$853.64 M,-2.33%
+277,ORE,Orocobre Ltd,$2.48,+0.03,+1.22%,$853.23 M,-9.82%
+278,HBRD,Betashares Active Australian Hybrids Fund (Managed Fund),$10.13,+0.02,+0.20%,$850.04 M,-0.59%
+279,ETHI,Betashares Global Sustainability Leaders ETF,$10.10,+0.05,+0.50%,$846.86 M,+10.14%
+280,A200,Betashares Australia 200 ETF,$101.73,+1.99,+2.00%,$837.93 M,-9.02%
+281,SSM,Service Stream Ltd,$2.04,+0.055,+2.77%,$835.91 M,-21.24%
+282,-,FNP,Freedom Foods Group Ltd,$3.01,0.00,0.00%,$834.10 M
+283,IDX,Integral Diagnostics Ltd,$4.18,+0.06,+1.46%,$829.92 M,+18.08%
+284,EOS,Electro Optic Systems Holdings Ltd,$5.47,+0.1,+1.86%,$818.20 M,-23.17%
+285,RFF,Rural Funds Group,$2.40,+0.03,+1.27%,$812.06 M,+38.73%
+286,-,NBI,NB Global Corporate Income Trust,$1.81,0.00,0.00%,$806.97 M
+287,LOV,Lovisa Holdings Ltd,$7.50,+0.24,+3.31%,$805.95 M,-44.65%
+288,-,GNC,Graincorp Ltd,$3.52,0.00,0.00%,$805.57 M
+289,PGH,Pact Group Holdings Ltd,$2.32,+0.02,+0.87%,$798.07 M,-7.94%
+290,VG1,Vgi Partners Global Investments Ltd,$1.96,+0.04,+2.08%,$796.41 M,-12.89%
+291,-,OCA,Oceania Healthcare Ltd,$1.27,0.00,0.00%,$795.45 M
+292,MGX,Mount Gibson Iron Ltd,$0.67,+0.01,+1.52%,$794.56 M,-13.55%
+293,AKP,Audio Pixels Holdings Ltd,$27.63,+0.63,+2.33%,$792.94 M,+58.07%
+294,KMD,Kathmandu Holdings Ltd,$1.115,+0.035,+3.24%,$790.54 M,-46.95%
+295,-,BGP,Briscoe Group Australasia Ltd,$3.50,0.00,0.00%,$777.77 M
+296,OML,Ooh!Media Ltd,$1.305,+0.03,+2.35%,$772.28 M,-43.05%
+297,KKC,KKR Credit Income Fund,$2.07,+0.02,+0.98%,$765.90 M,-16.53%
+298,IEM,Ishares MSCI Emerging Markets ETF,$64.65,+0.86,+1.35%,$760.40 M,+2.78%
+299,HSN,Hansen Technologies Ltd,$3.77,-0.03,-0.79%,$749.49 M,+6.80%
+300,PRN,Perenti Global Ltd,$1.065,+0.055,+5.45%,$747.63 M,-54.29%
+301,ALK,Alkane Resources Ltd,$1.255,+0.02,+1.62%,$747.21 M,+83.40%
+302,IXJ,Ishares Global Healthcare ETF,$98.86,+0.92,+0.94%,$745.76 M,+6.19%
+303,-,HGH,Heartland Group Holdings Ltd,$1.275,0.00,0.00%,$743.86 M
+304,TGR,Tassal Group Ltd,$3.51,-0.02,-0.57%,$741.78 M,-17.61%
+305,OPT,Opthea Ltd,$2.19,-0.01,-0.46%,$739.49 M,-34.04%
+306,SFR,Sandfire Resources Ltd,$4.13,-0.31,-6.98%,$736.18 M,-30.82%
+307,MMS,Mcmillan Shakespeare Ltd,$9.49,+0.22,+2.37%,$734.35 M,-40.80%
+308,BVS,Bravura Solutions Ltd,$2.97,+0.09,+3.13%,$734.08 M,-28.09%
+309,-,IAP,Investec Australia Property Fund,$1.20,0.00,0.00%,$733.56 M
+310,-,VAH,Virgin Australia Holdings Ltd,$0.086,0.00,0.00%,$726.29 M
+311,-,QPON,Betashares Australian Bank Senior Floating Rate Bond ETF,$26.13,0.00,0.00%,$721.90 M
+312,GWA,GWA Group Ltd,$2.73,+0.07,+2.63%,$721.26 M,-7.77%
+313,GMA,Genworth Mortgage Insurance Australia Ltd,$1.70,+0.005,+0.30%,$701.27 M,-56.19%
+314,JIN,Jumbo Interactive Ltd,$11.20,+0.45,+4.19%,$699.43 M,-45.39%
+315,SIQ,Smartgroup Corporation Ltd,$5.26,-0.09,-1.68%,$698.64 M,-53.78%
+316,OPC,Opticomm Ltd,$6.69,-0.03,-0.45%,$696.26 M,+66.42%
+317,JLG,Johns LYNG Group Ltd,$3.07,+0.01,+0.33%,$687.38 M,+64.17%
+318,SHV,Select Harvests Ltd,$5.74,-0.34,-5.59%,$687.19 M,-20.64%
+319,AAC,Australian Agricultural Company Ltd,$1.125,+0.015,+1.35%,$678.11 M,+12.50%
+320,SZL,Sezzle Inc,$6.62,+0.22,+3.44%,$671.71 M,+156.59%
+321,NCK,Nick Scali Ltd,$8.29,+0.1,+1.22%,$671.49 M,+35.24%
+322,FAIR,Betashares Australian Sustainability Leaders ETF,$17.48,+0.05,+0.29%,$670.32 M,-3.80%
+323,IAA,Ishares Asia 50 ETF,$108.22,+2.24,+2.11%,$647.09 M,+18.75%
+324,ADH,Adairs Ltd,$3.80,+0.15,+4.11%,$642.49 M,+108.79%
+325,-,OPH,Ophir High Conviction Fund,$3.20,0.00,0.00%,$640.00 M
+326,AGG,Anglogold Ashanti Ltd,$7.15,+0.59,+8.99%,$637.84 M,+14.22%
+327,MICH,Magellan Infrastructure Fund (Currency Hedged)(Managed Fund),$2.73,+0.06,+2.25%,$634.90 M,-16.77%
+328,URW,Unibail-Rodamco-Westfield,$2.87,-0.07,-2.38%,$633.69 M,-74.26%
+329,SFY,SPDR S&P/ASX 50 Fund,$53.75,+1.1,+2.09%,$630.04 M,-12.35%
+330,CIN,Carlton Investments Ltd,$23.55,-0.1,-0.42%,$623.48 M,-25.85%
+331,PAR,Paradigm Biopharmaceuticals Ltd,$2.75,-0.03,-1.08%,$621.11 M,-3.17%
+332,-,IRI,Integrated Research Ltd,$3.47,0.00,0.00%,$597.45 M
+333,CCX,City Chic Collective Ltd,$2.61,+0.08,+3.16%,$596.81 M,-3.33%
+334,NTO,Nitro Software Ltd,$3.13,+0.02,+0.64%,$595.80 M,+105.92%
+335,CMM,Capricorn Metals Ltd,$1.72,+0.065,+3.93%,$591.64 M,+56.36%
+336,MOE,Moelis Australia Ltd,$3.90,-0.03,-0.76%,$589.45 M,-9.30%
+337,UWL,Uniti Group Ltd,$1.18,+0.02,+1.72%,$588.51 M,-20.29%
+338,GDI,GDI Property Group,$1.08,+0.015,+1.41%,$585.39 M,-30.10%
+339,DJW,Djerriwarrh Investments Ltd,$2.59,+0.02,+0.78%,$582.14 M,-28.26%
+340,VGB,Vanguard Australian Government Bond INDEX ETF,$53.99,+0.23,+0.43%,$577.65 M,+1.37%
+341,360,LIFE360 Inc,$3.85,+0.09,+2.39%,$573.14 M,+7.54%
+342,IFM,Infomedia Ltd,$1.525,+0.015,+0.99%,$572.21 M,-33.41%
+343,GXY,Galaxy Resources Ltd,$1.39,+0.015,+1.09%,$569.18 M,+29.91%
+344,BILL,Ishares Core Cash ETF,$100.28,+0.01,+0.01%,$564.66 M,+0.01%
+345,AFG,Australian Finance Group Ltd,$2.10,+0.135,+6.87%,$563.60 M,-21.26%
+346,RMC,Resimac Group Ltd,$1.365,+0.005,+0.37%,$556.59 M,+40.72%
+347,CDV,Cardinal Resources Ltd,$1.03,+0.01,+0.98%,$554.01 M,+174.67%
+348,-,ERA,Energy Resources of Australia Ltd,$0.15,0.00,0.00%,$553.71 M
+349,AD8,Audinate Group Ltd,$7.27,+0.17,+2.39%,$553.02 M,-3.71%
+350,SIG,Sigma Healthcare Ltd,$0.52,+0.005,+0.97%,$550.87 M,-22.39%
+351,AMA,AMA Group Ltd,$0.75,-0.01,-1.32%,$550.43 M,-45.06%
+352,VIF,Vanguard International Fixed Interest INDEX (Hedged) ETF,$49.44,+0.02,+0.04%,$547.14 M,-2.68%
+353,BRN,Brainchip Holdings Ltd,$0.34,+0.005,+1.49%,$545.82 M,+608.33%
+354,TLX,TELIX Pharmaceuticals Ltd,$2.14,-0.02,-0.93%,$543.44 M,+34.17%
+355,API,Australian Pharmaceutical Industries Ltd,$1.10,+0.015,+1.38%,$541.92 M,-19.41%
+356,-,RED,RED 5 Ltd,$0.275,0.00,0.00%,$541.91 M
+357,-,ABY,Adore Beauty Group Ltd,$5.75,0.00,0.00%,$541.22 M
+358,WSA,Western Areas Ltd,$1.955,+0.065,+3.44%,$537.76 M,-37.74%
+359,BBN,Baby Bunting Group Ltd,$4.16,+0.06,+1.46%,$537.70 M,+7.77%
+360,PYC,PYC Therapeutics Ltd,$0.17,+0.005,+3.03%,$533.60 M,+205.84%
+361,SPL,Starpharma Holdings Ltd,$1.32,-0.03,-2.22%,$532.54 M,+11.86%
+362,AQZ,Alliance Aviation Services Ltd,$3.31,+0.07,+2.16%,$531.13 M,+33.47%
+363,FGG,Future Generation Global Investment Company Ltd,$1.35,+0.03,+2.27%,$530.48 M,+5.88%
+364,AHY,Asaleo Care Ltd,$0.975,-0.005,-0.51%,$529.54 M,+2.63%
+365,JMS,Jupiter Mines Ltd,$0.27,-0.02,-6.90%,$528.93 M,-16.92%
+366,RDC,Redcape Hotel Group,$0.95,+0.01,+1.06%,$524.59 M,-11.22%
+367,IHVV,Ishares S&P 500 Aud Hedged ETF,$395.60,+5.25,+1.35%,$522.68 M,+2.98%
+368,ADI,Apn Industria REIT,$2.64,+0.01,+0.38%,$521.47 M,-10.51%
+369,MAH,Macmahon Holdings Ltd,$0.24,-0.005,-2.04%,$517.20 M,+14.29%
+370,BWX,BWX Ltd,$3.70,-0.1,-2.63%,$516.31 M,-7.27%
+371,PPC,Peet Ltd,$1.065,+0.015,+1.43%,$514.72 M,-11.25%
+372,MMM,Marley Spoon AG,$2.49,+0.13,+5.51%,$514.56 M,+492.86%
+373,-,COE,Cooper Energy Ltd,$0.315,0.00,0.00%,$512.39 M
+374,CSX,Cleanspace Holdings Ltd,$6.65,-0.1,-1.48%,$512.18 M,-10.38%
+375,EQT,EQT Holdings Ltd,$24.50,+0.02,+0.08%,$512.05 M,-19.94%
+376,SLF,SPDR S&P/ASX 200 Listed Property Fund,$11.22,+0.24,+2.19%,$509.95 M,-21.54%
+377,MYX,Mayne Pharma Group Ltd,$0.30,+0.005,+1.70%,$503.72 M,-41.75%
+378,PGG,Partners Group Global Income Fund,$1.82,+0.03,+1.68%,$500.68 M,-10.78%
+379,VDHG,Vanguard Diversified High Growth INDEX ETF,$53.15,+0.74,+1.41%,$498.85 M,-5.26%
+380,AFP,Aft Pharmaceuticals Ltd,$4.81,+0.13,+2.78%,$498.78 M,+71.79%
+381,IEU,Ishares Europe ETF,$57.50,+1.18,+2.10%,$498.36 M,-12.00%
+382,SKO,Serko Ltd,$4.61,+0.05,+1.10%,$496.04 M,+3.36%
+383,ECX,Eclipx Group Ltd,$1.535,+0.095,+6.60%,$490.64 M,-7.25%
+384,LME,"Limeade, Inc",$1.98,+0.1,+5.32%,$485.07 M,+7.03%
+385,HPI,Hotel Property Investments,$3.07,+0.01,+0.33%,$484.31 M,-4.95%
+386,IMD,IMDEX Ltd,$1.21,+0.025,+2.11%,$479.71 M,-23.42%
+387,VGI,VGI Partners Ltd,$6.85,+0.48,+7.54%,$477.99 M,-54.64%
+388,APL,Antipodes Global Investment Company Ltd,$0.985,+0.01,+1.03%,$477.90 M,+4.79%
+389,FXL,Flexigroup Ltd,$0.96,+0.04,+4.35%,$475.46 M,-50.14%
+390,ELO,Elmo Software Ltd,$5.50,+0.1,+1.85%,$475.29 M,-15.39%
+391,SGF,SG Fleet Group Ltd,$1.795,+0.105,+6.21%,$470.58 M,-23.94%
+392,AEF,Australian Ethical Investment Ltd,$4.13,-0.15,-3.51%,$464.16 M,+41.92%
+393,-,MIR,Mirrabooka Investments Ltd,$2.85,0.00,0.00%,$462.67 M
+394,CWP,Cedar Woods Properties Ltd,$5.73,+0.14,+2.50%,$462.66 M,-18.84%
+395,PWH,PWR Holdings Ltd,$4.60,+0.02,+0.44%,$460.83 M,-3.77%
+396,WHF,Whitefield Ltd,$4.80,-0.01,-0.21%,$460.76 M,-6.62%
+397,PL8,Plato Income Maximiser Ltd,$1.075,+0.005,+0.47%,$460.57 M,-7.73%
+398,FGX,Future Generation Investment Company Ltd,$1.14,+0.01,+0.89%,$456.39 M,+0.89%
+399,WGB,Wam Global Ltd,$2.13,+0.02,+0.95%,$453.08 M,+0.47%
+400,SSR,SSR Mining Inc,$27.60,+1.3,+4.94%,$447.39 M,-10.27%
+401,SXY,SENEX Energy Ltd,$0.305,+0.02,+7.02%,$445.32 M,-14.09%
+402,FSF,Fonterra Shareholders' Fund,$4.20,-0.07,-1.64%,$444.14 M,+9.09%
+403,CGL,The Citadel Group Ltd,$5.64,+0.01,+0.18%,$443.93 M,+58.87%
+404,AVH,"Avita Therapeutics, Inc",$5.80,+0.17,+3.02%,$443.66 M,-56.39%
+405,VRL,Village Roadshow Ltd,$2.27,+0.03,+1.34%,$443.33 M,-29.28%
+406,VG8,Vgi Partners Asian Investments Ltd,$1.99,+0.005,+0.25%,$443.01 M,-14.22%
+407,PAI,Platinum Asia Investments Ltd,$1.20,+0.005,+0.42%,$437.53 M,+21.21%
+408,KAR,Karoon Energy Ltd,$0.78,+0.025,+3.31%,$431.71 M,-19.59%
+409,MNY,MONEY3 Corporation Ltd,$2.32,+0.05,+2.20%,$429.86 M,+13.73%
+410,BBOZ,Betashares Australian Strong Bear (Hedge Fund),$7.79,-0.39,-4.77%,$429.62 M,-20.75%
+411,MCR,Mincor Resources NL,$0.995,+0.1,+11.17%,$429.16 M,+47.41%
+412,SXL,Southern Cross Media Group Ltd,$0.16,-0.01,-5.88%,$422.74 M,-81.61%
+413,SPT,Splitit Payments Ltd,$1.25,-0.02,-1.58%,$422.67 M,+25.63%
+414,PPK,PPK Group Ltd,$4.91,-0.61,-11.05%,$421.64 M,-6.65%
+415,HT1,HT&E Ltd,$1.50,+0.05,+3.45%,$419.59 M,-9.37%
+416,CRED,Betashares Australian Investment Grade Corporate Bond ETF,$27.88,+0.1,+0.36%,$419.57 M,+1.12%
+417,BTH,Bigtincan Holdings Ltd,$1.10,+0.02,+1.85%,$416.49 M,+59.42%
+418,ASM,Australian Strategic Materials Ltd,$3.49,+0.14,+4.18%,$415.48 M,+149.29%
+419,PCI,Perpetual Credit Income Trust,$1.035,+0.005,+0.49%,$414.35 M,-8.00%
+420,STX,Strike Energy Ltd,$0.24,+0.005,+2.13%,$412.90 M,+6.67%
+421,GDX,Vaneck Vectors Gold Miners ETF,$54.95,+1.03,+1.91%,$412.84 M,+35.45%
+422,FDV,Frontier Digital Ventures Ltd,$1.22,+0.035,+2.95%,$411.96 M,+57.60%
+423,AMI,Aurelia Metals Ltd,$0.47,+0.02,+4.44%,$410.77 M,-7.84%
+424,AQR,Apn Convenience Retail REIT,$3.63,+0.08,+2.25%,$410.45 M,+5.52%
+425,PLL,Piedmont Lithium Ltd,$0.295,+0.015,+5.36%,$408.93 M,+180.95%
+426,PWG,Primewest,$1.17,-0.01,-0.85%,$408.49 M,-0.85%
+427,LTR,Liontown Resources Ltd,$0.235,+0.01,+4.44%,$408.15 M,+123.81%
+428,EHL,Emeco Holdings Ltd,$0.75,+0.015,+2.04%,$408.04 M,-51.91%
+429,ADT,Adriatic Metals Plc,$2.31,+0.01,+0.44%,$405.85 M,+121.05%
+430,BFG,Bell Financial Group Ltd,$1.255,+0.015,+1.21%,$402.53 M,+25.50%
+431,BUB,Bubs Australia Ltd,$0.645,+0.015,+2.38%,$395.24 M,-41.36%
+432,GCI,Gryphon Capital Income Trust,$1.91,+0.005,+0.26%,$393.70 M,-5.56%
+433,VGE,Vanguard Ftse Emerging Markets Shares ETF,$70.27,+0.73,+1.05%,$392.02 M,+1.66%
+434,RF1,Regal Investment Fund,$3.46,+0.05,+1.47%,$389.98 M,+26.74%
+435,VACF,Vanguard Australian Corp Fixed Interest INDEX ETF,$53.81,+0.09,+0.17%,$389.17 M,+1.05%
+436,VSO,Vanguard MSCI Australian Small Companies INDEX ETF,$58.45,+1.58,+2.78%,$388.20 M,-2.57%
+437,ARX,Aroa Biosurgery Ltd,$1.285,+0.02,+1.58%,$385.60 M,-4.82%
+438,MNF,MNF Group Ltd,$4.54,+0.06,+1.34%,$383.52 M,-14.34%
+439,TBR,Tribune Resources Ltd,$7.15,+0.15,+2.14%,$375.15 M,-11.73%
+440,MYS,Mystate Ltd,$4.07,+0.02,+0.49%,$374.57 M,-14.50%
+441,NVX,Novonix Ltd,$1.065,+0.04,+3.90%,$374.47 M,+152.95%
+442,UOS,United Overseas Australia Ltd,$0.77,+0.005,+0.65%,$370.56 M,-7.23%
+443,CVN,Carnarvon Petroleum Ltd,$0.235,+0.01,+4.44%,$367.75 M,-36.49%
+444,PGF,PM Capital Global Opportunities Fund Ltd,$1.025,+0.025,+2.50%,$364.76 M,-10.09%
+445,PMC,Platinum Capital Ltd,$1.245,+0.015,+1.22%,$362.82 M,-19.16%
+446,WSP,Whispir Ltd,$3.47,+0.07,+2.06%,$361.79 M,+90.14%
+447,VRT,Virtus Health Ltd,$4.49,+0.19,+4.42%,$360.95 M,+4.66%
+448,MVP,Medical Developments International Ltd,$5.50,+0.26,+4.96%,$360.93 M,-9.69%
+449,4DX,4DMEDICAL Ltd,$2.17,-0.03,-1.36%,$360.11 M,+36.48%
+450,IVE,Ishares MSCI Eafe ETF,$89.18,+1.48,+1.69%,$359.17 M,-9.29%
+451,QAU,Betashares Gold Bullion ETF - Currency Hedged,$18.00,+0.1,+0.56%,$351.11 M,+17.80%
+452,PIC,Perpetual Equity Investment Company Ltd,$1.005,+0.005,+0.50%,$350.43 M,-1.47%
+453,EHE,Estia Health Ltd,$1.335,+0.06,+4.71%,$348.83 M,-53.81%
+454,MVA,Vaneck Vectors Australian Property ETF,$20.55,+0.68,+3.42%,$345.23 M,-20.41%
+455,-,QRI,Qualitas Real Estate Income Fund,$1.52,0.00,0.00%,$342.75 M
+456,AOF,Australian Unity Office Fund,$2.10,+0.05,+2.44%,$341.95 M,-30.23%
+457,ABB,Aussie Broadband Ltd,$1.785,-0.02,-1.11%,$339.76 M,-6.55%
+458,SGLLV,Ricegrowers Ltd,$5.58,-0.01,-0.18%,$339.21 M,+44.94%
+459,PPS,Praemium Ltd,$0.68,+0.045,+7.09%,$336.02 M,+2.26%
+460,GGG,Greenland Minerals Ltd,$0.28,+0.01,+3.70%,$335.27 M,+166.67%
+461,DTC,Damstra Holdings Ltd,$1.805,+0.045,+2.56%,$335.15 M,+66.36%
+462,-,LEG,Legend Mining Ltd,$0.125,0.00,0.00%,$334.78 M
+463,IHCB,Ishares Core Global Corporate Bond(Aud Hedged) ETF,$112.21,+0.36,+0.32%,$333.49 M,+1.74%
+464,MOT,MCP Income Opportunities Trust,$1.91,-0.005,-0.26%,$330.90 M,-9.05%
+465,TUA,Tuas Ltd,$0.71,-0.04,-5.33%,$329.38 M,+5.19%
+466,-,SLC,Superloop Ltd,$0.90,0.00,0.00%,$329.28 M
+467,WPP,WPP AUNZ Ltd,$0.385,-0.015,-3.75%,$328.08 M,-25.24%
+468,ALI,Argo Global Listed Infrastructure Ltd,$2.12,+0.02,+0.95%,$324.72 M,-9.20%
+469,REG,Regis Healthcare Ltd,$1.075,+0.035,+3.37%,$323.34 M,-66.09%
+470,PIA,Pengana International Equities Ltd,$1.27,-0.03,-2.31%,$323.21 M,+15.98%
+471,ASIA,Betashares Asia Technology Tigers ETF,$10.74,+0.1,+0.94%,$322.63 M,+62.73%
+472,CAT,Catapult Group International Ltd,$1.685,+0.03,+1.81%,$321.66 M,+18.25%
+473,RHP,Rhipe Ltd,$1.995,-0.025,-1.24%,$321.46 M,-30.00%
+474,WMI,Wam Microcap Ltd,$1.55,+0.035,+2.31%,$320.38 M,+7.64%
+475,VGL,Vista Group International Ltd,$1.40,+0.01,+0.72%,$320.06 M,-59.16%
+476,VHT,Volpara Health Technologies Ltd,$1.275,-0.005,-0.39%,$319.79 M,-33.59%
+477,ILC,Ishares S&P/ASX 20 ETF,$23.04,+0.45,+1.99%,$319.78 M,-9.93%
+478,CBR,Carbon Revolution Ltd,$2.39,-0.1,-4.02%,$319.08 M,-30.73%
+479,ERD,Eroad Ltd,$3.89,+0.04,+1.04%,$318.56 M,-2.75%
+480,BLX,Beacon Lighting Group Ltd,$1.41,-0.04,-2.76%,$314.88 M,+12.35%
+481,ALG,Ardent Leisure Group Ltd,$0.655,+0.03,+4.80%,$314.21 M,-45.87%
+482,MYD,Mydeal.com.Au Ltd,$1.21,+0.03,+2.54%,$313.18 M,-30.86%
+483,PIXX,Platinum International Fund (Quoted Managed Hedge Fund),$4.36,+0.06,+1.40%,$312.06 M,-7.23%
+484,EMR,Emerald Resources NL,$0.60,-0.01,-1.64%,$309.24 M,+46.34%
+485,NEW,NEW Energy Solar,$0.86,+0.02,+2.38%,$305.53 M,-28.33%
+486,INR,Ioneer Ltd,$0.18,-0.005,-2.70%,$302.79 M,-29.41%
+487,-,OFX,OFX Group Ltd,$1.24,0.00,0.00%,$302.40 M
+488,DJRE,SPDR Dow Jones Global Real Estate Fund,$18.18,+0.35,+1.96%,$300.23 M,-26.49%
+489,-,SST,Steamships Trading Company Ltd,$9.65,0.00,0.00%,$299.23 M
+490,-,ADN,Andromeda Metals Ltd,$0.16,0.00,0.00%,$298.44 M
+491,ASG,Autosports Group Ltd,$1.48,-0.045,-2.95%,$297.48 M,-15.43%
+492,PAC,Pacific Current Group Ltd,$5.85,-0.03,-0.51%,$297.29 M,-19.86%
+493,HUO,Huon Aquaculture Group Ltd,$2.68,-0.03,-1.11%,$294.46 M,-40.97%
+494,SO4,Salt Lake Potash Ltd,$0.50,+0.02,+4.17%,$292.66 M,-36.29%
+495,PPE,People Infrastructure Ltd,$3.20,+0.06,+1.91%,$292.37 M,-3.32%
+496,-,PSQ,Pacific Smiles Group Ltd,$1.90,0.00,0.00%,$291.68 M
+497,DUB,Dubber Corporation Ltd,$1.215,+0.045,+3.85%,$291.62 M,-2.41%
+498,-,TLG,Talga Resources Ltd,$1.10,0.00,0.00%,$290.53 M
+499,SDG,Sunland Group Ltd,$2.12,+0.07,+3.42%,$290.25 M,+32.92%
+500,PE1,Pengana Private Equity Trust,$1.21,+0.03,+2.54%,$289.55 M,-9.05%
+501,EGD,Evans & Partners Global Disruption Fund,$2.88,+0.06,+2.13%,$288.80 M,+33.95%
+502,BSE,Base Resources Ltd,$0.245,+0.005,+2.08%,$288.61 M,+4.26%
+503,VDBA,Vanguard Diversified Balanced INDEX ETF,$54.30,+0.39,+0.72%,$282.46 M,-3.21%
+504,WAX,Wam Research Ltd,$1.45,+0.02,+1.40%,$282.38 M,+1.05%
+505,VDGR,Vanguard Diversified Growth INDEX ETF,$53.54,+0.55,+1.04%,$282.05 M,-4.27%
+506,CLV,Clover Corporation Ltd,$1.69,+0.01,+0.60%,$281.06 M,-46.35%
+507,IJP,Ishares MSCI Japan ETF,$84.44,+0.61,+0.73%,$280.47 M,-1.62%
+508,BBUS,Betashares US Equities Strong Bear Currency Hedged (HF),$2.10,-0.07,-3.23%,$280.19 M,-38.42%
+509,FLOT,Vaneck Vectors Australian Floating Rate ETF,$25.11,+0.005,+0.02%,$279.79 M,+0.24%
+510,GRR,Grange Resources Ltd,$0.24,+0.005,+2.13%,$277.76 M,+14.29%
+511,PFP,Propel Funeral Partners Ltd,$2.81,+0.04,+1.44%,$277.45 M,-9.36%
+512,AMH,Amcil Ltd,$0.99,+0.03,+3.13%,$277.20 M,+7.61%
+513,SWM,Seven West Media Ltd,$0.18,+0.005,+2.86%,$276.85 M,-58.62%
+514,HLO,Helloworld Travel Ltd,$1.775,+0.1,+5.97%,$275.17 M,-59.46%
+515,ABR,American Pacific Borates Ltd,$0.86,+0.025,+2.99%,$274.70 M,+177.42%
+516,IMR,"Imricor Medical Systems, Inc",$2.68,-0.11,-3.94%,$274.57 M,+139.29%
+517,-,MCP,Mcpherson's Ltd,$2.20,0.00,0.00%,$272.88 M
+518,CL1,Class Ltd,$2.19,+0.1,+4.79%,$271.03 M,+14.06%
+519,OBM,Ora Banda Mining Ltd,$0.32,+0.025,+8.48%,$268.29 M,+90.10%
+520,-,PNR,Pantoro Ltd,$0.19,0.00,0.00%,$267.60 M
+521,RIC,Ridley Corporation Ltd,$0.835,+0.01,+1.21%,$266.55 M,-26.43%
+522,GSS,Genetic Signatures Ltd,$1.86,-0.01,-0.54%,$265.68 M,+93.75%
+523,TNT,Tesserent Ltd,$0.33,+0.03,+10.00%,$264.83 M,+573.47%
+524,TGG,Templeton Global Growth Fund Ltd,$1.315,-0.005,-0.38%,$260.50 M,+7.35%
+525,IFRA,Vaneck Vectors Ftse Global Infrastructure (Hedged) ETF,$18.97,+0.3,+1.61%,$260.06 M,-13.73%
+526,ZNO,ZOONO Group Ltd,$1.58,-0.01,-0.63%,$258.51 M,+953.33%
+527,HACK,Betashares Global Cybersecurity ETF,$7.26,-0.01,-0.14%,$258.29 M,+2.25%
+528,-,CAJ,Capitol Health Ltd,$0.25,0.00,0.00%,$256.28 M
+529,-,GDF,Garda Property Group,$1.12,0.00,0.00%,$254.96 M
+530,QOZ,Betashares Ftse Rafi Australia 200 ETF,$11.97,+0.26,+2.22%,$254.45 M,-13.76%
+531,BET,Betmakers Technology Group Ltd,$0.42,+0.01,+2.44%,$252.11 M,+189.66%
+532,MHG,Magellan Global Equities Fund Currency Hedged (Managed Fund),$3.54,+0.03,+0.86%,$251.97 M,+4.12%
+533,LBY,Laybuy Group Holdings Ltd,$1.44,+0.01,+0.70%,$251.23 M,-29.76%
+534,WDIV,SPDR S&P Global Dividend Fund,$15.11,+0.21,+1.41%,$250.74 M,-25.90%
+535,XARO,Activex Ardea Real Outcome Bond Fund (Managed Fund),$26.61,-0.05,-0.19%,$250.30 M,+0.64%
+536,YMAX,Betashares Aus Top 20 Equity Yield MAX Fund (Managed Fund),$7.07,+0.09,+1.29%,$249.33 M,-15.83%
+537,CDP,Carindale Property Trust,$3.56,-0.03,-0.84%,$249.20 M,-41.64%
+538,IHD,Ishares S&P/ASX Dividend Opportunities ETF,$12.03,+0.08,+0.67%,$248.13 M,-13.58%
+539,RCB,Russell Investments Australian Select Corporate Bond ETF,$20.85,+0.02,+0.10%,$247.89 M,+0.48%
+540,OTW,Over the Wire Holdings Ltd,$4.37,+0.09,+2.10%,$247.56 M,-7.42%
+541,-,OMH,Om Holdings Ltd,$0.335,0.00,0.00%,$247.44 M
+542,MAU,Magnetic Resources NL,$1.135,-0.04,-3.40%,$245.24 M,+114.15%
+543,WGN,Wagners Holding Company Ltd,$1.31,+0.015,+1.16%,$245.23 M,-28.42%
+544,PLUS,Vaneck Vectors Australian Corporate Bond Plus ETF,$18.80,+0.04,+0.21%,$245.09 M,+1.62%
+545,-,WQG,WCM Global Growth Ltd,$1.40,0.00,0.00%,$244.85 M
+546,RUL,Rpmglobal Holdings Ltd,$1.07,+0.05,+4.90%,$244.68 M,+28.14%
+547,-,PDN,Paladin Energy Ltd,$0.12,0.00,0.00%,$243.35 M
+548,NGI,Navigator Global Investments Ltd,$1.50,+0.05,+3.45%,$243.22 M,-39.02%
+549,IMU,Imugene Ltd,$0.055,-0.001,-1.79%,$242.48 M,+139.13%
+550,MGV,Musgrave Minerals Ltd,$0.51,+0.01,+2.00%,$242.14 M,+589.19%
+551,RDV,Russell Investments High Dividend Australian Shares ETF,$23.92,+0.52,+2.22%,$242.05 M,-20.77%
+552,NVA,Nova Minerals Ltd,$0.155,-0.005,-3.13%,$239.70 M,+318.92%
+553,EOF,Ecofibre Ltd,$1.62,-0.03,-1.82%,$238.89 M,-52.63%
+554,-,SNL,Supply Network Ltd,$5.85,0.00,0.00%,$238.88 M
+555,EZL,EUROZ Ltd,$1.22,-0.035,-2.79%,$238.53 M,+18.45%
+556,CDM,Cadence Capital Ltd,$0.785,+0.01,+1.29%,$236.26 M,+6.80%
+557,RARI,Russell Investments Australian Responsible Investment ETF,$21.09,+0.39,+1.88%,$236.05 M,-18.26%
+558,-,SKT,Sky Network Television Ltd,$0.135,0.00,0.00%,$235.75 M
+559,TRS,The Reject Shop Ltd,$6.09,+0.17,+2.87%,$233.11 M,+132.20%
+560,ANO,Advance Nanotek Ltd,$3.90,+0.05,+1.30%,$232.48 M,-33.80%
+561,-,BCK,Brockman Mining Ltd,$0.025,0.00,0.00%,$231.98 M
+562,-,HE8,Helios Energy Ltd,$0.15,0.00,0.00%,$231.84 M
+563,MVF,Monash Ivf Group Ltd,$0.595,+0.025,+4.39%,$231.83 M,-37.54%
+564,QHAL,Vaneck Vectors MSCI World Ex Australia Quality (Hedged) ETF,$30.82,+0.37,+1.22%,$231.80 M,+10.90%
+565,WDMF,Ishares Edge MSCI World Multifactor ETF,$33.07,+0.57,+1.75%,$229.09 M,-2.28%
+566,-,CVW,Clearview Wealth Ltd,$0.335,0.00,0.00%,$226.06 M
+567,MME,Moneyme Ltd,$1.33,-0.005,-0.38%,$225.36 M,-22.67%
+568,VAE,Vanguard Ftse Asia Ex Japan Shares INDEX ETF,$74.21,+0.89,+1.21%,$224.46 M,+10.71%
+569,-,TWR,Tower Ltd,$0.53,0.00,0.00%,$223.47 M
+570,ABA,Auswide Bank Ltd,$5.24,+0.26,+5.22%,$223.08 M,-4.73%
+571,DGO,DGO Gold Ltd,$3.17,-0.04,-1.25%,$222.05 M,+230.21%
+572,LVT,Livetiles Ltd,$0.245,+0.01,+4.26%,$221.00 M,-19.67%
+573,SRV,Servcorp Ltd,$2.28,-0.06,-2.56%,$220.75 M,-47.71%
+574,M7T,MACH7 Technologies Ltd,$0.94,+0.015,+1.62%,$220.54 M,+46.50%
+575,SFG,Seafarms Group Ltd,$0.091,-0.002,-2.15%,$220.45 M,+9.64%
+576,OPY,Openpay Group Ltd,$2.70,+0.1,+3.85%,$220.05 M,+103.77%
+577,GEAR,Betashares Geared Australian Equity Fund (Hedge Fund),$18.55,+0.72,+4.04%,$219.67 M,-29.82%
+578,WZR,Wisr Ltd,$0.20,+0.01,+5.26%,$219.06 M,+53.85%
+579,USD,Betashares U.S. Dollar ETF,$13.67,-0.07,-0.51%,$218.29 M,-2.36%
+580,QVE,QV Equities Ltd,$0.865,+0.01,+1.17%,$217.73 M,-15.20%
+581,AYS,Amaysim Australia Ltd,$0.735,-0.01,-1.34%,$216.91 M,+93.42%
+582,NZK,New Zealand King Salmon Investments Ltd,$1.56,-0.005,-0.32%,$216.82 M,-26.76%
+583,-,JRV,Jervois Mining Ltd,$0.28,0.00,0.00%,$216.19 M
+584,SVL,Silver Mines Ltd,$0.21,+0.015,+7.69%,$215.56 M,+100.00%
+585,PAN,Panoramic Resources Ltd,$0.105,-0.005,-4.55%,$215.35 M,-67.43%
+586,-,MLD,Maca Ltd,$0.80,0.00,0.00%,$214.41 M
+587,AVJ,Avjennings Ltd,$0.525,+0.025,+5.00%,$213.27 M,-11.77%
+588,FLN,Freelancer Ltd,$0.47,-0.005,-1.05%,$212.10 M,-38.16%
+589,CYL,Catalyst Metals Ltd,$2.55,-0.05,-1.92%,$210.12 M,+0.39%
+590,-,AJM,Altura Mining Ltd,$0.07,0.00,0.00%,$209.04 M
+591,DCN,Dacian Gold Ltd,$0.375,+0.02,+5.63%,$208.69 M,-75.00%
+592,-,3DP,Pointerra Ltd,$0.31,0.00,0.00%,$207.93 M
+593,-,BWR,Blackwall Property Trust,$1.40,0.00,0.00%,$207.92 M
+594,A4N,Alpha Hpa Ltd,$0.305,+0.005,+1.67%,$207.52 M,+103.33%
+595,SVY,Stavely Minerals Ltd,$0.795,+0.015,+1.92%,$207.46 M,-37.40%
+596,ECF,Elanor Commercial Property Fund,$1.01,-0.01,-0.98%,$206.44 M,-17.21%
+597,KSL,Kina Securities Ltd,$0.75,+0.015,+2.04%,$206.40 M,-44.90%
+598,CLQ,Clean TEQ Holdings Ltd,$0.275,+0.01,+3.77%,$205.28 M,+12.25%
+599,SFC,Schaffer Corporation Ltd,$15.07,-0.43,-2.77%,$205.18 M,+5.83%
+600,AVZ,AVZ Minerals Ltd,$0.072,-0.001,-1.37%,$205.09 M,+50.00%
+601,WXOZ,SPDR S&P World Ex Australia Fund,$33.58,+0.24,+0.72%,$204.96 M,+1.54%
+602,-,CVC,CVC Ltd,$1.72,0.00,0.00%,$201.28 M
+603,TIE,Tietto Minerals Ltd,$0.445,+0.02,+4.71%,$200.83 M,+23.61%
+604,MHJ,Michael Hill International Ltd,$0.515,-0.005,-0.96%,$199.74 M,-25.90%
+605,SMR,Stanmore Coal Ltd,$0.73,+0.015,+2.10%,$197.40 M,-25.53%
+606,-,MYR,Myer Holdings Ltd,$0.24,0.00,0.00%,$197.11 M
+607,-,NWSLV,News Corporation,$18.71,0.00,0.00%,$196.23 M
+608,AUT,Auteco Minerals Ltd,$0.125,+0.01,+8.70%,$195.90 M,"+1,150.00%"
+609,VVA,Viva Leisure Ltd,$2.69,+0.09,+3.46%,$192.37 M,+12.27%
+610,FRI,Finbar Group Ltd,$0.705,-0.01,-1.40%,$191.85 M,-18.02%
+611,VBND,Vanguard Global Aggregate Bond INDEX (Hedged) ETF,$53.08,+0.05,+0.09%,$191.07 M,-0.66%
+612,SYR,Syrah Resources Ltd,$0.46,+0.02,+4.55%,$190.84 M,+3.37%
+613,-,SDA,Speedcast International Ltd,$0.79,0.00,0.00%,$189.40 M
+614,ALF,Australian Leaders Fund Ltd,$0.985,+0.01,+1.03%,$189.19 M,+2.07%
+615,ISEC,Ishares Enhanced Cash ETF,$100.53,+0.03,+0.03%,$188.57 M,+0.13%
+616,-,TRA,Turners Automotive Group Ltd,$2.20,0.00,0.00%,$188.22 M
+617,TGP,360 Capital Group,$0.82,-0.005,-0.61%,$188.21 M,-28.38%
+618,-,EGN,Engenco Ltd,$0.60,0.00,0.00%,$188.09 M
+619,ICQ,Icar Asia Ltd,$0.435,-0.005,-1.14%,$187.66 M,+52.63%
+620,ST1,Spirit Technology Solutions Ltd,$0.345,+0.015,+4.55%,$186.53 M,+53.33%
+621,YOJ,Yojee Ltd,$0.17,-0.005,-2.86%,$186.01 M,+136.11%
+622,IJR,Ishares S&P Small-Cap ETF,$105.26,+2.29,+2.22%,$185.09 M,-9.71%
+623,CGS,Cogstate Ltd,$1.085,-0.025,-2.25%,$184.58 M,+178.21%
+624,HFR,Highfield Resources Ltd,$0.56,+0.01,+1.82%,$184.58 M,-15.15%
+625,EVS,Envirosuite Ltd,$0.18,+0.01,+5.88%,$184.44 M,-38.98%
+626,KCN,Kingsgate Consolidated Ltd,$0.815,+0.055,+7.24%,$184.37 M,+87.36%
+627,TECH,ETFs Morningstar Global Technology ETF,$87.07,+0.11,+0.13%,$183.74 M,+12.03%
+628,GLL,Galilee Energy Ltd,$0.675,-0.065,-8.78%,$183.23 M,-24.58%
+629,WBT,Weebit Nano Ltd,$1.735,+0.225,+14.90%,$182.37 M,+333.75%
+630,-,WMA,Wam Alternative Assets Ltd,$0.94,0.00,0.00%,$182.20 M
+631,-,WGO,Warrego Energy Ltd,$0.19,0.00,0.00%,$181.42 M
+632,-,IMA,Image Resources NL,$0.185,0.00,0.00%,$181.16 M
+633,VCF,Vanguard International Credit Securities INDEX (Hedged) ETF,$49.13,+0.04,+0.08%,$180.07 M,-2.21%
+634,5GN,5G Networks Ltd,$1.62,+0.035,+2.21%,$179.46 M,+131.43%
+635,WMX,Wiluna Mining Corporation Ltd,$1.78,-0.02,-1.11%,$178.84 M,+36.92%
+636,FUEL,Betashares Global Energy Companies ETF - Currency Hedged,$2.98,+0.11,+3.83%,$178.26 M,-46.40%
+637,APD,Apn Property Group,$0.54,-0.005,-0.92%,$178.10 M,0.00%
+638,MAD,Mader Group Ltd,$0.885,-0.015,-1.67%,$177.00 M,-16.11%
+639,-,EMV,Emvision Medical Devices Ltd,$3.30,0.00,0.00%,$176.30 M
+640,VEQ,Vanguard Ftse Europe Shares ETF,$51.25,+0.91,+1.81%,$175.40 M,-12.00%
+641,SYI,SPDR MSCI Australia Select High Dividend Yield Fund,$25.36,+0.64,+2.59%,$174.67 M,-13.68%
+642,F100,Betashares Ftse 100 ETF,$8.01,+0.18,+2.30%,$174.67 M,-22.46%
+643,OOO,Betashares Crude Oil INDEX ETF-Currency Hedged (Synthetic),$3.62,+0.17,+4.93%,$174.47 M,-75.41%
+644,3PL,3P Learning Ltd,$1.24,+0.005,+0.41%,$172.96 M,+31.92%
+645,IHWL,Ishares Core MSCI World All Cap (Aud Hedged) ETF,$35.08,+0.52,+1.51%,$172.63 M,-1.43%
+646,MML,Medusa Mining Ltd,$0.83,+0.045,+5.73%,$172.47 M,+9.93%
+647,FID,Fiducian Group Ltd,$5.47,-0.01,-0.18%,$171.99 M,-3.01%
+648,PLT,Plenti Group Ltd,$1.01,+0.005,+0.50%,$170.52 M,-22.31%
+649,ATU,Atrum Coal Ltd,$0.295,+0.015,+5.36%,$169.55 M,-13.24%
+650,MOAT,Vaneck Vectors Morningstar Wide Moat ETF,$76.77,+0.77,+1.01%,$169.12 M,+0.04%
+651,WCMQ,WCM Quality Global Growth Fund (Quoted Managed Fund),$7.14,+0.04,+0.56%,$168.86 M,+22.47%
+652,FWD,Fleetwood Corporation Ltd,$1.78,+0.015,+0.85%,$168.41 M,-21.59%
+653,RFG,Retail Food Group Ltd,$0.079,+0.005,+6.76%,$167.49 M,-41.48%
+654,-,ADO,Anteotech Ltd,$0.098,0.00,0.00%,$167.45 M
+655,PCG,Pengana Capital Group Ltd,$1.625,-0.005,-0.31%,$167.42 M,-9.72%
+656,PAXX,Platinum Asia Fund (Quoted Managed Hedge Fund),$5.42,+0.01,+0.19%,$167.02 M,+23.74%
+657,-,BYE,Byron Energy Ltd,$0.16,0.00,0.00%,$166.45 M
+658,FLC,Fluence Corporation Ltd,$0.265,-0.015,-5.36%,$165.59 M,-41.11%
+659,-,RCE,Recce Pharmaceuticals Ltd,$0.95,0.00,0.00%,$164.95 M
+660,CTM,Centaurus Metals Ltd,$0.505,+0.025,+5.21%,$164.56 M,+110.42%
+661,CAI,Calidus Resources Ltd,$0.61,+0.045,+7.97%,$164.20 M,+134.62%
+662,POS,Poseidon Nickel Ltd,$0.062,+0.001,+1.64%,$163.85 M,+19.23%
+663,-,ENN,Elanor Investors Group,$1.37,0.00,0.00%,$163.82 M
+664,KSC,K & S Corporation Ltd,$1.27,-0.08,-5.93%,$163.56 M,-20.63%
+665,-,D2O,Duxton Water Ltd,$1.36,0.00,0.00%,$162.35 M
+666,-,BBX,BBX Minerals Ltd,$0.38,0.00,0.00%,$161.41 M
+667,AIM,Access Innovation Holdings Ltd,$1.115,-0.005,-0.45%,$160.98 M,-13.23%
+668,-,CYC,Cyclopharm Ltd,$2.00,0.00,0.00%,$160.55 M
+669,RDY,Readytech Holdings Ltd,$2.00,+0.01,+0.50%,$160.01 M,+7.53%
+670,GNG,GR Engineering Services Ltd,$1.03,+0.015,+1.48%,$159.81 M,+37.33%
+671,NET,Netlinkz Ltd,$0.074,+0.003,+4.23%,$159.74 M,-52.26%
+672,ILB,Ishares Government Inflation ETF,$132.56,+0.57,+0.43%,$159.65 M,+4.18%
+673,LYL,Lycopodium Ltd,$4.00,-0.02,-0.50%,$158.96 M,-27.01%
+674,-,GMD,Genesis Minerals Ltd,$0.082,0.00,0.00%,$158.90 M
+675,VTG,Vita Group Ltd,$0.96,+0.01,+1.05%,$158.07 M,-21.63%
+676,-,WJA,Wameja Ltd,$0.13,0.00,0.00%,$157.41 M
+677,NCZ,New Century Resources Ltd,$0.16,+0.01,+6.67%,$156.58 M,-58.97%
+678,PM8,Pensana Rare EARTHS Plc,$1.175,+0.055,+4.91%,$154.99 M,+552.78%
+679,-,DWS,DWS Ltd,$1.175,0.00,0.00%,$154.90 M
+680,-,CLH,Collection House Ltd,$1.085,0.00,0.00%,$154.01 M
+681,ORR,Orecorp Ltd,$0.485,+0.035,+7.78%,$153.90 M,+21.25%
+682,-,EAI,Ellerston Asian Investments Ltd,$1.16,0.00,0.00%,$153.54 M
+683,-,BUD,Buddy Technologies Ltd,$0.059,0.00,0.00%,$153.52 M
+684,EGF,Evans & Partners Global Flagship Fund,$1.475,-0.005,-0.34%,$153.44 M,-12.72%
+685,-,PET,Phoslock Environmental Technologies Ltd,$0.245,0.00,0.00%,$153.13 M
+686,MTO,Motorcycle Holdings Ltd,$2.47,+0.02,+0.82%,$152.42 M,+6.47%
+687,-,SVM,Sovereign Metals Ltd,$0.385,0.00,0.00%,$151.78 M
+688,-,GVF,Global Value Fund Ltd,$1.025,0.00,0.00%,$151.52 M
+689,KLL,Kalium Lakes Ltd,$0.18,+0.005,+2.86%,$151.05 M,-61.29%
+690,REX,Regional Express Holdings Ltd,$1.37,-0.005,-0.36%,$150.91 M,+2.62%
+691,PPG,Pro-Pac Packaging Ltd,$0.185,-0.015,-7.50%,$150.06 M,+48.00%
+692,HAS,Hastings Technology Metals Ltd,$0.125,-0.005,-3.85%,$150.04 M,-30.56%
+693,ONT,1300 Smiles Ltd,$6.33,+0.02,+0.32%,$149.88 M,+0.48%
+694,-,SOM,Somnomed Ltd,$1.805,0.00,0.00%,$149.38 M
+695,BNDS,Betashares Legg Mason Australian Bond Fund (Managed Fund),$27.53,+0.13,+0.47%,$148.75 M,+2.11%
+696,FMS,Flinders Mines Ltd,$0.035,-0.001,-2.78%,$147.74 M,-49.48%
+697,EGG,Enero Group Ltd,$1.70,+0.015,+0.89%,$147.31 M,-20.93%
+698,-,SHJ,Shine Justice Ltd,$0.85,0.00,0.00%,$147.27 M
+699,ROBO,ETFs Robo Global Robotics and Automation ETF,$71.95,+0.73,+1.03%,$146.61 M,+19.42%
+700,VESG,Vanguard Ethically Conscious International Shares INDEX ETF,$58.42,+0.5,+0.86%,$145.94 M,+6.49%
+701,-,ESR,Estrella Resources Ltd,$0.185,0.00,0.00%,$145.73 M
+702,-,MRC,Mineral Commodities Ltd,$0.32,0.00,0.00%,$145.63 M
+703,ED1,Evans Dixon Ltd,$0.62,+0.01,+1.64%,$145.47 M,-26.19%
+704,-,VTH,Vitalharvest Freehold Trust,$0.77,0.00,0.00%,$142.45 M
+705,FOR,Forager Australian Shares Fund,$1.26,+0.015,+1.21%,$142.27 M,+3.70%
+706,-,MIH,MNC Media Investment Ltd,$3.60,0.00,0.00%,$141.09 M
+707,MVE,Vaneck Vectors S&P/ASX Midcap ETF,$30.99,+0.73,+2.41%,$140.63 M,+7.34%
+708,-,BCI,BCI Minerals Ltd,$0.235,0.00,0.00%,$140.62 M
+709,-,QIP,QANTM Intellectual Property Ltd,$1.03,0.00,0.00%,$139.72 M
+710,TGN,Tungsten Mining NL,$0.18,+0.02,+12.50%,$138.68 M,-7.69%
+711,MYL,Myanmar Metals Ltd,$0.073,+0.001,+1.39%,$138.38 M,+55.32%
+712,RND,Rand Mining Ltd,$2.30,-0.1,-4.17%,$138.34 M,-10.85%
+713,-,IKE,Ikegps Group Ltd,$1.05,0.00,0.00%,$138.04 M
+714,-,TGM,Theta Gold Mines Ltd,$0.30,0.00,0.00%,$137.68 M
+715,AMS,Atomos Ltd,$0.63,+0.05,+8.62%,$137.64 M,-62.50%
+716,NTU,Northern Minerals Ltd,$0.031,+0.001,+3.33%,$137.39 M,-39.22%
+717,FZO,Family ZONE Cyber Safety Ltd,$0.41,-0.005,-1.21%,$136.66 M,+134.29%
+718,KIN,KIN Mining NL,$0.195,+0.005,+2.63%,$136.50 M,+347.84%
+719,-,ARV,Artemis Resources Ltd,$0.12,0.00,0.00%,$136.05 M
+720,AGD,Austral Gold Ltd,$0.24,+0.01,+4.35%,$135.86 M,+224.32%
+721,-,NXS,Next Science Ltd,$1.13,0.00,0.00%,$135.25 M
+722,CNEW,Vaneck Vectors China New Economy ETF,$9.70,+0.05,+0.52%,$134.88 M,+44.99%
+723,CCR,Credit Clear Ltd,$0.85,+0.05,+6.25%,$134.62 M,+84.78%
+724,AT1,Atomo Diagnostics Ltd,$0.33,+0.01,+3.13%,$134.32 M,-15.39%
+725,BID,Bidenergy Ltd,$0.99,+0.06,+6.45%,$133.83 M,+75.22%
+726,SRG,SRG Global Ltd,$0.30,+0.005,+1.70%,$133.74 M,-26.83%
+727,OKU,Oklo Resources Ltd,$0.265,+0.005,+1.92%,$133.44 M,+89.29%
+728,RAC,Race Oncology Ltd,$1.04,+0.075,+7.77%,$132.65 M,+766.67%
+729,WIC,Westoz Investment Company Ltd,$0.99,-0.01,-1.00%,$132.45 M,-7.91%
+730,-,SGH,Slater & Gordon Ltd,$0.955,0.00,0.00%,$132.20 M
+731,OGC,Oceanagold Corporation,$1.88,+0.03,+1.62%,$132.18 M,-45.51%
+732,-,APZ,Aspen Group,$1.135,0.00,0.00%,$132.08 M
+733,-,RDG,Resource Development Group Ltd,$0.052,0.00,0.00%,$131.57 M
+734,EAF,Evans & Partners Asia Fund,$1.345,+0.035,+2.67%,$131.32 M,+3.46%
+735,MAI,Mainstream Group Holdings Ltd,$0.95,-0.03,-3.06%,$131.19 M,+72.73%
+736,-,MNS,Magnis Energy Technologies Ltd,$0.185,0.00,0.00%,$130.81 M
+737,IMM,Immutep Ltd,$0.265,+0.005,+1.92%,$130.61 M,-5.36%
+738,NML,Navarre Minerals Ltd,$0.24,+0.015,+6.67%,$130.19 M,+128.57%
+739,ETPMAG,ETFs Group,$32.32,+0.13,+0.40%,$129.50 M,+29.96%
+740,-,RMY,Rma Global Ltd,$0.27,0.00,0.00%,$129.43 M
+741,-,WHA,Wattle Health Australia Ltd,$0.53,0.00,0.00%,$129.37 M
+742,AVA,AVA Risk Group Ltd,$0.54,+0.01,+1.89%,$129.27 M,+350.00%
+743,-,CUE,CUE Energy Resources Ltd,$0.185,0.00,0.00%,$129.15 M
+744,HTG,Harvest Technology Group Ltd,$0.275,-0.005,-1.79%,$128.85 M,+854.86%
+745,-,PBP,Probiotec Ltd,$1.72,0.00,0.00%,$128.62 M
+746,BOC,Bougainville Copper Ltd,$0.32,+0.04,+14.29%,$128.34 M,+220.00%
+747,BDC,Bardoc Gold Ltd,$0.074,+0.001,+1.37%,$128.09 M,-22.11%
+748,NWF,Newfield Resources Ltd,$0.22,-0.005,-2.22%,$127.89 M,+41.94%
+749,EX20,Betashares Australian Ex-20 Portfolio Diversifier ETF,$17.45,+0.42,+2.47%,$127.87 M,-7.77%
+750,MOC,Mortgage Choice Ltd,$1.02,-0.03,-2.86%,$127.50 M,-26.62%
+751,FSA,FSA Group Ltd,$1.02,-0.02,-1.92%,$127.29 M,-4.67%
+752,VMT,Vmoto Ltd,$0.46,+0.03,+6.98%,$126.80 M,+228.57%
+753,HCH,Hot Chili Ltd,$0.052,+0.001,+1.96%,$126.15 M,+44.52%
+754,-,EXP,Experience Co Ltd,$0.225,0.00,0.00%,$125.06 M
+755,-,CDD,Cardno Ltd,$0.28,0.00,0.00%,$124.52 M
+756,IJH,Ishares S&P Mid-Cap ETF,$276.07,+5.04,+1.86%,$124.09 M,-3.62%
+757,BTI,Bailador Technology Investments Ltd,$1.01,+0.02,+2.02%,$124.09 M,+4.66%
+758,A2B,A2B Australia Ltd,$1.03,-0.03,-2.83%,$124.04 M,-35.63%
+759,SSG,Shaver Shop Group Ltd,$0.98,-0.005,-0.51%,$123.93 M,+46.27%
+760,-,AEG,Absolute Equity Performance Fund Ltd,$1.345,0.00,0.00%,$123.87 M
+761,ALC,Alcidion Group Ltd,$0.125,-0.005,-3.85%,$123.84 M,-39.02%
+762,IWLD,Ishares Core MSCI World All Cap ETF,$36.65,+0.27,+0.74%,$123.82 M,-1.58%
+763,TNG,TNG Ltd,$0.11,+0.005,+4.76%,$123.70 M,+27.12%
+764,WVOL,Ishares Edge MSCI World Minimum Volatility ETF,$31.72,+0.3,+0.96%,$123.33 M,-6.84%
+765,VDCO,Vanguard Diversified Conservative INDEX ETF,$54.64,+0.31,+0.57%,$122.72 M,-1.01%
+766,-,TTM,Titan Minerals Ltd,$0.11,0.00,0.00%,$122.67 M
+767,HVST,Betashares Australian Dividend Harvester Fund (Managed Fund),$12.65,+0.11,+0.88%,$122.59 M,-15.67%
+768,SMP,Smartpay Holdings Ltd,$0.585,-0.005,-0.85%,$122.54 M,+207.90%
+769,AVG,Australian Vintage Ltd,$0.435,-0.005,-1.14%,$122.11 M,-13.86%
+770,TSO,Tesoro Resources Ltd,$0.29,+0.01,+3.57%,$122.04 M,"+2,575.15%"
+771,AIS,Aeris Resources Ltd,$0.064,+0.002,+3.23%,$121.41 M,+38.31%
+772,IXI,Ishares Global Consumer Staples ETF,$77.04,+0.97,+1.28%,$121.35 M,-1.80%
+773,AMX,Aerometrex Ltd,$1.285,+0.015,+1.18%,$121.30 M,-29.97%
+774,CXL,CALIX Ltd,$0.815,+0.005,+0.62%,$120.96 M,+14.79%
+775,4DS,4DS Memory Ltd,$0.092,-0.002,-2.13%,$120.49 M,+67.27%
+776,GCY,Gascoyne Resources Ltd,$0.48,+0.01,+2.13%,$120.41 M,"+1,517.94%"
+777,-,OSL,Oncosil Medical Ltd,$0.145,0.00,0.00%,$120.15 M
+778,TOT,360 Capital REIT,$0.865,-0.005,-0.58%,$120.06 M,-24.78%
+779,BSA,BSA Ltd,$0.275,-0.005,-1.79%,$119.08 M,-32.10%
+780,-,PGL,Prospa Group Ltd,$0.73,0.00,0.00%,$118.15 M
+781,-,ITG,Intega Group Ltd,$0.265,0.00,0.00%,$118.00 M
+782,DNK,Danakali Ltd,$0.37,+0.005,+1.37%,$117.93 M,-43.08%
+783,RTG,RTG Mining Inc,$0.19,-0.005,-2.56%,$117.39 M,+137.50%
+784,NZM,NZME Ltd,$0.595,+0.05,+9.17%,$116.95 M,+65.28%
+785,MYQ,Myfiziq Ltd,$0.98,-0.01,-1.01%,$116.75 M,+262.96%
+786,-,DUG,DUG Technology Ltd,$1.17,0.00,0.00%,$116.38 M
+787,NEU,Neuren Pharmaceuticals Ltd,$1.015,+0.005,+0.50%,$116.33 M,-60.35%
+788,FANG,ETFs Fang+ ETF,$14.88,-0.02,-0.13%,$116.09 M,+45.03%
+789,-,EER,East Energy Resources Ltd,$0.036,0.00,0.00%,$115.24 M
+790,-,OVH,Onevue Holdings Ltd,$0.43,0.00,0.00%,$115.21 M
+791,-,ERF,Elanor Retail Property Fund,$0.89,0.00,0.00%,$114.57 M
+792,GDG,Generation Development Group Ltd,$0.65,+0.03,+4.84%,$114.33 M,-6.43%
+793,SDV,Scidev Ltd,$0.75,+0.04,+5.63%,$114.17 M,+7.14%
+794,CCV,Cash Converters International,$0.185,-0.005,-2.63%,$114.04 M,-15.91%
+795,AZY,Antipa Minerals Ltd,$0.046,+0.001,+2.22%,$113.92 M,+228.57%
+796,ATEC,Betashares S&P/ASX Australian Technology ETF,$20.47,+0.32,+1.59%,$113.66 M,+39.82%
+797,IGL,Ive Group Ltd,$0.765,+0.015,+2.00%,$113.38 M,-61.94%
+798,EEG,Empire Energy Group Ltd,$0.35,-0.02,-5.41%,$113.24 M,-19.54%
+799,ZBT,ZEBIT Inc,$1.195,-0.005,-0.42%,$112.68 M,+14.35%
+800,CEL,Challenger Exploration Ltd,$0.205,-0.01,-4.65%,$112.35 M,+205.97%
+801,BSX,Blackstone Minerals Ltd,$0.35,+0.02,+6.06%,$112.12 M,+191.67%
+802,ARU,Arafura Resources Ltd,$0.096,+0.006,+6.67%,$112.11 M,+5.50%
+803,RSH,Respiri Ltd,$0.155,+0.005,+3.33%,$111.50 M,+98.72%
+804,-,FEMX,Fidelity Global Emerging Markets Fund (Managed Fund),$5.99,0.00,0.00%,$111.41 M
+805,CUP,Countplus Ltd,$0.975,+0.025,+2.63%,$111.37 M,-7.14%
+806,NNT,99 Technology Ltd,$0.096,+0.003,+3.23%,$111.33 M,+26.32%
+807,-,BOE,Boss Resources Ltd,$0.061,0.00,0.00%,$111.24 M
+808,GTK,Gentrack Group Ltd,$1.125,+0.015,+1.35%,$110.98 M,-76.56%
+809,G1A,Galena Mining Ltd,$0.24,+0.01,+4.35%,$110.85 M,-30.44%
+810,-,RXL,ROX Resources Ltd,$0.054,0.00,0.00%,$110.48 M
+811,IZZ,Ishares China Large-Cap ETF,$64.31,+1.38,+2.19%,$110.16 M,+4.84%
+812,-,FAR,FAR Ltd,$0.011,0.00,0.00%,$109.77 M
+813,COG,Consolidated Operations Group Ltd,$0.068,+0.002,+3.03%,$109.54 M,-29.27%
+814,-,TER,Terracom Ltd,$0.145,0.00,0.00%,$109.27 M
+815,BCN,Beacon Minerals Ltd,$0.038,-0.001,-2.56%,$108.94 M,0.00%
+816,RVR,Red River Resources Ltd,$0.21,-0.005,-2.33%,$108.73 M,+44.83%
+817,SUBD,Vaneck Vectors Australian Subordinated Debt ETF,$25.07,+0.04,+0.16%,$108.30 M,+0.16%
+818,-,AMN,Agrimin Ltd,$0.55,0.00,0.00%,$108.18 M
+819,FHS,Freehill Mining Ltd,$0.069,+0.002,+2.99%,$108.15 M,+305.88%
+820,-,SXE,Southern Cross Electrical Engineering Ltd,$0.435,0.00,0.00%,$107.90 M
+821,-,EWC,Energy World Corporation Ltd,$0.06,0.00,0.00%,$107.74 M
+822,EOL,Energy One Ltd,$4.17,+0.12,+2.96%,$107.29 M,+68.15%
+823,ZYAU,ETFs S&P/ASX 300 High Yield Plus ETF,$8.96,+0.11,+1.24%,$107.09 M,-20.50%
+824,VLC,Vanguard MSCI Australian Large Companies INDEX ETF,$60.82,+1.19,+2.00%,$107.09 M,-10.64%
+825,-,NZO,New Zealand Oil & Gas Ltd,$0.65,0.00,0.00%,$106.88 M
+826,E25,Element 25 Ltd,$0.83,+0.02,+2.47%,$106.81 M,+315.00%
+827,SWF,Selfwealth Ltd,$0.52,+0.015,+2.97%,$106.79 M,+136.36%
+828,BEAR,Betashares Australian Equities Bear (Hedge Fund),$11.59,-0.24,-2.03%,$106.57 M,-3.01%
+829,NMT,Neometals Ltd,$0.195,+0.005,+2.63%,$106.34 M,+5.41%
+830,VR1,Vection Technologies Ltd,$0.11,+0.005,+4.76%,$106.23 M,+547.06%
+831,DSK,Dusk Group Ltd,$1.705,+0.015,+0.89%,$106.17 M,0.00%
+832,TOP,Thorney Opportunities Ltd,$0.53,+0.01,+1.92%,$105.67 M,-19.70%
+833,JHC,Japara Healthcare Ltd,$0.395,+0.01,+2.60%,$105.56 M,-66.53%
+834,-,AEI,Aeris Environmental Ltd,$0.435,0.00,0.00%,$105.51 M
+835,IGB,Ishares Treasury ETF,$114.56,+0.46,+0.40%,$104.82 M,+1.15%
+836,MSV,Mitchell Services Ltd,$0.525,+0.005,+0.96%,$104.60 M,-6.25%
+837,MLL,Mali Lithium Ltd,$0.145,+0.005,+3.57%,$104.46 M,+81.25%
+838,-,WAT,Waterco Ltd,$2.91,0.00,0.00%,$104.17 M
+839,-,SFX,Sheffield Resources Ltd,$0.30,0.00,0.00%,$103.82 M
+840,-,CII,Ci Resources Ltd,$0.895,0.00,0.00%,$103.45 M
+841,SEC,Spheria Emerging Companies Ltd,$1.68,+0.03,+1.82%,$102.92 M,-0.59%
+842,AXE,Archer Materials Ltd,$0.455,+0.025,+5.81%,$102.30 M,+213.79%
+843,-,LAU,Lindsay Australia Ltd,$0.34,0.00,0.00%,$101.84 M
+844,EVO,Evolve Education Group Ltd,$0.091,+0.002,+2.25%,$101.79 M,-43.13%
+845,MCA,Murray Cod Australia Ltd,$0.18,-0.005,-2.70%,$101.68 M,+12.50%
+846,NSC,Naos Small Cap Opportunities Company Ltd,$0.65,-0.01,-1.52%,$101.62 M,-12.75%
+847,-,GPR,Geopacific Resources Ltd,$0.58,0.00,0.00%,$101.53 M
+848,WXHG,SPDR S&P World Ex Australia (Hedged) Fund,$22.57,+0.3,+1.35%,$100.52 M,-2.88%
+849,NOX,Noxopharm Ltd,$0.47,+0.005,+1.08%,$100.22 M,+29.81%
+850,-,FBR,FBR Ltd,$0.048,0.00,0.00%,$99.80 M
+851,ISO,Ishares S&P/ASX Small Ordinaries ETF,$4.77,+0.1,+2.14%,$99.79 M,-5.36%
+852,VBLD,Vanguard Global Infrastructure INDEX ETF,$55.30,+0.86,+1.58%,$99.72 M,-7.70%
+853,STA,Strandline Resources Ltd,$0.19,-0.005,-2.56%,$99.35 M,+52.00%
+854,-,MDR,Medadvisor Ltd,$0.40,0.00,0.00%,$99.18 M
+855,TDI,360 Capital Digital Infrastructure Fund,$1.72,-0.035,-1.99%,$98.85 M,-8.02%
+856,TWD,Tamawood Ltd,$3.49,+0.07,+2.05%,$98.76 M,-3.59%
+857,QFE,Quickfee Ltd,$0.49,+0.015,+3.16%,$98.72 M,+24.05%
+858,KZA,KAZIA Therapeutics Ltd,$0.78,-0.01,-1.27%,$98.41 M,+103.49%
+859,-,ANS,Austsino Resources Group Ltd,$0.017,0.00,0.00%,$97.75 M
+860,AGI,Ainsworth Game Technology Ltd,$0.29,-0.015,-4.92%,$97.67 M,-63.29%
+861,EPD,Empired Ltd,$0.605,+0.025,+4.31%,$96.97 M,+98.36%
+862,-,PCK,Painchek Ltd,$0.086,0.00,0.00%,$96.91 M
+863,MVB,Vaneck Vectors Australian Banks ETF,$21.27,+0.2,+0.95%,$96.19 M,-21.66%
+864,-,AGH,Althea Group Holdings Ltd,$0.41,0.00,0.00%,$95.66 M
+865,ORN,Orion Minerals Ltd,$0.028,+0.001,+3.70%,$95.13 M,+21.74%
+866,-,IRD,Iron Road Ltd,$0.135,0.00,0.00%,$93.65 M
+867,DTZ,DOTZ Nano Ltd,$0.25,+0.005,+2.04%,$93.63 M,+509.76%
+868,-,RYD,Ryder Capital Ltd,$1.55,0.00,0.00%,$93.63 M
+869,ACQ,Acorn Capital Investment Fund Ltd,$1.395,+0.02,+1.46%,$93.51 M,+20.54%
+870,LRK,Lark Distilling Co. Ltd,$1.49,+0.02,+1.36%,$93.13 M,+46.08%
+871,-,TZN,Terramin Australia Ltd,$0.044,0.00,0.00%,$93.13 M
+872,MVR,Vaneck Vectors Australian Resources ETF,$26.90,+0.76,+2.91%,$92.94 M,-8.81%
+873,-,BRI,Big River Industries Ltd,$1.48,0.00,0.00%,$92.47 M
+874,IOD,Iodm Ltd,$0.165,-0.005,-2.94%,$92.32 M,-19.51%
+875,GNX,GENEX Power Ltd,$0.18,+0.005,+2.86%,$92.07 M,-2.70%
+876,IHOO,Ishares Global 100 Aud Hedged ETF,$120.20,+1.62,+1.37%,$92.03 M,+1.01%
+877,CAN,Cann Group Ltd,$0.34,+0.03,+9.68%,$91.77 M,-67.46%
+878,CIE,Contango Income Generator Ltd,$0.73,+0.01,+1.39%,$91.64 M,-16.09%
+879,SDI,SDI Ltd,$0.77,-0.005,-0.65%,$91.53 M,-14.44%
+880,AOP,Apollo Consolidated Ltd,$0.34,+0.02,+6.25%,$91.49 M,+47.83%
+881,TIG,Tigers Realm Coal Ltd,$0.012,-0.001,-7.69%,$91.38 M,-7.81%
+882,CYP,Cynata Therapeutics Ltd,$0.775,+0.025,+3.33%,$90.77 M,-40.39%
+883,BKY,Berkeley Energia Ltd,$0.35,-0.01,-2.78%,$90.51 M,+25.00%
+884,SELF,Selfwealth SMSF Leaders ETF,$41.82,+0.52,+1.26%,$90.42 M,-16.88%
+885,MSTR,Morningstar International Shares Active ETF (Managed Fund),$8.94,+0.16,+1.82%,$90.34 M,+0.22%
+886,CHZ,Chesser Resources Ltd,$0.22,-0.005,-2.22%,$90.01 M,+185.71%
+887,E2M,E2 Metals Ltd,$0.685,-0.005,-0.73%,$89.87 M,+280.56%
+888,WWI,West Wits Mining Ltd,$0.075,+0.005,+7.14%,$89.70 M,"+1,400.00%"
+889,GBND,Betashares Sustainability Leaders DVRSFD Bond ETF - Cur HDG,$26.05,+0.07,+0.27%,$89.68 M,+3.83%
+890,MWY,Midway Ltd,$1.025,-0.015,-1.44%,$89.52 M,-45.62%
+891,VAN,Vango Mining Ltd,$0.09,-0.002,-2.17%,$89.42 M,-48.57%
+892,-,TAM,Tanami Gold NL,$0.076,0.00,0.00%,$89.31 M
+893,SLX,SILEX Systems Ltd,$0.515,-0.01,-1.91%,$88.98 M,+24.10%
+894,ZLD,Zelira Therapeutics Ltd,$0.075,+0.002,+2.74%,$88.90 M,+5.63%
+895,MMI,Metro Mining Ltd,$0.064,+0.002,+3.23%,$88.89 M,-48.80%
+896,COS,Cosol Ltd,$0.67,+0.09,+15.52%,$88.29 M,+76.32%
+897,GAS,State GAS Ltd,$0.51,+0.02,+4.08%,$88.25 M,-30.14%
+898,IPD,Impedimed Ltd,$0.082,+0.003,+3.80%,$88.17 M,-39.29%
+899,PAL,Palla Pharma Ltd,$0.70,+0.015,+2.19%,$88.16 M,-15.66%
+900,-,BOT,Botanix Pharmaceuticals Ltd,$0.09,0.00,0.00%,$87.54 M
+901,-,ARA,Ariadne Australia Ltd,$0.445,0.00,0.00%,$87.33 M
+902,-,KGL,KGL Resources Ltd,$0.26,0.00,0.00%,$87.29 M
+903,-,ANG,Austin Engineering Ltd,$0.15,0.00,0.00%,$86.92 M
+904,-,GOW,Gowing Bros Ltd,$1.62,0.00,0.00%,$86.91 M
+905,OEC,Orbital Corporation Ltd,$1.12,+0.025,+2.28%,$86.90 M,+234.33%
+906,CTP,Central Petroleum Ltd,$0.12,+0.005,+4.35%,$86.81 M,-25.00%
+907,TTT,Titomic Ltd,$0.565,+0.04,+7.62%,$86.59 M,-58.76%
+908,-,CAM,Clime Capital Ltd,$0.765,0.00,0.00%,$86.40 M
+909,-,EGH,Eureka Group Holdings Ltd,$0.375,0.00,0.00%,$86.26 M
+910,GTN,GTN Ltd,$0.40,+0.01,+2.56%,$86.11 M,-45.21%
+911,-,LVH,Livehire Ltd,$0.285,0.00,0.00%,$85.93 M
+912,-,RCT,Reef Casino Trust,$1.75,0.00,0.00%,$85.86 M
+913,PTB,PTB Group Ltd,$0.67,-0.01,-1.47%,$85.68 M,-4.30%
+914,AAR,Anglo Australian Resources NL,$0.15,+0.01,+7.14%,$85.60 M,+70.46%
+915,-,CYG,Coventry Group Ltd,$0.95,0.00,0.00%,$85.51 M
+916,RGB,Russell Investments Australian Government Bond ETF,$23.29,+0.06,+0.26%,$85.31 M,+1.26%
+917,KSS,Kleos Space S.A,$0.655,-0.005,-0.76%,$85.17 M,+111.29%
+918,UMAX,Betashares S&P 500 Yield Maximiser Fund (Managed Fund),$17.90,+0.26,+1.47%,$85.12 M,-13.11%
+919,FCT,Firstwave Cloud Technology Ltd,$0.13,+0.005,+4.00%,$84.96 M,-1.30%
+920,-,TEK,Thorney Technologies Ltd,$0.33,0.00,0.00%,$84.90 M
+921,AZS,AZURE Minerals Ltd,$0.35,+0.02,+6.06%,$84.77 M,+141.38%
+922,AML,Aeon Metals Ltd,$0.125,+0.005,+4.17%,$84.70 M,+8.70%
+923,-,CAA,Capral Ltd,$0.17,0.00,0.00%,$84.47 M
+924,RKN,Reckon Ltd,$0.745,+0.005,+0.68%,$84.40 M,-8.59%
+925,-,TRY,Troy Resources Ltd,$0.115,0.00,0.00%,$84.19 M
+926,QRE,Betashares Australian Resources Sector ETF,$6.05,+0.16,+2.72%,$83.71 M,-4.72%
+927,GLB,Globe International Ltd,$2.00,+0.005,+0.25%,$82.93 M,+60.64%
+928,-,URF,US Masters Residential Property Fund,$0.215,0.00,0.00%,$82.82 M
+929,-,CSD,Consolidated Tin Mines Ltd,$0.125,0.00,0.00%,$82.48 M
+930,MOGL,Montgomery Global Equities Fund (Managed Fund),$3.33,-0.01,-0.30%,$82.47 M,-7.24%
+931,-,EM1,Emerge Gaming Ltd,$0.105,0.00,0.00%,$82.47 M
+932,-,TIP,Teaminvest Private Group Ltd,$0.70,0.00,0.00%,$82.12 M
+933,EXR,Elixir Energy Ltd,$0.115,-0.005,-4.17%,$81.40 M,+167.44%
+934,DCG,Decmil Group Ltd,$0.063,+0.004,+6.78%,$81.10 M,-82.24%
+935,HZR,HAZER Group Ltd,$0.58,+0.02,+3.57%,$81.05 M,+43.21%
+936,PVS,Pivotal Systems Corporation,$0.71,-0.005,-0.70%,$80.95 M,-41.08%
+937,OZR,SPDR S&P/ASX 200 Resources Fund,$10.80,+0.19,+1.79%,$80.68 M,-7.77%
+938,MYE,Mastermyne Group Ltd,$0.76,+0.02,+2.70%,$80.32 M,-26.92%
+939,PEX,Peel Mining Ltd,$0.235,+0.01,+4.44%,$80.29 M,-16.45%
+940,-,NTD,National Tyre & Wheel Ltd,$0.70,0.00,0.00%,$79.95 M
+941,-,MRL,Mayur Resources Ltd,$0.445,0.00,0.00%,$79.82 M
+942,VUL,Vulcan Energy Resources Ltd,$1.08,-0.05,-4.43%,$79.60 M,+644.83%
+943,OZF,SPDR S&P/ASX 200 Financials Ex A-REIT Fund,$15.78,+0.3,+1.94%,$79.44 M,-21.65%
+944,BC8,Black Cat Syndicate Ltd,$0.72,-0.02,-2.70%,$79.41 M,+63.64%
+945,-,IHL,Incannex Healthcare Ltd,$0.078,0.00,0.00%,$79.07 M
+946,S2R,S2 Resources Ltd,$0.25,+0.005,+2.04%,$78.72 M,+92.31%
+947,GSW,Getswift Ltd,$0.365,+0.015,+4.29%,$78.70 M,-35.97%
+948,-,AHX,Apiam Animal Health Ltd,$0.67,0.00,0.00%,$78.61 M
+949,-,KZR,Kalamazoo Resources Ltd,$0.60,0.00,0.00%,$78.56 M
+950,ESK,Etherstack Plc,$0.645,-0.005,-0.77%,$78.02 M,+152.94%
+951,VRX,VRX Silica Ltd,$0.175,-0.01,-5.41%,$77.89 M,+40.00%
+952,-,ACF,Acrow Formwork and Construction Services Ltd,$0.355,0.00,0.00%,$77.78 M
+953,CSS,Clean Seas Seafood Ltd,$0.69,+0.02,+2.99%,$77.37 M,-14.82%
+954,BNO,Bionomics Ltd,$0.105,-0.005,-4.55%,$77.20 M,-3.14%
+955,DYL,Deep Yellow Ltd,$0.315,-0.005,-1.56%,$77.19 M,+16.67%
+956,SHM,Shriro Holdings Ltd,$0.81,-0.01,-1.22%,$77.02 M,+20.90%
+957,STN,Saturn Metals Ltd,$0.71,+0.03,+4.41%,$77.01 M,+79.75%
+958,JAN,Janison Education Group Ltd,$0.365,-0.005,-1.35%,$76.89 M,-7.60%
+959,SWTZ,Switzer Dividend Growth Fund (Managed Fund),$2.22,+0.05,+2.30%,$76.59 M,-13.28%
+960,-,SES,Secos Group Ltd,$0.145,0.00,0.00%,$76.12 M
+961,WEC,White Energy Company Ltd,$0.098,-0.007,-6.67%,$75.90 M,+25.72%
+962,-,RTR,Rumble Resources Ltd,$0.145,0.00,0.00%,$75.86 M
+963,ADV,Ardiden Ltd,$0.036,+0.002,+5.88%,$75.79 M,"+1,100.00%"
+964,LCK,Leigh Creek Energy Ltd,$0.115,+0.005,+4.55%,$75.62 M,-43.90%
+965,-,SGQ,ST George Mining Ltd,$0.15,0.00,0.00%,$75.53 M
+966,SNC,Sandon Capital Investments Ltd,$0.695,+0.015,+2.21%,$75.49 M,-16.27%
+967,MEM,Memphasys Ltd,$0.10,+0.003,+3.09%,$75.48 M,+44.93%
+968,WOA,Wide Open Agriculture Ltd,$0.875,-0.04,-4.37%,$75.33 M,+483.33%
+969,QLTY,Betashares Global Quality Leaders ETF,$20.40,+0.23,+1.14%,$75.21 M,+13.90%
+970,CGR,CML Group Ltd,$0.34,+0.01,+3.03%,$75.08 M,-20.93%
+971,-,LSX,Lion Selection Group Ltd,$0.50,0.00,0.00%,$75.07 M
+972,DOU,Douugh Ltd,$0.245,+0.015,+6.52%,$74.69 M,"+1,784.61%"
+973,-,TGF,Tribeca Global Natural Resources Ltd,$1.21,0.00,0.00%,$74.68 M
+974,-,TGH,Terragen Holdings Ltd,$0.415,0.00,0.00%,$74.67 M
+975,-,RTE,"Retech Technology Co., Ltd",$0.32,0.00,0.00%,$74.53 M
+976,KPG,Kelly Partners Group Holdings Ltd,$1.65,+0.05,+3.13%,$74.50 M,+68.37%
+977,BLU,Blue Energy Ltd,$0.056,-0.004,-6.67%,$74.42 M,+27.27%
+978,CMP,Compumedics Ltd,$0.42,+0.01,+2.44%,$74.41 M,-42.47%
+979,-,GAP,Gale Pacific Ltd,$0.27,0.00,0.00%,$74.36 M
+980,-,VEE,Veem Ltd,$0.57,0.00,0.00%,$74.10 M
+981,BRV,Big River Gold Ltd,$0.055,+0.001,+1.85%,$73.64 M,+266.67%
+982,IKO,Ishares MSCI South Korea ETF,$95.10,+1.65,+1.77%,$72.77 M,+7.85%
+983,PGX,Primero Group Ltd,$0.42,+0.01,+2.44%,$72.11 M,+7.69%
+984,DRO,Droneshield Ltd,$0.185,+0.01,+5.71%,$71.82 M,-53.17%
+985,FTC,Fintech Chain Ltd,$0.11,-0.01,-8.33%,$71.58 M,-33.33%
+986,MZZ,Matador Mining Ltd,$0.42,+0.01,+2.44%,$71.42 M,+127.03%
+987,WRLD,Betashares Managed Risk Global Share Fund (Managed Fund),$13.13,+0.11,+0.85%,$71.32 M,-1.80%
+988,SIH,Sihayo Gold Ltd,$0.021,+0.001,+5.00%,$71.06 M,+20.84%
+989,FGR,First Graphene Ltd,$0.135,-0.01,-6.90%,$70.97 M,-18.18%
+990,-,MLX,Metals X Ltd,$0.078,0.00,0.00%,$70.77 M
+991,HLA,Healthia Ltd,$1.10,+0.07,+6.80%,$70.74 M,+24.29%
+992,-,OZG,Ozgrowth Ltd,$0.20,0.00,0.00%,$70.39 M
+993,AUC,Ausgold Ltd,$0.054,+0.005,+10.20%,$70.22 M,+237.50%
+994,LCL,Los Cerros Ltd,$0.15,+0.005,+3.45%,$70.11 M,+82.93%
+995,-,SAS,Sky and Space Global Ltd,$0.028,0.00,0.00%,$70.07 M
+996,-,CLF,Concentrated Leaders Fund Ltd,$1.18,0.00,0.00%,$70.05 M
+997,CST,Castile Resources Ltd,$0.35,+0.02,+6.06%,$69.90 M,+84.21%
+998,IHHY,Ishares Global High Yield Bond (Aud Hedged) ETF,$98.91,+0.36,+0.37%,$69.48 M,-6.60%
+999,MVS,Vaneck Vectors Small Companies Masters ETF,$19.25,+0.39,+2.07%,$69.46 M,-8.90%
+"1,000",KPT,Kangaroo Island Plantation Timbers Ltd,$1.23,-0.01,-0.81%,$69.45 M,-47.66%
+"1,001",-,FML,Focus Minerals Ltd,$0.38,0.00,0.00%,$69.44 M
+"1,002",-,RHT,Resonance Health Ltd,$0.155,0.00,0.00%,$68.87 M
+"1,003",-,KME,Kip Mcgrath Education Centres Ltd,$1.32,0.00,0.00%,$68.67 M
+"1,004",GRB,Gage Roads Brewing Co Ltd,$0.055,+0.001,+1.85%,$68.44 M,-38.20%
+"1,005",IOU,Ioupay Ltd,$0.185,+0.005,+2.78%,$68.18 M,"+2,212.50%"
+"1,006",CAY,Canyon Resources Ltd,$0.11,+0.005,+4.76%,$67.53 M,-33.33%
+"1,007",MBH,Maggie Beer Holdings Ltd,$0.325,+0.005,+1.56%,$67.36 M,+109.68%
+"1,008",TNK,Think Childcare Group,$1.10,+0.03,+2.80%,$67.16 M,-25.17%
+"1,009",KAI,Kairos Minerals Ltd,$0.04,+0.002,+5.26%,$67.02 M,+328.40%
+"1,010",MVOL,Ishares Edge MSCI Australia Minimum Volatility ETF,$26.84,+0.47,+1.78%,$66.69 M,-10.23%
+"1,011",-,BRL,Bathurst Resources Ltd,$0.039,0.00,0.00%,$66.67 M
+"1,012",RSM,Russell Investments Australian Semi-Government Bond ETF,$21.38,+0.06,+0.28%,$66.62 M,-0.14%
+"1,013",HZN,Horizon Oil Ltd,$0.051,-0.001,-1.92%,$66.40 M,-63.57%
+"1,014",-,ELS,Elsight Ltd,$0.62,0.00,0.00%,$66.35 M
+"1,015",NTM,NTM Gold Ltd,$0.097,+0.003,+3.19%,$66.33 M,+64.41%
+"1,016",PMY,Pacifico Minerals Ltd,$0.019,+0.001,+5.56%,$66.25 M,+137.50%
+"1,017",-,MX1,Micro-X Ltd,$0.185,0.00,0.00%,$66.08 M
+"1,018",KLA,Kirkland Lake Gold Ltd,$66.00,+0.7,+1.07%,$66.00 M,-1.05%
+"1,019",-,AR9,Archtis Ltd,$0.37,0.00,0.00%,$65.92 M
+"1,020",ICT,Icollege Ltd,$0.125,+0.005,+4.17%,$65.82 M,+127.27%
+"1,021",-,MEI,Meteoric Resources NL,$0.053,0.00,0.00%,$65.73 M
+"1,022",VML,Vital Metals Ltd,$0.025,+0.002,+8.70%,$65.72 M,+127.27%
+"1,023",APC,Australian Potash Ltd,$0.135,+0.005,+3.85%,$65.69 M,+51.73%
+"1,024",BLG,Bluglass Ltd,$0.091,-0.014,-13.33%,$65.49 M,-14.27%
+"1,025",NCC,Naos Emerging Opportunities Company Ltd,$1.055,+0.005,+0.48%,$65.32 M,-0.47%
+"1,026",-,KKO,Kinetiko Energy Ltd,$0.12,0.00,0.00%,$65.24 M
+"1,027",VIP,VIP Gloves Ltd,$0.087,+0.001,+1.16%,$64.87 M,+123.08%
+"1,028",PGC,Paragon Care Ltd,$0.19,+0.005,+2.70%,$64.20 M,-55.81%
+"1,029",-,RDF,Redflex Holdings Ltd,$0.42,0.00,0.00%,$63.84 M
+"1,030",-,RAP,Resapp Health Ltd,$0.084,0.00,0.00%,$63.68 M
+"1,031",-,BRB,Breaker Resources NL,$0.195,0.00,0.00%,$63.54 M
+"1,032",ISU,Iselect Ltd,$0.29,+0.005,+1.75%,$63.18 M,-51.26%
+"1,033",-,MAM,Microequities Asset Management Group Ltd,$0.475,0.00,0.00%,$63.00 M
+"1,034",SKF,SKYFII Ltd,$0.21,+0.025,+13.51%,$62.98 M,+31.25%
+"1,035",LOT,Lotus Resources Ltd,$0.085,+0.001,+1.19%,$62.95 M,+46.55%
+"1,036",MOZ,Mosaic Brands Ltd,$0.65,+0.005,+0.78%,$62.83 M,-75.00%
+"1,037",ZYUS,ETFs S&P 500 High Yield Low Volatility ETF,$10.17,+0.25,+2.52%,$62.55 M,-25.00%
+"1,038",ICI,Icandy Interactive Ltd,$0.135,+0.015,+12.50%,$62.47 M,+285.71%
+"1,039",DW8,Digital Wine Ventures Ltd,$0.042,+0.001,+2.44%,$62.46 M,+504.23%
+"1,040",APW,Aims Property Securities Fund,$1.40,+0.01,+0.72%,$62.44 M,-3.45%
+"1,041",GBZ,GBM Resources Ltd,$0.155,+0.005,+3.33%,$62.11 M,+317.61%
+"1,042",DRUG,Betashares Global Healthcare ETF - Currency Hedged,$6.44,+0.13,+2.06%,$61.93 M,+4.04%
+"1,043",OCC,Orthocell Ltd,$0.335,+0.005,+1.52%,$61.90 M,-44.17%
+"1,044",-,ZER,ZETA Resources Ltd,$0.215,0.00,0.00%,$61.84 M
+"1,045",DSE,Dropsuite Ltd,$0.11,-0.01,-8.33%,$61.82 M,+155.81%
+"1,046",LBL,Laserbond Ltd,$0.645,+0.005,+0.78%,$61.71 M,-17.31%
+"1,047",NUS,Nusantara Resources Ltd,$0.29,+0.005,+1.75%,$61.65 M,-12.12%
+"1,048",CD3,CD Private Equity Fund Iii,$0.85,+0.1,+13.33%,$61.22 M,-40.56%
+"1,049",TNY,Tinybeans Group Ltd,$1.33,+0.04,+3.10%,$61.13 M,-54.92%
+"1,050",PTL,Pental Ltd,$0.445,+0.01,+2.30%,$60.63 M,+48.33%
+"1,051",BIS,Bisalloy Steel Group Ltd,$1.33,-0.09,-6.34%,$60.41 M,+14.66%
+"1,052",IBX,Imagion Biosystems Ltd,$0.066,+0.002,+3.13%,$60.17 M,+236.46%
+"1,053",-,PNW,Pacific Star Network Ltd,$0.26,0.00,0.00%,$60.09 M
+"1,054",PDI,Predictive Discovery Ltd,$0.06,+0.001,+1.70%,$60.04 M,+575.93%
+"1,055",FFR,Firefly Resources Ltd,$0.20,+0.02,+11.11%,$59.96 M,+210.48%
+"1,056",QTM,Quantum Health Group Ltd,$0.053,+0.001,+1.92%,$59.80 M,+120.83%
+"1,057",RXP,RXP Services Ltd,$0.345,+0.005,+1.47%,$59.73 M,-33.01%
+"1,058",ENR,Encounter Resources Ltd,$0.19,+0.01,+5.56%,$59.44 M,+5.56%
+"1,059",RBTZ,Betashares Global Robotics and Artificial Intelligence ETF,$12.52,+0.19,+1.54%,$59.15 M,+25.08%
+"1,060",-,SND,Saunders International Ltd,$0.575,0.00,0.00%,$59.14 M
+"1,061",BBC,BNK Banking Corporation Ltd,$0.62,-0.02,-3.13%,$59.12 M,-0.80%
+"1,062",-,NOV,Novatti Group Ltd,$0.26,0.00,0.00%,$59.04 M
+"1,063",MNRS,Betashares Global Gold Miners ETF - Currency Hedged,$7.01,+0.08,+1.15%,$58.93 M,+40.20%
+"1,064",UBN,Urbanise.com Ltd,$0.079,-0.002,-2.47%,$58.87 M,+64.58%
+"1,065",MIO,Macarthur Minerals Ltd,$0.48,-0.04,-7.69%,$58.85 M,+54.84%
+"1,066",NUH,Nuheara Ltd,$0.042,-0.001,-2.33%,$58.81 M,+5.00%
+"1,067",-,TDL,TBG Diagnostics Ltd,$0.27,0.00,0.00%,$58.75 M
+"1,068",GRNV,Vaneck Vectors MSCI Australian Sustainable Equity ETF,$24.35,+0.53,+2.23%,$58.61 M,-7.84%
+"1,069",OIL,Optiscan Imaging Ltd,$0.098,-0.001,-1.01%,$58.48 M,+139.02%
+"1,070",COI,Comet Ridge Ltd,$0.074,-0.002,-2.63%,$58.39 M,-67.11%
+"1,071",-,SWK,Swick Mining Services Ltd,$0.195,0.00,0.00%,$58.31 M
+"1,072",BIT,Biotron Ltd,$0.083,-0.002,-2.35%,$58.26 M,+13.70%
+"1,073",CKA,Cokal Ltd,$0.063,+0.003,+5.00%,$58.17 M,+50.00%
+"1,074",PO3,Purifloh Ltd,$1.845,+0.095,+5.43%,$58.16 M,-67.91%
+"1,075",PKS,PKS Holdings Ltd,$0.31,+0.015,+5.09%,$58.08 M,+87.88%
+"1,076",IBC,Ironbark Capital Ltd,$0.47,+0.005,+1.08%,$57.89 M,-6.00%
+"1,077",-,GTG,Genetic Technologies Ltd,$0.007,0.00,0.00%,$57.83 M
+"1,078",DGR,DGR Global Ltd,$0.073,-0.006,-7.60%,$57.82 M,-6.51%
+"1,079",RFT,Rectifier Technologies Ltd,$0.042,-0.001,-2.33%,$57.75 M,-16.00%
+"1,080",-,BD1,BARD1 Life Sciences Ltd,$0.024,0.00,0.00%,$57.47 M
+"1,081",-,DME,Dome Gold Mines Ltd,$0.195,0.00,0.00%,$57.45 M
+"1,082",ADS,Adslot Ltd,$0.031,+0.002,+6.90%,$57.16 M,+19.23%
+"1,083",-,HIT,Hitech Group Australia Ltd,$1.50,0.00,0.00%,$57.08 M
+"1,084",-,HRZ,Horizon Minerals Ltd,$0.10,0.00,0.00%,$56.80 M
+"1,085",-,FFI,FFI Holdings Ltd,$5.27,0.00,0.00%,$56.71 M
+"1,086",CVF,Contrarian Value Fund Ltd,$0.815,+0.005,+0.62%,$56.62 M,-17.26%
+"1,087",-,MPP,Metro Performance Glass Ltd,$0.305,0.00,0.00%,$56.54 M
+"1,088",KSN,Kingston Resources Ltd,$0.245,+0.005,+2.08%,$56.48 M,+36.11%
+"1,089",IVR,Investigator Resources Ltd,$0.05,+0.003,+6.38%,$56.45 M,+150.00%
+"1,090",CCA,Change Financial Ltd,$0.14,+0.005,+3.70%,$56.39 M,-8.25%
+"1,091",MTH,Mithril Resources Ltd,$0.027,+0.003,+12.50%,$56.35 M,+350.00%
+"1,092",-,QPR,Quattro Plus Real Estate,$0.70,0.00,0.00%,$56.24 M
+"1,093",ARL,Ardea Resources Ltd,$0.44,+0.01,+2.33%,$56.18 M,-7.13%
+"1,094",CRO,Cirralto Ltd,$0.035,+0.003,+9.38%,$55.72 M,+367.02%
+"1,095",-,AUZ,Australian Mines Ltd,$0.014,0.00,0.00%,$55.46 M
+"1,096",IHR,Intellihr Ltd,$0.20,-0.005,-2.44%,$55.43 M,+277.03%
+"1,097",-,PEN,Peninsula Energy Ltd,$0.062,0.00,0.00%,$55.29 M
+"1,098",RZI,RAIZ Invest Ltd,$0.735,+0.005,+0.69%,$55.09 M,-23.44%
+"1,099",IVX,Invion Ltd,$0.01,-0.001,-9.09%,$55.04 M,-9.09%
+"1,100",-,UBI,Universal Biosensors Inc,$0.31,0.00,0.00%,$55.01 M
+"1,101",HETH,Betashares Global Sustainability Leaders ETF - CH,$10.15,+0.1,+1.00%,$54.81 M,+0.20%
+"1,102",CD2,CD Private Equity Fund Ii,$0.99,+0.03,+3.13%,$54.64 M,-44.85%
+"1,103",MEC,Morphic Ethical Equities Fund Ltd,$1.025,+0.005,+0.49%,$54.19 M,+17.14%
+"1,104",DEV,DEVEX Resources Ltd,$0.22,+0.015,+7.32%,$54.13 M,+91.30%
+"1,105",SEN,Senetas Corporation Ltd,$0.05,+0.001,+2.04%,$54.11 M,-31.51%
+"1,106",-,SIO,Simonds Group Ltd,$0.375,0.00,0.00%,$53.94 M
+"1,107",88E,88 Energy Ltd,$0.006,-0.001,-14.29%,$53.61 M,-53.85%
+"1,108",-,XPL,Xplore Wealth Ltd,$0.18,0.00,0.00%,$53.56 M
+"1,109",-,KOV,Korvest Ltd,$4.70,0.00,0.00%,$53.23 M
+"1,110",CNB,Carnaby Resources Ltd,$0.465,+0.035,+8.14%,$53.14 M,+365.00%
+"1,111",REY,REY Resources Ltd,$0.25,+0.01,+4.17%,$53.04 M,-13.79%
+"1,112",-,SSL,Sietel Ltd,$6.60,0.00,0.00%,$52.85 M
+"1,113",HAV,Havilah Resources Ltd,$0.195,+0.005,+2.63%,$52.83 M,+95.00%
+"1,114",PFT,Pure Foods Tasmania Ltd,$1.13,-0.02,-1.74%,$52.76 M,+334.62%
+"1,115",KTD,Keytone Dairy Corporation Ltd,$0.205,-0.005,-2.38%,$52.60 M,-54.44%
+"1,116",-,MA1,Monash Absolute Investment Company Ltd,$1.165,0.00,0.00%,$52.25 M
+"1,117",FEX,FENIX Resources Ltd,$0.135,+0.015,+12.50%,$51.92 M,+164.71%
+"1,118",CVL,Civmec Ltd,$0.435,-0.015,-3.33%,$51.87 M,-1.14%
+"1,119",MRM,Mma Offshore Ltd,$0.056,+0.003,+5.66%,$51.84 M,-68.89%
+"1,120",STG,Straker Translations Ltd,$0.975,-0.005,-0.51%,$51.81 M,-46.43%
+"1,121",-,MDC,Medlab Clinical Ltd,$0.185,0.00,0.00%,$51.74 M
+"1,122",-,EHH,Eagle Health Holdings Ltd,$0.14,0.00,0.00%,$51.61 M
+"1,123",TGA,Thorn Group Ltd,$0.16,+0.005,+3.23%,$51.58 M,-37.26%
+"1,124",REIT,Vaneck Vectors Ftse International Property (Hedged) ETF,$15.62,+0.37,+2.43%,$51.56 M,-26.60%
+"1,125",PIQ,Proteomics International Laboratories Ltd,$0.49,-0.015,-2.97%,$51.40 M,+48.49%
+"1,126",-,BOL,Boom Logistics Ltd,$0.12,0.00,0.00%,$51.33 M
+"1,127",TMH,The Market Herald Ltd,$0.27,+0.01,+3.85%,$51.24 M,+86.21%
+"1,128",-,DGH,Desane Group Holdings Ltd,$1.25,0.00,0.00%,$51.14 M
+"1,129",TON,Triton Minerals Ltd,$0.045,+0.004,+9.76%,$51.05 M,+18.42%
+"1,130",-,FSI,Flagship Investments Ltd,$2.00,0.00,0.00%,$51.05 M
+"1,131",-,SEQ,Sequoia Financial Group Ltd,$0.40,0.00,0.00%,$50.96 M
+"1,132",-,EGR,Ecograf Ltd,$0.14,0.00,0.00%,$50.96 M
+"1,133",ESH,Esports Mogul Ltd,$0.02,+0.001,+5.26%,$50.88 M,+81.82%
+"1,134",SMN,Structural Monitoring Systems Plc,$0.425,-0.005,-1.16%,$50.80 M,-59.91%
+"1,135",-,QHL,Quickstep Holdings Ltd,$0.071,0.00,0.00%,$50.65 M
+"1,136",DXB,Dimerix Ltd,$0.255,+0.005,+2.00%,$50.46 M,+142.86%
+"1,137",ADA,Adacel Technologies Ltd,$0.66,+0.02,+3.13%,$50.45 M,+46.67%
+"1,138",IMC,Immuron Ltd,$0.225,-0.01,-4.26%,$50.42 M,+73.08%
+"1,139",VXR,Venturex Resources Ltd,$0.13,+0.01,+8.33%,$49.88 M,-14.47%
+"1,140",-,DBF,Duxton Broadacre Farms Ltd,$1.155,0.00,0.00%,$49.55 M
+"1,141",-,PRT,Prime Media Group Ltd,$0.135,0.00,0.00%,$49.45 M
+"1,142",-,HRL,HRL Holdings Ltd,$0.10,0.00,0.00%,$49.38 M
+"1,143",-,BOND,SPDR S&P/ASX Australian Bond Fund,$28.58,0.00,0.00%,$49.21 M
+"1,144",NUC,Nuchev Ltd,$1.27,-0.08,-5.93%,$49.17 M,-59.75%
+"1,145",-,AFA,Asf Group Ltd,$0.062,0.00,0.00%,$49.16 M
+"1,146",SPY,SPDR S&P 500 ETF Trust,$472.01,+4.51,+0.97%,$49.09 M,+6.47%
+"1,147",-,BBL,Brisbane Broncos Ltd,$0.50,0.00,0.00%,$49.02 M
+"1,148",AGY,Argosy Minerals Ltd,$0.048,-0.001,-2.04%,$48.94 M,-36.84%
+"1,149",WAA,Wam Active Ltd,$1.045,-0.005,-0.48%,$48.91 M,-1.88%
+"1,150",RXM,REX Minerals Ltd,$0.13,+0.01,+8.33%,$48.91 M,+54.76%
+"1,151",-,LPI,Lithium Power International Ltd,$0.185,0.00,0.00%,$48.66 M
+"1,152",QUS,Betashares Ftse Rafi U.S. 1000 ETF,$34.12,+0.54,+1.61%,$48.53 M,-9.52%
+"1,153",NWC,New World Resources Ltd,$0.043,-0.001,-2.27%,$48.43 M,+126.32%
+"1,154",-,ANP,Antisense Therapeutics Ltd,$0.099,0.00,0.00%,$48.41 M
+"1,155",-,VLS,Vita Life Sciences Ltd,$0.89,0.00,0.00%,$48.13 M
+"1,156",MXI,Maxitrans Industries Ltd,$0.26,+0.03,+13.04%,$48.12 M,+23.81%
+"1,157",NAC,Naos Ex-50 Opportunities Company Ltd,$1.055,+0.005,+0.48%,$47.98 M,+13.44%
+"1,158",3DA,Amaero International Ltd,$0.53,-0.005,-0.94%,$47.97 M,+32.50%
+"1,159",-,AUST,Betashares Managed Risk Australian Share Fund (Managed Fund),$15.31,0.00,0.00%,$47.97 M
+"1,160",-,AJL,AJ Lucas Group Ltd,$0.04,0.00,0.00%,$47.85 M
+"1,161",-,RCW,Rightcrowd Ltd,$0.215,0.00,0.00%,$47.74 M
+"1,162",ESTX,ETFs Euro STOXX 50 ETF,$59.06,+1.35,+2.34%,$47.66 M,-13.98%
+"1,163",BFC,Beston Global Food Company Ltd,$0.079,-0.004,-4.82%,$47.60 M,-15.96%
+"1,164",CCZ,Castillo Copper Ltd,$0.047,-0.001,-2.08%,$47.56 M,+176.47%
+"1,165",-,BAT,Battery Minerals Ltd,$0.027,0.00,0.00%,$47.45 M
+"1,166",DRE,Dreadnought Resources Ltd,$0.021,-0.001,-4.55%,$47.29 M,+162.50%
+"1,167",-,SDL,Sundance Resources Ltd,$0.005,0.00,0.00%,$47.25 M
+"1,168",PEK,Peak Resources Ltd,$0.031,-0.001,-3.13%,$47.13 M,-27.91%
+"1,169",-,WKT,Walkabout Resources Ltd,$0.135,0.00,0.00%,$47.13 M
+"1,170",8VI,8VI Holdings Ltd,$1.06,+0.01,+0.95%,$47.04 M,+606.67%
+"1,171",EDE,Eden Innovations Ltd,$0.025,+0.001,+4.17%,$46.94 M,-47.92%
+"1,172",-,PDZ,Prairie Mining Ltd,$0.205,0.00,0.00%,$46.81 M
+"1,173",CV1,CV Check Ltd,$0.16,+0.005,+3.23%,$46.75 M,-5.88%
+"1,174",-,MEA,Mcgrath Ltd,$0.28,0.00,0.00%,$46.72 M
+"1,175",-,NAM,Namoi Cotton Ltd,$0.33,0.00,0.00%,$46.36 M
+"1,176",ASH,Ashley Services Group Ltd,$0.32,+0.005,+1.59%,$46.07 M,-3.03%
+"1,177",IME,Imexhs Ltd,$0.031,+0.001,+3.33%,$46.03 M,-24.39%
+"1,178",EYE,Nova EYE Medical Ltd,$0.32,-0.005,-1.54%,$45.95 M,-45.30%
+"1,179",-,MEU,Marmota Ltd,$0.047,0.00,0.00%,$45.52 M
+"1,180",-,AJQ,Armour Energy Ltd,$0.039,0.00,0.00%,$45.30 M
+"1,181",-,8IH,8I Holdings Ltd,$0.125,0.00,0.00%,$45.22 M
+"1,182",EMH,European Metals Holdings Ltd,$0.39,-0.025,-6.02%,$45.22 M,+11.43%
+"1,183",AOU,Auroch Minerals Ltd,$0.195,+0.05,+34.48%,$45.09 M,+186.77%
+"1,184",-,CLX,Cti Logistics Ltd,$0.58,0.00,0.00%,$45.07 M
+"1,185",-,KRR,King River Resources Ltd,$0.029,0.00,0.00%,$45.05 M
+"1,186",IXC,INVEX Therapeutics Ltd,$0.832,+0.042,+5.32%,$45.00 M,+51.27%
+"1,187",AQI,Alicanto Minerals Ltd,$0.16,+0.01,+6.67%,$44.92 M,+196.30%
+"1,188",SPZ,Smart Parking Ltd,$0.125,+0.005,+4.17%,$44.90 M,-43.18%
+"1,189",BDA,Bod Australia Ltd,$0.49,+0.005,+1.03%,$44.77 M,+34.25%
+"1,190",CXO,Core Lithium Ltd,$0.045,+0.001,+2.27%,$44.74 M,+12.50%
+"1,191",PAF,PM Capital Asian Opportunities Fund Ltd,$0.785,+0.005,+0.64%,$44.67 M,-5.42%
+"1,192",EM2,Eagle Mountain Mining Ltd,$0.30,-0.005,-1.64%,$44.54 M,+87.50%
+"1,193",JYC,Joyce Corporation Ltd,$1.58,+0.03,+1.94%,$44.40 M,-1.86%
+"1,194",-,SKY,SKY Metals Ltd,$0.18,0.00,0.00%,$44.40 M
+"1,195",ECL,Excelsior Capital Ltd,$1.53,-0.02,-1.29%,$44.36 M,+26.97%
+"1,196",FPC,Fat Prophets Global Contrarian Fund Ltd,$1.09,+0.02,+1.87%,$44.17 M,+13.54%
+"1,197",BCB,Bowen Coking Coal Ltd,$0.052,+0.002,+4.00%,$44.14 M,-8.77%
+"1,198",-,VII,Vietnam Industrial Investments Ltd,$0.31,0.00,0.00%,$44.11 M
+"1,199",-,SMX,Security Matters Ltd,$0.34,0.00,0.00%,$43.89 M
+"1,200",AME,Alto Metals Ltd,$0.115,-0.005,-4.17%,$43.78 M,+264.22%
+"1,201",ATL,Apollo Tourism & Leisure Ltd,$0.235,-0.005,-2.08%,$43.75 M,-51.55%
+"1,202",-,LCY,Legacy Iron Ore Ltd,$0.007,0.00,0.00%,$43.73 M
+"1,203",ESGI,Vaneck Vectors MSCI International Sustainable Equity ETF,$24.20,+0.27,+1.13%,$43.60 M,+1.34%
+"1,204",REE,RAREX Ltd,$0.115,+0.01,+9.52%,$43.50 M,+112.96%
+"1,205",FFL,Founders First Ltd,$0.365,+0.015,+4.29%,$43.44 M,-25.51%
+"1,206",-,HAW,Hawthorn Resources Ltd,$0.13,0.00,0.00%,$43.36 M
+"1,207",-,OEL,Otto Energy Ltd,$0.009,0.00,0.00%,$43.16 M
+"1,208",-,RNO,Rhinomed Ltd,$0.17,0.00,0.00%,$43.15 M
+"1,209",IDT,IDT Australia Ltd,$0.18,+0.005,+2.86%,$42.93 M,+12.50%
+"1,210",MEP,Minotaur Exploration Ltd,$0.087,+0.007,+8.75%,$42.93 M,+64.15%
+"1,211",OSX,Osteopore Ltd,$0.55,+0.03,+5.77%,$42.92 M,-41.80%
+"1,212",RINC,Betashares Legg Mason Real Income Fund (Managed Fund),$7.84,+0.09,+1.16%,$42.90 M,-21.91%
+"1,213",-,AC8,Auscann Group Holdings Ltd,$0.135,0.00,0.00%,$42.80 M
+"1,214",LKE,Lake Resources N.L.,$0.054,+0.001,+1.89%,$42.77 M,+50.00%
+"1,215",XAM,Xanadu Mines Ltd,$0.039,+0.002,+5.41%,$42.58 M,+8.33%
+"1,216",AGVT,Betashares Australian Government Bond ETF,$53.17,+0.25,+0.47%,$42.54 M,+5.14%
+"1,217",-,KPC,Kazakhstan Potash Corporation Ltd,$0.02,0.00,0.00%,$42.38 M
+"1,218",GWR,GWR Group Ltd,$0.155,+0.005,+3.33%,$42.32 M,+66.67%
+"1,219",PYG,Paygroup Ltd,$0.55,+0.02,+3.77%,$42.22 M,-32.10%
+"1,220",YRL,Yandal Resources Ltd,$0.54,+0.03,+5.88%,$42.15 M,+128.47%
+"1,221",-,S66,Star Combo Pharma Ltd,$0.31,0.00,0.00%,$42.02 M
+"1,222",VISM,Vanguard MSCI International Small Companies INDEX ETF,$50.71,+0.61,+1.22%,$41.98 M,-6.04%
+"1,223",GGUS,Betashares Geared US Equity Fund Currency Hedged (Hedgefund),$19.07,+0.62,+3.36%,$41.95 M,-1.55%
+"1,224",PXS,Pharmaxis Ltd,$0.105,-0.005,-4.55%,$41.67 M,-44.74%
+"1,225",-,MDI,Middle Island Resources Ltd,$0.015,0.00,0.00%,$41.49 M
+"1,226",-,TOE,Toro Energy Ltd,$0.014,0.00,0.00%,$41.35 M
+"1,227",TMT,Technology Metals Australia Ltd,$0.335,+0.01,+3.08%,$41.21 M,+157.69%
+"1,228",SMLL,Betashares Aust Small Companies Select Fund (Managed Fund),$3.58,+0.12,+3.47%,$41.05 M,+2.29%
+"1,229",ATC,Altech Chemicals Ltd,$0.045,-0.002,-4.26%,$40.88 M,-65.39%
+"1,230",LNU,Linius Technologies Ltd,$0.027,+0.002,+8.00%,$40.61 M,-22.86%
+"1,231",-,IXU,Ixup Ltd,$0.068,0.00,0.00%,$40.51 M
+"1,232",BNL,Blue Star Helium Ltd,$0.038,+0.001,+2.70%,$40.34 M,+533.33%
+"1,233",RHY,RHYTHM Biosciences Ltd,$0.20,+0.02,+11.11%,$40.30 M,+38.53%
+"1,234",-,FYI,FYI Resources Ltd,$0.15,0.00,0.00%,$40.26 M
+"1,235",AHQ,Allegiance Coal Ltd,$0.058,+0.001,+1.75%,$40.22 M,-53.60%
+"1,236",BRU,Buru Energy Ltd,$0.093,-0.001,-1.06%,$40.18 M,-56.74%
+"1,237",-,AGS,Alliance Resources Ltd,$0.225,0.00,0.00%,$40.12 M
+"1,238",-,PNC,Pioneer Credit Ltd,$0.63,0.00,0.00%,$40.00 M
+"1,239",-,HRN,Horizon Gold Ltd,$0.455,0.00,0.00%,$39.95 M
+"1,240",EQX,Equatorial Resources Ltd,$0.32,-0.005,-1.54%,$39.82 M,+16.36%
+"1,241",-,CWZ,Cashwerkz Ltd,$0.20,0.00,0.00%,$39.70 M
+"1,242",LIT,Lithium Australia NL,$0.05,+0.001,+2.04%,$39.61 M,+35.14%
+"1,243",-,SRJ,SRJ Technologies Group Plc,$0.535,0.00,0.00%,$39.59 M
+"1,244",AL3,AML3D Ltd,$0.42,+0.03,+7.69%,$39.53 M,+180.00%
+"1,245",MKAX,Montaka Global Extension Fund (Quoted Managed Hedge Fund),$3.51,+0.01,+0.29%,$39.34 M,+4.78%
+"1,246",CAD,Caeneus Minerals Ltd,$0.01,+0.001,+11.11%,$39.22 M,+900.00%
+"1,247",GROW,Schroder Real Return Fund (Managed Fund),$3.62,+0.01,+0.28%,$39.05 M,-2.16%
+"1,248",-,XRF,XRF Scientific Ltd,$0.29,0.00,0.00%,$39.02 M
+"1,249",-,AUR,Auris Minerals Ltd,$0.095,0.00,0.00%,$38.83 M
+"1,250",9SP,9 Spokes International Ltd,$0.026,-0.001,-3.70%,$38.83 M,+44.44%
+"1,251",SNS,Sensen Networks Ltd,$0.086,+0.001,+1.18%,$38.75 M,-6.52%
+"1,252",AWV,Anova Metals Ltd,$0.027,-0.003,-10.00%,$38.69 M,+195.35%
+"1,253",TTB,Total Brain Ltd,$0.355,-0.005,-1.39%,$38.45 M,-21.11%
+"1,254",-,CIW,Clime Investment Management Ltd,$0.585,0.00,0.00%,$38.44 M
+"1,255",-,EAS,Easton Investments Ltd,$1.12,0.00,0.00%,$38.39 M
+"1,256",BKT,Black Rock Mining Ltd,$0.054,+0.001,+1.89%,$38.29 M,+19.24%
+"1,257",HIL,Hills Ltd,$0.165,+0.005,+3.13%,$38.28 M,-15.39%
+"1,258",-,EDC,Eildon Capital Group,$0.935,0.00,0.00%,$38.27 M
+"1,259",XTE,Xtek Ltd,$0.54,-0.01,-1.82%,$38.15 M,-28.48%
+"1,260",STK,Strickland Metals Ltd,$0.091,+0.004,+4.60%,$38.14 M,+355.00%
+"1,261",-,LOM,Lucapa Diamond Company Ltd,$0.059,0.00,0.00%,$38.01 M
+"1,262",RCL,Readcloud Ltd,$0.38,-0.005,-1.30%,$37.98 M,+8.57%
+"1,263",HYD,HYDRIX Ltd,$0.30,-0.01,-3.23%,$37.92 M,+7.69%
+"1,264",-,EBG,Eumundi Group Ltd,$0.91,0.00,0.00%,$37.80 M
+"1,265",DEM,De.Mem Ltd,$0.215,+0.015,+7.50%,$37.75 M,-29.51%
+"1,266",JRL,Jindalee Resources Ltd,$0.845,+0.075,+9.74%,$37.73 M,+191.25%
+"1,267",COO,Corum Group Ltd,$0.07,+0.008,+12.90%,$37.57 M,+71.70%
+"1,268",STM,Sunstone Metals Ltd,$0.017,+0.001,+6.25%,$37.57 M,-5.56%
+"1,269",IPT,Impact Minerals Ltd,$0.021,+0.002,+10.53%,$37.32 M,+133.33%
+"1,270",-,EUC,European Cobalt Ltd,$0.043,0.00,0.00%,$37.27 M
+"1,271",-,RES,Resource Generation Ltd,$0.064,0.00,0.00%,$37.21 M
+"1,272",WLD,Wellard Ltd,$0.07,+0.001,+1.45%,$37.19 M,+37.26%
+"1,273",ERM,Emmerson Resources Ltd,$0.077,+0.001,+1.32%,$37.18 M,-33.04%
+"1,274",CZR,CZR Resources Ltd,$0.013,-0.001,-7.14%,$37.09 M,+62.50%
+"1,275",-,DNA,Donaco International Ltd,$0.03,0.00,0.00%,$37.06 M
+"1,276",THC,THC Global Group Ltd,$0.21,+0.005,+2.44%,$36.96 M,-32.26%
+"1,277",-,MSM,MSM Corporation International Ltd,$0.044,0.00,0.00%,$36.93 M
+"1,278",UNL,United Networks Ltd,$0.078,-0.006,-7.14%,$36.91 M,+254.55%
+"1,279",SUV,Suvo Strategic Minerals Ltd,$0.10,+0.008,+8.70%,$36.81 M,"+4,900.00%"
+"1,280",AJX,Alexium International Group Ltd,$0.058,-0.002,-3.33%,$36.80 M,-44.45%
+"1,281",-,AKM,Aspire Mining Ltd,$0.072,0.00,0.00%,$36.55 M
+"1,282",-,PSC,Prospect Resources Ltd,$0.11,0.00,0.00%,$36.53 M
+"1,283",-,XF1,Xref Ltd,$0.20,0.00,0.00%,$36.41 M
+"1,284",HNDQ,Betashares Nasdaq 100 ETF - Currency Hedged,$26.00,+0.19,+0.74%,$36.40 M,+2.12%
+"1,285",-,LPD,Lepidico Ltd,$0.007,0.00,0.00%,$36.30 M
+"1,286",-,LCM,Logicamms Ltd,$0.18,0.00,0.00%,$36.18 M
+"1,287",-,MXC,MGC Pharmaceuticals Ltd,$0.022,0.00,0.00%,$36.10 M
+"1,288",RGS,Regeneus Ltd,$0.12,-0.005,-4.00%,$36.03 M,+50.00%
+"1,289",NSX,NSX Ltd,$0.14,+0.015,+12.00%,$36.02 M,-6.67%
+"1,290",CDX,Cardiex Ltd,$0.043,-0.002,-4.44%,$36.02 M,+48.28%
+"1,291",-,CLE,Cyclone Metals Ltd,$0.009,0.00,0.00%,$36.00 M
+"1,292",-,BMN,Bannerman Resources Ltd,$0.034,0.00,0.00%,$36.00 M
+"1,293",-,14D,1414 Degrees Ltd,$0.18,0.00,0.00%,$36.00 M
+"1,294",WHK,Whitehawk Ltd,$0.19,+0.005,+2.70%,$35.99 M,+140.51%
+"1,295",-,CAQ,CAQ Holdings Ltd,$0.05,0.00,0.00%,$35.89 M
+"1,296",-,KPO,Kalina Power Ltd,$0.032,0.00,0.00%,$35.86 M
+"1,297",DTS,Dragontail Systems Ltd,$0.125,+0.005,+4.17%,$35.75 M,-3.85%
+"1,298",LRT,Lowell Resources Fund,$1.27,-0.04,-3.05%,$35.60 M,+158.66%
+"1,299",MAG,Magmatic Resources Ltd,$0.205,+0.005,+2.50%,$35.49 M,+36.67%
+"1,300",-,TFL,Tasfoods Ltd,$0.11,0.00,0.00%,$35.41 M
+"1,301",-,IXR,Ionic Rare EARTHS Ltd,$0.013,0.00,0.00%,$35.34 M
+"1,302",-,ZNC,Zenith Minerals Ltd,$0.12,0.00,0.00%,$35.32 M
+"1,303",ATH,Alterity Therapeutics Ltd,$0.026,-0.001,-3.70%,$35.26 M,0.00%
+"1,304",PTX,Prescient Therapeutics Ltd,$0.055,-0.001,-1.79%,$35.23 M,+10.00%
+"1,305",EMKT,Vaneck Vectors MSCI Multifactor Emerging Markets Equity ETF,$19.50,-0.14,-0.71%,$35.12 M,-1.42%
+"1,306",VMC,Venus Metals Corporation Ltd,$0.232,+0.007,+3.11%,$35.05 M,+22.11%
+"1,307",JAL,Jameson Resources Ltd,$0.115,+0.005,+4.55%,$34.88 M,-41.03%
+"1,308",-,MPX,Mustera Property Group Ltd,$0.30,0.00,0.00%,$34.87 M
+"1,309",-,MPO,Molopo Energy Ltd,$0.14,0.00,0.00%,$34.87 M
+"1,310",GSN,Great Southern Mining Ltd,$0.085,+0.004,+4.94%,$34.78 M,+18.06%
+"1,311",-,IVQ,Invitrocue Ltd,$0.06,0.00,0.00%,$34.71 M
+"1,312",AV1,Adveritas Ltd,$0.098,+0.002,+2.08%,$34.62 M,-40.61%
+"1,313",-,EVE,EVE Investments Ltd,$0.009,0.00,0.00%,$34.59 M
+"1,314",PRO,Prophecy International Holdings Ltd,$0.54,-0.005,-0.92%,$34.57 M,+3.85%
+"1,315",PAB,PATRYS Ltd,$0.024,+0.003,+14.29%,$34.47 M,+26.32%
+"1,316",-,IGE,Integrated Green Energy Solutions Ltd,$0.13,0.00,0.00%,$34.33 M
+"1,317",REZ,Resources & Energy Group Ltd,$0.088,+0.001,+1.15%,$34.12 M,+114.63%
+"1,318",SBW,Shekel Brainweigh Ltd,$0.245,+0.025,+11.36%,$34.06 M,+96.00%
+"1,319",OVN,Oventus Medical Ltd,$0.215,+0.005,+2.38%,$34.03 M,-51.69%
+"1,320",CPV,Clearvue Technologies Ltd,$0.245,+0.005,+2.08%,$33.96 M,+104.17%
+"1,321",FFG,Fatfish Group Ltd,$0.037,-0.001,-2.63%,$33.93 M,+311.11%
+"1,322",-,MAT,Matsa Resources Ltd,$0.125,0.00,0.00%,$33.89 M
+"1,323",AQX,Alice QUEEN Ltd,$0.031,+0.001,+3.33%,$33.83 M,-16.22%
+"1,324",AKG,Academies Australasia Group Ltd,$0.265,+0.01,+3.92%,$33.82 M,-59.23%
+"1,325",-,LKO,Lakes Oil NL,$0.001,0.00,0.00%,$33.68 M
+"1,326",CLB,Candy Club Holdings Ltd,$0.15,+0.01,+7.14%,$33.63 M,+141.94%
+"1,327",RFX,Redflow Ltd,$0.028,+0.001,+3.70%,$33.62 M,-41.67%
+"1,328",ARD,Argent Minerals Ltd,$0.04,+0.001,+2.56%,$33.56 M,+110.53%
+"1,329",-,BLY,Boart Longyear Ltd,$0.38,0.00,0.00%,$33.52 M
+"1,330",WRM,White Rock Minerals Ltd,$0.46,-0.005,-1.08%,$33.44 M,-8.00%
+"1,331",-,INIF,Intelligent Investor Aus Equity Income Fund (Managed Fund),$2.14,0.00,0.00%,$33.43 M
+"1,332",-,AIQ,Alternative Investment Trust,$0.12,0.00,0.00%,$33.41 M
+"1,333",LBT,LBT Innovations Ltd,$0.115,-0.005,-4.17%,$33.21 M,-52.08%
+"1,334",PAA,Pharmaust Ltd,$0.105,-0.005,-4.55%,$33.20 M,-4.55%
+"1,335",AHF,Australian Dairy Nutritionals Group,$0.089,+0.002,+2.30%,$33.06 M,-19.09%
+"1,336",HJPN,Betashares Japan ETF-Currency Hedged,$13.17,+0.13,+1.00%,$33.00 M,+3.46%
+"1,337",SOR,Strategic Elements Ltd,$0.115,+0.005,+4.55%,$32.93 M,+41.98%
+"1,338",VMS,Venture Minerals Ltd,$0.032,-0.001,-3.03%,$32.83 M,+68.42%
+"1,339",IHEB,Ishares J.P. Morgan Usd Emerging Markets (Aud Hedged) ETF,$99.11,-0.49,-0.49%,$32.77 M,-7.11%
+"1,340",GC1,Glennon Small Companies Ltd,$0.72,-0.005,-0.69%,$32.59 M,-18.18%
+"1,341",VEN,Vintage Energy Ltd,$0.059,+0.001,+1.72%,$32.47 M,-62.46%
+"1,342",OSP,Osprey Medical Inc,$0.02,+0.001,+5.26%,$32.47 M,-55.56%
+"1,343",-,TAP,TAP Oil Ltd,$0.075,0.00,0.00%,$32.44 M
+"1,344",GML,Gateway Mining Ltd,$0.017,-0.001,-5.56%,$32.34 M,0.00%
+"1,345",-,WWG,Wiseway Group Ltd,$0.23,0.00,0.00%,$32.27 M
+"1,346",IIGF,Intelligent Investor Aus Equity Growth Fund (Managed Fund),$2.44,+0.04,+1.67%,$32.21 M,-2.79%
+"1,347",K2F,K2FLY Ltd,$0.345,-0.01,-2.82%,$32.20 M,+86.49%
+"1,348",-,SEI,Speciality Metals International Ltd,$0.029,0.00,0.00%,$32.20 M
+"1,349",-,AVL,Australian Vanadium Ltd,$0.011,0.00,0.00%,$32.16 M
+"1,350",VVLU,Vanguard Global Value Equity Active ETF (Managed Fund),$40.27,+0.93,+2.36%,$31.90 M,-19.23%
+"1,351",-,FOD,The Food Revolution Group Ltd,$0.044,0.00,0.00%,$31.89 M
+"1,352",VN8,VONEX Ltd,$0.17,+0.005,+3.03%,$31.88 M,+70.00%
+"1,353",HT8,Harris Technology Group Ltd,$0.125,+0.005,+4.17%,$31.87 M,+635.29%
+"1,354",MHC,Manhattan Corporation Ltd,$0.024,+0.001,+4.35%,$31.83 M,+380.00%
+"1,355",CD1,CD Private Equity Fund I,$0.815,+0.005,+0.62%,$31.80 M,-47.08%
+"1,356",OLL,Openlearning Ltd,$0.33,+0.005,+1.54%,$31.73 M,+100.00%
+"1,357",-,KAT,Katana Capital Ltd,$0.84,0.00,0.00%,$31.73 M
+"1,358",-,SMG,Soon Mining Ltd,$0.20,0.00,0.00%,$31.64 M
+"1,359",AASF,Airlie Australian Share Fund (Managed Fund),$2.69,+0.04,+1.51%,$31.62 M,+0.75%
+"1,360",CTO,Citigold Corporation Ltd,$0.012,-0.001,-7.69%,$31.51 M,+140.00%
+"1,361",EMN,Euro Manganese Inc,$0.22,+0.02,+10.00%,$31.44 M,+33.33%
+"1,362",-,BYI,Beyond International Ltd,$0.51,0.00,0.00%,$31.28 M
+"1,363",-,MPH,Mediland Pharm Ltd,$0.10,0.00,0.00%,$31.28 M
+"1,364",-,HMX,Hammer Metals Ltd,$0.042,0.00,0.00%,$31.26 M
+"1,365",ACDC,ETFs Battery Tech & Lithium ETF,$64.97,+1.03,+1.61%,$31.24 M,+31.65%
+"1,366",-,MCT,Metalicity Ltd,$0.018,0.00,0.00%,$31.16 M
+"1,367",-,BSR,Bassari Resources Ltd,$0.013,0.00,0.00%,$31.04 M
+"1,368",GEV,Global Energy Ventures Ltd,$0.08,-0.002,-2.44%,$30.96 M,-46.67%
+"1,369",-,ASW,Advanced Share Registry Ltd,$0.72,0.00,0.00%,$30.95 M
+"1,370",A1M,Aic Mines Ltd,$0.45,-0.01,-2.17%,$30.92 M,+31.26%
+"1,371",DCC,Digitalx Ltd,$0.05,-0.001,-1.96%,$30.86 M,+47.06%
+"1,372",-,OAR,Oakdale Resources Ltd,$0.019,0.00,0.00%,$30.76 M
+"1,373",KWR,Kingwest Resources Ltd,$0.20,+0.01,+5.26%,$30.74 M,-26.67%
+"1,374",CGA,Contango Asset Management Ltd,$0.65,-0.05,-7.14%,$30.73 M,+51.16%
+"1,375",KTG,K-Tig Ltd,$0.245,+0.005,+2.08%,$30.64 M,-15.52%
+"1,376",-,AYI,A1 Investments & Resources Ltd,$0.001,0.00,0.00%,$30.61 M
+"1,377",RCP,Redbank Copper Ltd,$0.075,+0.004,+5.63%,$30.59 M,+294.74%
+"1,378",MKR,Manuka Resources Ltd,$0.42,-0.04,-8.70%,$30.43 M,+64.71%
+"1,379",-,CI1,Credit Intelligence Ltd,$0.025,0.00,0.00%,$30.16 M
+"1,380",-,MAY,Melbana Energy Ltd,$0.013,0.00,0.00%,$30.12 M
+"1,381",SHK,Stone Resources Australia Ltd,$0.036,+0.001,+2.86%,$30.10 M,"+1,700.00%"
+"1,382",GAL,Galileo Mining Ltd,$0.21,-0.005,-2.33%,$30.05 M,+68.00%
+"1,383",FUN,Funtastic Ltd,$0.125,+0.005,+4.17%,$30.05 M,+303.23%
+"1,384",BMG,BMG Resources Ltd,$0.125,+0.01,+8.70%,$30.00 M,+212.50%
+"1,385",-,LAW,Lawfinance Ltd,$0.031,0.00,0.00%,$29.97 M
+"1,386",AWN,AWN Holdings Ltd,$0.75,-0.06,-7.41%,$29.66 M,-6.25%
+"1,387",AD1,AD1 Holdings Ltd,$0.049,+0.002,+4.26%,$29.62 M,+308.33%
+"1,388",VYS,Vysarn Ltd,$0.083,+0.002,+2.47%,$29.48 M,+47.70%
+"1,389",RDM,Red Metal Ltd,$0.12,+0.01,+9.09%,$29.47 M,+4.35%
+"1,390",EX1,Exopharm Ltd,$0.35,-0.02,-5.41%,$29.29 M,-10.26%
+"1,391",GOVT,SPDR S&P/ASX Australian Government Bond Fund,$28.78,+0.03,+0.10%,$29.02 M,+2.35%
+"1,392",GMN,Gold Mountain Ltd,$0.042,-0.001,-2.33%,$28.97 M,-39.13%
+"1,393",-,BMH,Baumart Holdings Ltd,$0.20,0.00,0.00%,$28.95 M
+"1,394",-,TOU,Tlou Energy Ltd,$0.055,0.00,0.00%,$28.89 M
+"1,395",AU8,Aumake International Ltd,$0.077,+0.002,+2.67%,$28.40 M,-39.37%
+"1,396",-,PNX,PNX Metals Ltd,$0.011,0.00,0.00%,$27.97 M
+"1,397",-,EXL,Elixinol Global Ltd,$0.145,0.00,0.00%,$27.96 M
+"1,398",-,KLO,Kingsland Global Ltd,$0.069,0.00,0.00%,$27.95 M
+"1,399",-,GTE,Great Western Exploration Ltd,$0.24,0.00,0.00%,$27.89 M
+"1,400",PG1,Pearl Global Ltd,$0.093,-0.001,-1.06%,$27.88 M,-2.11%
+"1,401",-,AZV,AZURE Healthcare Ltd,$0.098,0.00,0.00%,$27.85 M
+"1,402",-,ACR,ACRUX Ltd,$0.165,0.00,0.00%,$27.84 M
+"1,403",-,DRX,Diatreme Resources Ltd,$0.012,0.00,0.00%,$27.83 M
+"1,404",BWF,Blackwall Ltd,$0.44,-0.01,-2.22%,$27.78 M,-41.42%
+"1,405",-,ARR,American Rare EARTHS Ltd,$0.095,0.00,0.00%,$27.64 M
+"1,406",-,GLIN,AMP Capital Global Infr Sec Fund (Unhedged) (Managed Fund),$2.55,0.00,0.00%,$27.59 M
+"1,407",-,NAG,Nagambie Resources Ltd,$0.055,0.00,0.00%,$27.50 M
+"1,408",AL8,Alderan Resources Ltd,$0.105,+0.005,+5.00%,$27.49 M,+169.23%
+"1,409",-,BHL,Boyuan Holdings Ltd,$0.08,0.00,0.00%,$27.45 M
+"1,410",CWX,Carawine Resources Ltd,$0.285,+0.005,+1.79%,$27.44 M,+16.33%
+"1,411",-,YBR,Yellow Brick Road Holdings Ltd,$0.084,0.00,0.00%,$27.24 M
+"1,412",-,DKM,Duketon Mining Ltd,$0.23,0.00,0.00%,$27.21 M
+"1,413",LGP,Little Green Pharma Ltd,$0.345,+0.005,+1.47%,$27.21 M,-1.43%
+"1,414",-,GMC,Gulf Manganese Corporation Ltd,$0.005,0.00,0.00%,$27.02 M
+"1,415",BNKS,Betashares Global Banks ETF - Currency Hedged,$4.64,+0.15,+3.34%,$27.00 M,-31.26%
+"1,416",MVL,Marvel Gold Ltd,$0.065,+0.004,+6.56%,$26.89 M,-45.00%
+"1,417",IIND,Betashares India Quality ETF,$8.57,+0.09,+1.06%,$26.74 M,-2.06%
+"1,418",-,RWD,Reward Minerals Ltd,$0.14,0.00,0.00%,$26.64 M
+"1,419",ATS,Australis Oil & Gas Ltd,$0.027,+0.003,+12.50%,$26.62 M,-80.00%
+"1,420",-,MOQ,MOQ Ltd,$0.15,0.00,0.00%,$26.62 M
+"1,421",AIV,Activex Ltd,$0.15,+0.01,+7.14%,$26.58 M,-16.67%
+"1,422",EUR,European Lithium Ltd,$0.037,-0.002,-5.13%,$26.57 M,-56.47%
+"1,423",PTR,Petratherm Ltd,$0.155,+0.005,+3.33%,$26.51 M,+287.50%
+"1,424",-,AGM,Australian Governance & Ethical INDEX Fund,$1.60,0.00,0.00%,$26.47 M
+"1,425",RDH,Redhill Education Ltd,$0.52,-0.03,-5.46%,$26.44 M,-73.03%
+"1,426",-,LNY,Laneway Resources Ltd,$0.007,0.00,0.00%,$26.43 M
+"1,427",INF,Infinity Lithium Corporation Ltd,$0.085,+0.001,+1.19%,$26.38 M,+32.43%
+"1,428",-,MFD,Mayfield Childcare Ltd,$0.82,0.00,0.00%,$26.32 M
+"1,429",VTI,"Visioneering Technologies, Inc",$0.027,-0.002,-6.90%,$26.30 M,-61.43%
+"1,430",SNAS,ETFs Ultra Short Nasdaq 100 Hedge Fund,$8.75,-0.04,-0.46%,$26.25 M,-11.17%
+"1,431",QFN,Betashares Australian Financials Sector ETF,$8.75,+0.18,+2.10%,$26.22 M,-23.25%
+"1,432",-,COD,Coda Minerals Ltd,$0.375,0.00,0.00%,$26.14 M
+"1,433",KYK,KYCKR Ltd,$0.076,+0.002,+2.70%,$26.13 M,-56.57%
+"1,434",-,PRX,Prodigy Gold NL,$0.045,0.00,0.00%,$26.13 M
+"1,435",UCM,Uscom Ltd,$0.17,+0.01,+6.25%,$26.11 M,+41.67%
+"1,436",BCT,Bluechiip Ltd,$0.044,+0.001,+2.33%,$26.09 M,-72.50%
+"1,437",LEX,Lefroy Exploration Ltd,$0.22,-0.01,-4.35%,$26.08 M,+2.33%
+"1,438",CAF,Centrepoint Alliance Ltd,$0.18,+0.005,+2.86%,$25.97 M,+50.00%
+"1,439",-,PNL,Paringa Resources Ltd,$0.041,0.00,0.00%,$25.94 M
+"1,440",VRS,Veris Ltd,$0.064,+0.009,+16.36%,$25.94 M,-5.88%
+"1,441",LMG,Latrobe Magnesium Ltd,$0.02,-0.001,-4.76%,$25.93 M,+66.67%
+"1,442",GIB,Gibb River Diamonds Ltd,$0.125,-0.005,-3.85%,$25.75 M,+331.03%
+"1,443",-,HVM,Happy Valley Nutrition Ltd,$0.15,0.00,0.00%,$25.73 M
+"1,444",CNW,Cirrus Networks Holdings Ltd,$0.029,+0.001,+3.57%,$25.72 M,-27.50%
+"1,445",PM1,Pure Minerals Ltd,$0.035,+0.002,+6.06%,$25.72 M,+94.44%
+"1,446",MGT,Magnetite Mines Ltd,$0.009,+0.001,+12.50%,$25.71 M,+140.75%
+"1,447",VMY,Vimy Resources Ltd,$0.033,+0.002,+6.45%,$25.70 M,-32.65%
+"1,448",-,VEC,Vector Resources Ltd,$0.012,0.00,0.00%,$25.66 M
+"1,449",MKG,Mako Gold Ltd,$0.10,-0.005,-4.76%,$25.64 M,+6.38%
+"1,450",GME,GME Resources Ltd,$0.046,+0.005,+12.20%,$25.62 M,-18.85%
+"1,451",-,POD,Podium Minerals Ltd,$0.099,0.00,0.00%,$25.60 M
+"1,452",-,AXI,Axiom Properties Ltd,$0.059,0.00,0.00%,$25.53 M
+"1,453",EINC,Betashares Legg Mason Equity Income Fund (Managed Fund),$7.34,+0.18,+2.51%,$25.44 M,-15.24%
+"1,454",IVZ,Invictus Energy Ltd,$0.054,+0.003,+5.88%,$25.43 M,+100.00%
+"1,455",-,AVC,Auctus Investment Group Ltd,$0.43,0.00,0.00%,$25.34 M
+"1,456",WNR,Wingara AG Ltd,$0.19,-0.005,-2.56%,$25.19 M,-37.71%
+"1,457",-,CLI,Croplogic Ltd,$0.031,0.00,0.00%,$25.12 M
+"1,458",-,SCL,Schrole Group Ltd,$0.017,0.00,0.00%,$25.04 M
+"1,459",8CO,8COMMON Ltd,$0.125,+0.01,+8.70%,$25.03 M,+43.68%
+"1,460",-,BGT,Bio-Gene Technology Ltd,$0.165,0.00,0.00%,$25.02 M
+"1,461",ISD,Isentia Group Ltd,$0.125,-0.06,-32.43%,$25.00 M,-66.67%
+"1,462",CLA,Celsius Resources Ltd,$0.032,+0.002,+6.67%,$24.97 M,+128.57%
+"1,463",GLN,Galan Lithium Ltd,$0.12,+0.01,+9.09%,$24.87 M,-33.33%
+"1,464",-,LNG,Liquefied Natural Gas Ltd,$0.043,0.00,0.00%,$24.80 M
+"1,465",SNG,Siren Gold Ltd,$0.42,+0.005,+1.21%,$24.66 M,-6.67%
+"1,466",-,EMB,Embelton Ltd,$11.40,0.00,0.00%,$24.60 M
+"1,467",-,1AD,Adalta Ltd,$0.10,0.00,0.00%,$24.52 M
+"1,468",CAV,Carnavale Resources Ltd,$0.012,+0.001,+9.09%,$24.48 M,+500.00%
+"1,469",-,CT1,Constellation Technologies Ltd,$0.018,0.00,0.00%,$24.44 M
+"1,470",-,AGX1,Antipodes Global Shares (Quoted Managed Fund),$5.23,0.00,0.00%,$24.41 M
+"1,471",-,ECP,ECP Emerging Growth Ltd,$1.33,0.00,0.00%,$24.36 M
+"1,472",SPQ,Superior Resources Ltd,$0.021,-0.002,-8.70%,$24.32 M,+220.00%
+"1,473",-,MRG,Murray River Organics Group Ltd,$0.011,0.00,0.00%,$24.26 M
+"1,474",SE1,Sensera Ltd,$0.075,-0.004,-5.06%,$24.16 M,+22.95%
+"1,475",-,MMJ,MMJ Group Holdings Ltd,$0.105,0.00,0.00%,$24.15 M
+"1,476",MR1,Montem Resources Ltd,$0.15,+0.01,+7.14%,$24.11 M,-40.00%
+"1,477",CXU,Cauldron Energy Ltd,$0.061,+0.003,+5.17%,$23.99 M,+238.89%
+"1,478",VOR,Vortiv Ltd,$0.17,+0.008,+4.94%,$23.89 M,-22.73%
+"1,479",-,ATR,Astron Corporation Ltd,$0.195,0.00,0.00%,$23.88 M
+"1,480",HEUR,Betashares Europe ETF-Currency Hedged,$10.26,+0.24,+2.40%,$23.78 M,-22.86%
+"1,481",BAR,Barra Resources Ltd,$0.035,+0.005,+16.67%,$23.61 M,+66.67%
+"1,482",FFT,Future First Technologies Ltd,$0.047,+0.001,+2.17%,$23.55 M,+2.17%
+"1,483",COB,Cobalt Blue Holdings Ltd,$0.099,-0.001,-1.00%,$23.51 M,-29.29%
+"1,484",ASN,Anson Resources Ltd,$0.03,+0.001,+3.45%,$23.50 M,-6.25%
+"1,485",ACW,Actinogen Medical Ltd,$0.021,-0.001,-4.55%,$23.44 M,-38.78%
+"1,486",-,COY,Coppermoly Ltd,$0.011,0.00,0.00%,$23.40 M
+"1,487",CRS,Caprice Resources Ltd,$0.38,-0.01,-2.56%,$23.37 M,+228.44%
+"1,488",KRM,Kingsrose Mining Ltd,$0.032,-0.001,-3.03%,$23.36 M,-13.51%
+"1,489",CETF,Vaneck Vectors Ftse China A50 ETF,$67.45,+0.34,+0.51%,$23.35 M,+13.74%
+"1,490",SYA,Sayona Mining Ltd,$0.008,+0.001,+14.29%,$23.30 M,-18.18%
+"1,491",VMX,Valmec Ltd,$0.185,+0.005,+2.78%,$23.26 M,-33.93%
+"1,492",-,EFF,Evans & Partners Australian Flagship Fund,$1.51,0.00,0.00%,$23.22 M
+"1,493",-,NXM,Nexus Minerals Ltd,$0.12,0.00,0.00%,$23.20 M
+"1,494",HRR,Heron Resources Ltd,$0.054,+0.002,+3.85%,$23.15 M,-68.24%
+"1,495",EHX,Ehr Resources Ltd,$0.093,+0.002,+2.20%,$23.13 M,+158.33%
+"1,496",-,TSL,Titanium Sands Ltd,$0.043,0.00,0.00%,$23.10 M
+"1,497",AS1,Angel Seafood Holdings Ltd,$0.175,-0.005,-2.78%,$23.10 M,-12.50%
+"1,498",AFL,Af Legal Group Ltd,$0.375,+0.005,+1.35%,$23.07 M,+102.70%
+"1,499",KNO,Knosys Ltd,$0.155,-0.005,-3.13%,$23.07 M,+68.48%
+"1,500",BPH,BPH Energy Ltd,$0.042,+0.001,+2.44%,$23.05 M,+142.13%
+"1,501",AVR,Anteris Technologies Ltd,$3.89,-0.03,-0.77%,$22.99 M,-40.15%
+"1,502",QMIX,SPDR MSCI World Quality MIX Fund,$20.62,+0.2,+0.98%,$22.96 M,-6.06%
+"1,503",SCN,Scorpion Minerals Ltd,$0.10,+0.006,+6.38%,$22.95 M,+809.09%
+"1,504",TAR,Taruga Minerals Ltd,$0.05,-0.002,-3.85%,$22.86 M,+146.15%
+"1,505",-,GFL,Global Masters Fund Ltd,$2.13,0.00,0.00%,$22.84 M
+"1,506",NSB,Neuroscientific Biopharmaceuticals Ltd,$0.29,-0.01,-3.33%,$22.79 M,+28.89%
+"1,507",WFL,Wellfully Ltd,$0.155,+0.005,+3.33%,$22.71 M,+933.33%
+"1,508",-,HSC,HSC Technology Group Ltd,$0.015,0.00,0.00%,$22.63 M
+"1,509",-,SSO,SPDR S&P/ASX Small Ordinaries Fund,$14.89,0.00,0.00%,$22.61 M
+"1,510",-,DCL,Domacom Ltd,$0.074,0.00,0.00%,$22.58 M
+"1,511",-,MSL,MSL Solutions Ltd,$0.07,0.00,0.00%,$22.56 M
+"1,512",SUP,Superior Lake Resources Ltd,$0.14,+0.005,+3.70%,$22.55 M,+27.27%
+"1,513",-,VBS,Vectus Biosystems Ltd,$0.95,0.00,0.00%,$22.48 M
+"1,514",AMG,Ausmex Mining Group Ltd,$0.041,+0.001,+2.50%,$22.45 M,-54.44%
+"1,515",C6C,Copper Mountain Mining Corporation,$1.17,+0.07,+6.36%,$22.41 M,+67.14%
+"1,516",HCT,Holista Colltech Ltd,$0.081,-0.001,-1.22%,$22.30 M,+14.09%
+"1,517",-,CCE,Carnegie Clean Energy Ltd,$0.002,0.00,0.00%,$22.28 M
+"1,518",-,BTC,BTC Health Ltd,$0.09,0.00,0.00%,$22.15 M
+"1,519",KNM,Kneomedia Ltd,$0.024,-0.001,-4.00%,$22.04 M,-29.41%
+"1,520",MTC,Metalstech Ltd,$0.15,-0.01,-6.25%,$21.99 M,+837.50%
+"1,521",INES,Intelligent Investor Ethical Share Fund (Managed Fund),$3.01,+0.04,+1.35%,$21.85 M,+17.12%
+"1,522",CVV,Caravel Minerals Ltd,$0.086,-0.004,-4.44%,$21.76 M,+115.00%
+"1,523",DDD,3D Resources Ltd,$0.006,-0.001,-14.29%,$21.69 M,+500.00%
+"1,524",HGO,Hillgrove Resources Ltd,$0.037,+0.003,+8.82%,$21.67 M,-49.32%
+"1,525",-,GMR,Golden Rim Resources Ltd,$0.012,0.00,0.00%,$21.50 M
+"1,526",-,ATX,Amplia Therapeutics Ltd,$0.20,0.00,0.00%,$21.49 M
+"1,527",MWR,MGM Wireless Ltd,$0.13,-0.005,-3.70%,$21.47 M,-59.63%
+"1,528",TLM,Talisman Mining Ltd,$0.115,+0.01,+9.52%,$21.46 M,+15.00%
+"1,529",AUMF,Ishares Edge MSCI Australia Multifactor ETF,$27.97,+0.53,+1.93%,$21.45 M,-6.33%
+"1,530",WSI,Weststar Industrial Ltd,$0.022,+0.001,+4.76%,$21.43 M,-4.35%
+"1,531",RENT,AMP Capital Global Prop Sec Fund (Unhedged) (Managed Fund),$2.55,+0.04,+1.59%,$21.41 M,-17.48%
+"1,532",FSG,Field Solutions Holdings Ltd,$0.04,-0.001,-2.44%,$21.22 M,+53.85%
+"1,533",TNR,Torian Resources Ltd,$0.029,-0.001,-3.33%,$21.21 M,+115.77%
+"1,534",-,TV2,TV2U International Ltd,$0.008,0.00,0.00%,$21.21 M
+"1,535",VRC,Volt Resources Ltd,$0.01,-0.001,-9.09%,$21.17 M,-8.50%
+"1,536",-,CG1,Carbonxt Group Ltd,$0.175,0.00,0.00%,$21.12 M
+"1,537",WEMG,SPDR S&P Emerging Markets Fund,$22.98,+0.32,+1.41%,$21.10 M,+1.10%
+"1,538",-,TI1,Tombador Iron Ltd,$0.028,0.00,0.00%,$21.09 M
+"1,539",TAS,Tasman Resources Ltd,$0.036,+0.002,+5.88%,$21.05 M,-27.17%
+"1,540",-,OAU,Ora Gold Ltd,$0.025,0.00,0.00%,$21.02 M
+"1,541",ACU,Acumentis Group Ltd,$0.135,-0.005,-3.57%,$21.02 M,-10.00%
+"1,542",-,TD1,Tali Digital Ltd,$0.028,0.00,0.00%,$20.98 M
+"1,543",-,EME,Energy Metals Ltd,$0.10,0.00,0.00%,$20.97 M
+"1,544",CURE,ETFs S&P Biotech ETF,$61.32,+0.33,+0.54%,$20.97 M,+22.79%
+"1,545",ASQ,Australian Silica Quartz Group Ltd,$0.078,-0.005,-6.02%,$20.90 M,+85.71%
+"1,546",-,MOB,Mobilicom Ltd,$0.081,0.00,0.00%,$20.89 M
+"1,547",SAU,Southern Gold Ltd,$0.105,+0.005,+5.00%,$20.87 M,-57.14%
+"1,548",-,EBND,Vaneck Emerging Inc Opportunities Active ETF (Managed Fund),$11.38,0.00,0.00%,$20.86 M
+"1,549",-,JAT,Jatcorp Ltd,$0.021,0.00,0.00%,$20.83 M
+"1,550",2BE,Tubi Ltd,$0.067,+0.001,+1.52%,$20.79 M,-46.81%
+"1,551",-,IQ3,IQ3CORP Ltd,$0.20,0.00,0.00%,$20.79 M
+"1,552",-,HGL,Hudson Investment Group Ltd,$0.35,0.00,0.00%,$20.78 M
+"1,553",SVA,Simavita Ltd,$0.018,+0.001,+5.88%,$20.77 M,+125.00%
+"1,554",RLT,Renergen Ltd,$1.20,+0.05,+4.35%,$20.75 M,+50.00%
+"1,555",TTI,Traffic Technologies Ltd,$0.043,-0.001,-2.27%,$20.74 M,+138.89%
+"1,556",EIGA,Einvest Income Generator Fund (Managed Fund),$3.18,+0.05,+1.60%,$20.56 M,-18.04%
+"1,557",KIS,King Island Scheelite Ltd,$0.077,-0.01,-11.49%,$20.38 M,+10.00%
+"1,558",IKW,Ikwezi Mining Ltd,$0.005,+0.001,+25.00%,$20.33 M,+400.00%
+"1,559",TYM,TYMLEZ Group Ltd,$0.092,-0.008,-8.00%,$20.21 M,+118.08%
+"1,560",-,DXN,DXN Ltd,$0.019,0.00,0.00%,$20.16 M
+"1,561",SRN,Surefire Resources NL,$0.032,-0.003,-8.57%,$20.10 M,+357.14%
+"1,562",-,TPP,Tempo Australia Ltd,$0.055,0.00,0.00%,$19.95 M
+"1,563",-,EQE,EQUUS Mining Ltd,$0.011,0.00,0.00%,$19.81 M
+"1,564",BUG,Buderim Group Ltd,$0.23,+0.015,+6.98%,$19.79 M,+27.78%
+"1,565",-,RIM,Rimfire Pacific Mining NL,$0.011,0.00,0.00%,$19.72 M
+"1,566",-,EMU,EMU NL,$0.059,0.00,0.00%,$19.68 M
+"1,567",-,BPP,Babylon Pump & Power Ltd,$0.023,0.00,0.00%,$19.59 M
+"1,568",PEC,Perpetual Resources Ltd,$0.044,-0.001,-2.22%,$19.58 M,+46.67%
+"1,569",-,VEFI,Vanguard Ethically Conscious GLB Agg Bond INDEX (Hedged) ETF,$53.47,0.00,0.00%,$19.55 M
+"1,570",-,WCG,Webcentral Group Ltd,$0.16,0.00,0.00%,$19.54 M
+"1,571",SRK,Strike Resources Ltd,$0.094,+0.004,+4.44%,$19.47 M,+141.03%
+"1,572",PVE,Po Valley Energy Ltd,$0.03,+0.002,+7.14%,$19.42 M,-41.18%
+"1,573",NSM,North Stawell Minerals Ltd,$0.485,+0.005,+1.04%,$19.40 M,-1.02%
+"1,574",-,MAUCA,Magnetic Resources NL,$0.95,0.00,0.00%,$19.40 M
+"1,575",GLH,Global Health Ltd,$0.46,+0.07,+17.95%,$19.37 M,+196.77%
+"1,576",CGB,Cann Global Ltd,$0.005,-0.001,-16.67%,$19.36 M,-78.26%
+"1,577",-,SIT,Site Group International Ltd,$0.023,0.00,0.00%,$19.35 M
+"1,578",-,TPO,Tian Poh Resources Ltd,$0.05,0.00,0.00%,$19.33 M
+"1,579",-,MSE,Metalsearch Ltd,$0.014,0.00,0.00%,$19.31 M
+"1,580",OLI,Oliver's Real Food Ltd,$0.071,+0.006,+9.23%,$19.22 M,+61.36%
+"1,581",WC8,Wildcat Resources Ltd,$0.038,+0.001,+2.70%,$19.08 M,+72.73%
+"1,582",RPM,RPM Automotive Group Ltd,$0.21,+0.02,+10.53%,$19.07 M,+35.48%
+"1,583",KTA,Krakatoa Resources Ltd,$0.069,-0.004,-5.48%,$19.04 M,+53.33%
+"1,584",SW1,Swift Media Ltd,$0.043,+0.005,+13.16%,$19.02 M,-66.50%
+"1,585",PWN,Parkway Minerals NL,$0.01,-0.002,-16.67%,$19.01 M,+66.67%
+"1,586",FIJ,Fiji Kava Ltd,$0.175,+0.01,+6.06%,$18.95 M,+84.21%
+"1,587",-,NWE,Norwest Energy NL,$0.004,0.00,0.00%,$18.94 M
+"1,588",RGL,Riversgold Ltd,$0.048,+0.009,+23.08%,$18.80 M,+269.23%
+"1,589",FOOD,Betashares Global Agriculture ETF - Currency Hedged,$5.50,+0.1,+1.85%,$18.79 M,-4.51%
+"1,590",-,CCG,Commschoice Group Ltd,$0.098,0.00,0.00%,$18.76 M
+"1,591",MIL,Millennium Services Group Ltd,$0.405,-0.005,-1.22%,$18.60 M,+26.56%
+"1,592",-,JAY,Jayride Group Ltd,$0.16,0.00,0.00%,$18.57 M
+"1,593",-,CAG,Cape Range Ltd,$0.195,0.00,0.00%,$18.51 M
+"1,594",-,GRL,Godolphin Resources Ltd,$0.27,0.00,0.00%,$18.45 M
+"1,595",CORE,ETFs Global Core Infrastructure ETF,$45.97,+0.35,+0.77%,$18.42 M,-25.24%
+"1,596",-,MGL,Magontec Ltd,$0.016,0.00,0.00%,$18.41 M
+"1,597",-,VPR,Volt Power Group Ltd,$0.002,0.00,0.00%,$18.34 M
+"1,598",-,ANA,Ansila Energy NL,$0.036,0.00,0.00%,$18.32 M
+"1,599",ACB,A-Cap Energy Ltd,$0.021,+0.001,+5.00%,$18.31 M,-16.00%
+"1,600",-,OGA,Ocean Grown Abalone Ltd,$0.091,0.00,0.00%,$18.27 M
+"1,601",-,NGE,NGE Capital Ltd,$0.49,0.00,0.00%,$18.21 M
+"1,602",-,RNU,Renascor Resources Ltd,$0.011,0.00,0.00%,$18.12 M
+"1,603",-,NVO,Nvoi Ltd,$0.01,0.00,0.00%,$18.07 M
+"1,604",-,AZI,Alta ZINC Ltd,$0.005,0.00,0.00%,$18.05 M
+"1,605",-,PSL,Paterson Resources Ltd,$0.004,0.00,0.00%,$18.02 M
+"1,606",FPP,Fat Prophets Global Property Fund,$0.79,+0.03,+3.95%,$17.99 M,-18.01%
+"1,607",INP,Incentiapay Ltd,$0.025,+0.002,+8.70%,$17.96 M,+8.70%
+"1,608",-,WEL,Winchester Energy Ltd,$0.026,0.00,0.00%,$17.91 M
+"1,609",CPH,Creso Pharma Ltd,$0.026,+0.001,+4.00%,$17.90 M,-87.32%
+"1,610",-,CY5,CYGNUS Gold Ltd,$0.17,0.00,0.00%,$17.85 M
+"1,611",KFE,Kogi Iron Ltd,$0.023,-0.001,-4.17%,$17.81 M,-48.89%
+"1,612",TKM,Trek Metals Ltd,$0.084,+0.007,+9.09%,$17.64 M,+180.00%
+"1,613",-,UCW,UCW Ltd,$0.15,0.00,0.00%,$17.63 M
+"1,614",-,AQD,Ausquest Ltd,$0.026,0.00,0.00%,$17.61 M
+"1,615",VGMF,Vanguard Global Multi-Factor Active ETF (Managed Fund),$47.30,+0.55,+1.18%,$17.52 M,-9.60%
+"1,616",BCC,Beam Communications Holdings Ltd,$0.265,+0.005,+1.92%,$17.51 M,+39.47%
+"1,617",MAN,Mandrake Resources Ltd,$0.058,+0.001,+1.75%,$17.48 M,+314.29%
+"1,618",LLO,Lion One Metals Ltd,$1.74,-0.06,-3.33%,$17.48 M,+76.65%
+"1,619",-,ARE,Argonaut Resources NL,$0.006,0.00,0.00%,$17.48 M
+"1,620",ICS,Icsglobal Ltd,$1.66,+0.02,+1.22%,$17.47 M,+11.79%
+"1,621",NPM,Newpeak Metals Ltd,$0.004,+0.001,+33.33%,$17.46 M,+33.33%
+"1,622",PXX,Polarx Ltd,$0.032,+0.002,+6.67%,$17.33 M,-56.76%
+"1,623",-,TIA,Tian An Australia Ltd,$0.20,0.00,0.00%,$17.32 M
+"1,624",ICG,Inca Minerals Ltd,$0.049,+0.003,+6.52%,$17.28 M,+27.51%
+"1,625",CNL,Celamin Holdings Ltd,$0.089,+0.008,+9.88%,$17.27 M,+27.14%
+"1,626",VOL,Victory Offices Ltd,$0.21,-0.005,-2.33%,$17.18 M,-89.83%
+"1,627",-,VIG,Victor Group Holdings Ltd,$0.03,0.00,0.00%,$17.17 M
+"1,628",DTM,Dart Mining NL,$0.195,+0.025,+14.71%,$17.11 M,+67.98%
+"1,629",CNJ,Conico Ltd,$0.029,+0.003,+11.54%,$17.05 M,+262.50%
+"1,630",PGM,Platina Resources Ltd,$0.042,-0.002,-4.55%,$16.97 M,+75.00%
+"1,631",TRT,Todd River Resources Ltd,$0.035,+0.002,+6.06%,$16.92 M,+9.38%
+"1,632",RMX,Red Mountain Mining Ltd,$0.015,-0.001,-6.25%,$16.91 M,+87.50%
+"1,633",-,ERG,Eneco Refresh Ltd,$0.062,0.00,0.00%,$16.89 M
+"1,634",RDN,Raiden Resources Ltd,$0.03,+0.002,+7.14%,$16.81 M,+328.57%
+"1,635",PFG,Prime Financial Group Ltd,$0.086,+0.003,+3.61%,$16.80 M,+7.50%
+"1,636",INCM,Betashares Global Income Leaders ETF,$12.39,+0.3,+2.48%,$16.75 M,-25.00%
+"1,637",-,RNT,Rent.com.Au Ltd,$0.049,0.00,0.00%,$16.65 M
+"1,638",IP1,Integrated Payment Technologies Ltd,$0.029,-0.001,-3.33%,$16.62 M,+132.18%
+"1,639",GUL,Gullewa Ltd,$0.105,-0.01,-8.70%,$16.58 M,+275.00%
+"1,640",-,CHK,Cohiba Minerals Ltd,$0.016,0.00,0.00%,$16.57 M
+"1,641",ESPO,Vaneck Vectors Video Gaming and Esports ETF,$10.33,+0.04,+0.39%,$16.53 M,+2.48%
+"1,642",-,DAU,Dampier Gold Ltd,$0.058,0.00,0.00%,$16.53 M
+"1,643",GRV,Greenvale Mining Ltd,$0.061,+0.004,+7.02%,$16.52 M,+160.81%
+"1,644",JDR,Jadar Resources Ltd,$0.027,-0.001,-3.57%,$16.47 M,+125.00%
+"1,645",-,DTR,Dateline Resources Ltd,$0.002,0.00,0.00%,$16.42 M
+"1,646",-,AJY,Asaplus Resources Ltd,$0.12,0.00,0.00%,$16.32 M
+"1,647",TMR,Tempus Resources Ltd,$0.205,-0.005,-2.38%,$16.30 M,+5.13%
+"1,648",-,NGY,Nuenergy Gas Ltd,$0.011,0.00,0.00%,$16.29 M
+"1,649",UUL,Ultima United Ltd,$0.555,+0.005,+0.91%,$16.28 M,"+2,120.00%"
+"1,650",-,RLG,Roolife Group Ltd,$0.028,0.00,0.00%,$16.23 M
+"1,651",-,MXR,Maximus Resources Ltd,$0.135,0.00,0.00%,$16.18 M
+"1,652",LRS,Latin Resources Ltd,$0.016,+0.001,+6.67%,$16.09 M,+66.23%
+"1,653",KMT,Kopore Metals Ltd,$0.025,+0.001,+4.17%,$16.07 M,+400.00%
+"1,654",WCN,White Cliff Minerals Ltd,$0.031,+0.005,+19.23%,$16.01 M,+520.00%
+"1,655",AVE,Avecho Biotechnology Ltd,$0.01,-0.001,-9.09%,$15.97 M,+150.00%
+"1,656",-,ASP,Aspermont Ltd,$0.007,0.00,0.00%,$15.94 M
+"1,657",-,DVN,Devine Ltd,$0.10,0.00,0.00%,$15.87 M
+"1,658",AUL,Austar Gold Ltd,$0.295,+0.005,+1.72%,$15.86 M,"+14,937.20%"
+"1,659",-,GES,Genesis Resources Ltd,$0.02,0.00,0.00%,$15.66 M
+"1,660",IBG,Ironbark ZINC Ltd,$0.017,-0.002,-10.53%,$15.65 M,+21.43%
+"1,661",-,CM8,Crowd Media Holdings Ltd,$0.04,0.00,0.00%,$15.60 M
+"1,662",-,ELE,Elmore Ltd,$0.069,0.00,0.00%,$15.59 M
+"1,663",ELT,Elementos Ltd,$0.005,+0.001,+25.00%,$15.53 M,+150.00%
+"1,664",POU,Betashares British Pound ETF,$17.80,-0.07,-0.39%,$15.53 M,-2.68%
+"1,665",-,MCM,MC Mining Ltd,$0.10,0.00,0.00%,$15.44 M
+"1,666",-,MGU,Magnum Mining and Exploration Ltd,$0.048,0.00,0.00%,$15.42 M
+"1,667",M2R,Miramar Resources Ltd,$0.365,+0.02,+5.80%,$15.41 M,-12.05%
+"1,668",-,TDO,3D Oil Ltd,$0.058,0.00,0.00%,$15.38 M
+"1,669",1ST,1ST Group Ltd,$0.036,-0.004,-10.00%,$15.29 M,-42.86%
+"1,670",-,HNG,HGL Ltd,$0.155,0.00,0.00%,$15.19 M
+"1,671",-,CAZ,Cazaly Resources Ltd,$0.043,0.00,0.00%,$15.13 M
+"1,672",-,BEE,Broo Ltd,$0.016,0.00,0.00%,$14.98 M
+"1,673",GBE,Globe Metals & Mining Ltd,$0.032,+0.003,+10.35%,$14.91 M,+33.33%
+"1,674",NZS,New Zealand Coastal Seafoods Ltd,$0.025,+0.002,+8.70%,$14.89 M,+58.37%
+"1,675",-,MCE,Matrix Composites & Engineering Ltd,$0.145,0.00,0.00%,$14.84 M
+"1,676",-,NYR,Nyrada Inc,$0.195,0.00,0.00%,$14.83 M
+"1,677",AYM,Australia United Mining Ltd,$0.008,-0.003,-27.27%,$14.74 M,+700.00%
+"1,678",-,TDY,Thedocyard Ltd,$0.19,0.00,0.00%,$14.74 M
+"1,679",-,AEV,Avenira Ltd,$0.017,0.00,0.00%,$14.67 M
+"1,680",-,AMT,Allegra Orthopaedics Ltd,$0.14,0.00,0.00%,$14.62 M
+"1,681",ARO,Astro Resources NL,$0.005,+0.001,+25.00%,$14.53 M,+66.67%
+"1,682",FAU,First Au Ltd,$0.027,+0.003,+12.50%,$14.53 M,+80.00%
+"1,683",-,LPE,Locality Planning Energy Holdings Ltd,$0.23,0.00,0.00%,$14.46 M
+"1,684",TPC,TPC Consolidated Ltd,$1.285,-0.005,-0.39%,$14.44 M,+42.78%
+"1,685",-,ICE,Icetana Ltd,$0.14,0.00,0.00%,$14.38 M
+"1,686",-,SCT,Scout Security Ltd,$0.15,0.00,0.00%,$14.35 M
+"1,687",ABX,Australian Bauxite Ltd,$0.095,-0.01,-9.52%,$14.27 M,-17.39%
+"1,688",-,ADR,Adherium Ltd,$0.021,0.00,0.00%,$14.25 M
+"1,689",-,MBK,Metal Bank Ltd,$0.012,0.00,0.00%,$14.21 M
+"1,690",FEL,Fe Ltd,$0.028,+0.001,+3.70%,$14.20 M,+75.00%
+"1,691",ID8,Identitii Ltd,$0.13,+0.005,+4.00%,$14.17 M,-62.86%
+"1,692",AON,Apollo Minerals Ltd,$0.042,+0.001,+2.44%,$14.12 M,+35.48%
+"1,693",-,ODY,Odyssey Energy Ltd,$0.043,0.00,0.00%,$14.08 M
+"1,694",-,NME,NEX Metals Exploration Ltd,$0.058,0.00,0.00%,$13.97 M
+"1,695",-,NTL,New Talisman Gold Mines Ltd,$0.005,0.00,0.00%,$13.96 M
+"1,696",ODA,Orcoda Ltd,$0.12,-0.015,-11.11%,$13.92 M,-52.00%
+"1,697",-,HNR,Hannans Ltd,$0.007,0.00,0.00%,$13.92 M
+"1,698",-,VMG,VDM Group Ltd,$0.002,0.00,0.00%,$13.86 M
+"1,699",CXZ,Connexion Telematics Ltd,$0.016,+0.001,+6.67%,$13.81 M,-36.00%
+"1,700",-,MBM,Mobecom Ltd,$0.042,0.00,0.00%,$13.78 M
+"1,701",HMD,Heramed Ltd,$0.125,-0.005,-3.85%,$13.76 M,-24.24%
+"1,702",-,AVW,Avira Resources Ltd,$0.01,0.00,0.00%,$13.75 M
+"1,703",-,IS3,I Synergy Group Ltd,$0.075,0.00,0.00%,$13.75 M
+"1,704",-,HXG,Hexagon Energy Materials Ltd,$0.047,0.00,0.00%,$13.74 M
+"1,705",MEL,Metgasco Ltd,$0.025,-0.001,-3.85%,$13.74 M,-43.18%
+"1,706",AFR,African Energy Resources Ltd,$0.022,+0.002,+10.00%,$13.71 M,+57.14%
+"1,707",PUA,Peak Minerals Ltd,$0.025,+0.002,+8.70%,$13.69 M,+65.76%
+"1,708",-,FEI,Fe Investments Group Ltd,$0.06,0.00,0.00%,$13.57 M
+"1,709",-,GNM,Great Northern Minerals Ltd,$0.015,0.00,0.00%,$13.54 M
+"1,710",-,CGN,Crater Gold Mining Ltd,$0.011,0.00,0.00%,$13.50 M
+"1,711",SLZ,Sultan Resources Ltd,$0.23,+0.005,+2.22%,$13.48 M,+253.85%
+"1,712",-,AVQ,Axiom Mining Ltd,$0.025,0.00,0.00%,$13.48 M
+"1,713",-,BDG,Black Dragon Gold Corp,$0.10,0.00,0.00%,$13.44 M
+"1,714",DDB,Dynamic Drill and Blast Holdings Ltd,$0.46,-0.02,-4.17%,$13.43 M,+2.22%
+"1,715",HWK,Hawkstone Mining Ltd,$0.011,-0.001,-8.33%,$13.42 M,+10.00%
+"1,716",-,OLH,Oldfields Holdings Ltd,$0.08,0.00,0.00%,$13.42 M
+"1,717",-,AMO,Ambertech Ltd,$0.175,0.00,0.00%,$13.38 M
+"1,718",-,CLZ,Classic Minerals Ltd,$0.001,0.00,0.00%,$13.34 M
+"1,719",NAE,New Age Exploration Ltd,$0.012,+0.001,+9.09%,$13.33 M,+300.00%
+"1,720",ESS,Essential Metals Ltd,$0.088,-0.002,-2.22%,$13.28 M,-32.31%
+"1,721",KAM,K2 Asset Management Holdings Ltd,$0.055,-0.002,-3.51%,$13.26 M,+22.22%
+"1,722",-,TPS,Threat Protect Australia Ltd,$0.055,0.00,0.00%,$13.25 M
+"1,723",-,VIC,Victory Mines Ltd,$0.003,0.00,0.00%,$13.25 M
+"1,724",-,MSR,Manas Resources Ltd,$0.005,0.00,0.00%,$13.22 M
+"1,725",-,IDA,Indiana Resources Ltd,$0.057,0.00,0.00%,$13.17 M
+"1,726",-,SRI,Sipa Resources Ltd,$0.074,0.00,0.00%,$13.16 M
+"1,727",BUY,Bounty Oil & Gas NL,$0.012,-0.001,-7.69%,$13.16 M,+200.00%
+"1,728",JXT,Jaxsta Ltd,$0.082,+0.009,+12.33%,$13.16 M,-71.72%
+"1,729",-,CE1,Calima Energy Ltd,$0.006,0.00,0.00%,$13.15 M
+"1,730",CDY,Cellmid Ltd,$0.105,+0.005,+5.00%,$13.15 M,-50.00%
+"1,731",ETPMPM,ETFs Group,$213.00,-0.01,-0.01%,$13.10 M,+21.11%
+"1,732",GSM,Golden State Mining Ltd,$0.26,+0.01,+4.00%,$13.06 M,+225.00%
+"1,733",-,TPD,Talon Petroleum Ltd,$0.003,0.00,0.00%,$13.06 M
+"1,734",-,MNB,Minbos Resources Ltd,$0.002,0.00,0.00%,$13.01 M
+"1,735",TEG,Triangle Energy (Global) Ltd,$0.023,-0.009,-28.13%,$12.98 M,-55.77%
+"1,736",-,SIV,SIV Capital Ltd,$0.33,0.00,0.00%,$12.96 M
+"1,737",ONX,Orminex Ltd,$0.024,+0.003,+14.29%,$12.94 M,-70.00%
+"1,738",-,AIR,Astivita Ltd,$0.68,0.00,0.00%,$12.93 M
+"1,739",-,ECG,Ecargo Holdings Ltd,$0.021,0.00,0.00%,$12.92 M
+"1,740",LSR,Lodestar Minerals Ltd,$0.015,+0.002,+15.39%,$12.79 M,+87.50%
+"1,741",MEY,Marenica Energy Ltd,$0.089,+0.001,+1.14%,$12.76 M,-9.18%
+"1,742",-,AGR,Aguia Resources Ltd,$0.046,0.00,0.00%,$12.76 M
+"1,743",EMMG,Betashares Legg Mason Emerging Markets Fund (Managed Fund),$6.39,+0.09,+1.43%,$12.76 M,+13.10%
+"1,744",ADY,Admiralty Resources NL,$0.011,-0.002,-15.39%,$12.75 M,+22.22%
+"1,745",-,EPM,Eclipse Metals Ltd,$0.009,0.00,0.00%,$12.73 M
+"1,746",-,KBC,Keybridge Capital Ltd,$0.071,0.00,0.00%,$12.72 M
+"1,747",-,CZL,Consolidated ZINC Ltd,$0.004,0.00,0.00%,$12.68 M
+"1,748",-,AIY,Authorised Investment Fund Ltd,$0.03,0.00,0.00%,$12.66 M
+"1,749",CYM,Cyprium Metals Ltd,$0.18,-0.01,-5.26%,$12.61 M,-12.20%
+"1,750",-,SVH,Silver Heritage Group Ltd,$0.01,0.00,0.00%,$12.61 M
+"1,751",-,YPB,YPB Group Ltd,$0.003,0.00,0.00%,$12.59 M
+"1,752",-,RHI,Red Hill Iron Ltd,$0.21,0.00,0.00%,$12.57 M
+"1,753",BNR,Bulletin Resources Ltd,$0.07,-0.003,-4.11%,$12.55 M,+218.18%
+"1,754",ABV,Advanced Braking Technology Ltd,$0.033,+0.001,+3.13%,$12.51 M,+13.79%
+"1,755",-,ENE,Enevis Ltd,$0.125,0.00,0.00%,$12.49 M
+"1,756",FFF,Forbidden Foods Ltd,$0.275,-0.005,-1.79%,$12.45 M,-24.66%
+"1,757",NDIA,ETFs Reliance India Nifty 50 ETF,$46.10,+0.52,+1.14%,$12.45 M,-7.13%
+"1,758",HLTH,Vaneck Vectors Global Healthcare Leaders ETF,$10.35,+0.12,+1.17%,$12.42 M,+2.48%
+"1,759",NCL,Netccentric Ltd,$0.047,+0.002,+4.44%,$12.34 M,+840.00%
+"1,760",NGS,Nutritional Growth Solutions Ltd,$0.285,+0.015,+5.56%,$12.26 M,-6.56%
+"1,761",-,GTR,Gti Resources Ltd,$0.019,0.00,0.00%,$12.20 M
+"1,762",ALY,Alchemy Resources Ltd,$0.018,-0.001,-5.26%,$12.10 M,+53.48%
+"1,763",-,HPR,High Peak Royalties Ltd,$0.064,0.00,0.00%,$12.09 M
+"1,764",-,FZR,Fitzroy River Corporation Ltd,$0.14,0.00,0.00%,$12.09 M
+"1,765",-,BOA,Boadicea Resources Ltd,$0.195,0.00,0.00%,$12.06 M
+"1,766",XTD,XTD Ltd,$0.064,+0.005,+8.48%,$12.04 M,+203.57%
+"1,767",-,FPL,Fremont Petroleum Corporation Ltd,$0.003,0.00,0.00%,$12.03 M
+"1,768",-,AU1,The Agency Group Australia Ltd,$0.04,0.00,0.00%,$11.96 M
+"1,769",ICN,Icon Energy Ltd,$0.02,-0.003,-13.04%,$11.95 M,+42.86%
+"1,770",-,VMIN,Vanguard Global Minimum Volatility Active ETF (Managed Fund),$51.78,0.00,0.00%,$11.92 M
+"1,771",-,PIL,Peppermint Innovation Ltd,$0.011,0.00,0.00%,$11.92 M
+"1,772",-,FDM,Freedom Oil and Gas Ltd,$0.011,0.00,0.00%,$11.85 M
+"1,773",ICOR,Ishares Core Corporate Bond ETF,$102.75,+0.1,+0.10%,$11.82 M,+2.70%
+"1,774",-,HWH,Houston We Have Ltd,$0.045,0.00,0.00%,$11.78 M
+"1,775",RML,Resolution Minerals Ltd,$0.042,+0.002,+5.00%,$11.74 M,-37.31%
+"1,776",-,EGY,Energy Technologies Ltd,$0.079,0.00,0.00%,$11.71 M
+"1,777",ZUSD,ETFs Enhanced Usd Cash ETF,$10.79,-0.06,-0.55%,$11.67 M,-2.35%
+"1,778",-,KGM,Kalnorth Gold Mines Ltd,$0.013,0.00,0.00%,$11.63 M
+"1,779",AQC,Australian Pacific Coal Ltd,$0.23,+0.03,+15.00%,$11.61 M,+24.32%
+"1,780",AX8,Accelerate Resources Ltd,$0.081,+0.006,+8.00%,$11.60 M,+92.09%
+"1,781",ANR,Anatara Lifesciences Ltd,$0.20,+0.005,+2.56%,$11.49 M,-2.44%
+"1,782",YANK,Betashares Strong U.S. Dollar Fund (Hedge Fund),$12.09,-0.11,-0.90%,$11.49 M,-13.02%
+"1,783",-,CTE,Cryosite Ltd,$0.245,0.00,0.00%,$11.48 M
+"1,784",TMZ,Thomson Resources Ltd,$0.064,-0.001,-1.54%,$11.44 M,+143.04%
+"1,785",FRM,Farm Pride Foods Ltd,$0.205,-0.005,-2.38%,$11.31 M,-32.79%
+"1,786",-,CL8,Collaborate Corporation Ltd,$0.008,0.00,0.00%,$11.31 M
+"1,787",-,QGL,Quantum Graphite Ltd,$0.051,0.00,0.00%,$11.16 M
+"1,788",-,AAJ,Aruma Resources Ltd,$0.007,0.00,0.00%,$11.13 M
+"1,789",-,SI6,SIX Sigma Metals Ltd,$0.01,0.00,0.00%,$11.09 M
+"1,790",LIN,Lindian Resources Ltd,$0.018,-0.002,-10.00%,$11.06 M,-10.00%
+"1,791",SUD,Suda Pharmaceuticals Ltd,$0.036,-0.001,-2.70%,$11.05 M,-43.34%
+"1,792",-,SIX,Sprintex Ltd,$0.095,0.00,0.00%,$11.01 M
+"1,793",SCU,Stemcell United Ltd,$0.017,+0.001,+6.25%,$10.91 M,+13.33%
+"1,794",-,ERL,Empire Resources Ltd,$0.012,0.00,0.00%,$10.91 M
+"1,795",-,ZGL,ZICOM Group Ltd,$0.05,0.00,0.00%,$10.86 M
+"1,796",-,TSC,Twenty Seven Co. Ltd,$0.006,0.00,0.00%,$10.85 M
+"1,797",-,DAV,Davenport Resources Ltd,$0.055,0.00,0.00%,$10.84 M
+"1,798",-,ENV,Enova Mining Ltd,$0.032,0.00,0.00%,$10.84 M
+"1,799",INV,Investsmart Group Ltd,$0.08,+0.004,+5.26%,$10.82 M,-33.33%
+"1,800",-,MEB,Medibio Ltd,$0.008,0.00,0.00%,$10.78 M
+"1,801",SGC,Sacgasco Ltd,$0.039,-0.001,-2.50%,$10.71 M,+14.71%
+"1,802",RLE,Real Energy Corporation Ltd,$0.025,-0.001,-3.85%,$10.64 M,-21.88%
+"1,803",-,TKL,Traka Resources Ltd,$0.021,0.00,0.00%,$10.64 M
+"1,804",AGE,Alligator Energy Ltd,$0.005,+0.001,+25.00%,$10.62 M,+66.67%
+"1,805",MRZ,Mont Royal Resources Ltd,$0.32,-0.015,-4.48%,$10.57 M,+23.08%
+"1,806",-,ALT,Analytica Ltd,$0.003,0.00,0.00%,$10.56 M
+"1,807",-,LSA,Lachlan Star Ltd,$0.012,0.00,0.00%,$10.52 M
+"1,808",-,CR1,Constellation Resources Ltd,$0.30,0.00,0.00%,$10.51 M
+"1,809",QEM,QEM Ltd,$0.105,-0.005,-4.55%,$10.50 M,+12.90%
+"1,810",SOP,Synertec Corporation Ltd,$0.038,+0.002,+5.56%,$10.50 M,-11.63%
+"1,811",-,CRL,Comet Resources Ltd,$0.019,0.00,0.00%,$10.44 M
+"1,812",-,CXX,Cradle Resources Ltd,$0.055,0.00,0.00%,$10.43 M
+"1,813",-,FTZ,Fertoz Ltd,$0.067,0.00,0.00%,$10.41 M
+"1,814",-,EN1,Engage:BDR Ltd,$0.006,0.00,0.00%,$10.34 M
+"1,815",-,ENT,Enterprise Metals Ltd,$0.019,0.00,0.00%,$10.34 M
+"1,816",-,TCO,Transmetro Corporation Ltd,$0.77,0.00,0.00%,$10.30 M
+"1,817",ENA,Ensurance Ltd,$0.018,+0.001,+5.88%,$10.28 M,+28.57%
+"1,818",A3D,Aurora Labs Ltd,$0.067,-0.005,-6.94%,$10.24 M,-76.49%
+"1,819",-,CP1,Cannpal Animal Therapeutics Ltd,$0.11,0.00,0.00%,$10.24 M
+"1,820",-,AEE,Aura Energy Ltd,$0.004,0.00,0.00%,$10.23 M
+"1,821",CAP,Carpentaria Resources Ltd,$0.037,+0.002,+5.71%,$10.18 M,-5.13%
+"1,822",-,IPB,IPB Petroleum Ltd,$0.036,0.00,0.00%,$10.17 M
+"1,823",-,IYLD,Ishares Yield Plus ETF,$101.30,0.00,0.00%,$10.13 M
+"1,824",-,KAU,Kaiser Reef Ltd,$0.41,0.00,0.00%,$10.11 M
+"1,825",-,EVZ,EVZ Ltd,$0.105,0.00,0.00%,$10.09 M
+"1,826",-,ACP,Audalia Resources Ltd,$0.015,0.00,0.00%,$10.08 M
+"1,827",ICR,Intelicare Holdings Ltd,$0.27,-0.01,-3.57%,$10.02 M,-14.29%
+"1,828",-,RBR,RBR Group Ltd,$0.01,0.00,0.00%,$10.01 M
+"1,829",-,CBY,Canterbury Resources Ltd,$0.115,0.00,0.00%,$9.99 M
+"1,830",SER,Strategic Energy Resources Ltd,$0.062,-0.001,-1.59%,$9.92 M,+3.33%
+"1,831",TIN,TNT Mines Ltd,$0.25,+0.02,+8.70%,$9.92 M,+163.16%
+"1,832",-,TCN,Techniche Ltd,$0.047,0.00,0.00%,$9.90 M
+"1,833",-,SRZ,Stellar Resources Ltd,$0.015,0.00,0.00%,$9.87 M
+"1,834",-,BUX,Buxton Resources Ltd,$0.072,0.00,0.00%,$9.80 M
+"1,835",-,CZN,Corazon Mining Ltd,$0.003,0.00,0.00%,$9.76 M
+"1,836",-,LCE,London City Equities Ltd,$0.43,0.00,0.00%,$9.75 M
+"1,837",-,AJJ,Asian American Medical Group Ltd,$0.028,0.00,0.00%,$9.74 M
+"1,838",SHH,Shree Minerals Ltd,$0.012,+0.001,+9.09%,$9.71 M,+140.00%
+"1,839",-,ECS,ECS Botanics Holdings Ltd,$0.027,0.00,0.00%,$9.66 M
+"1,840",M8S,M8 Sustainable Ltd,$0.055,-0.002,-3.51%,$9.65 M,-67.65%
+"1,841",QCB,Betashares Commodities Basket ETF-Currency Hedged(Synthetic),$6.74,+0.07,+1.05%,$9.64 M,-17.40%
+"1,842",RIE,Riedel Resources Ltd,$0.023,-0.001,-4.17%,$9.62 M,+91.67%
+"1,843",VAL,Valor Resources Ltd,$0.005,+0.001,+25.00%,$9.60 M,+25.00%
+"1,844",-,ECT,Environmental Clean Technologies Ltd,$0.001,0.00,0.00%,$9.60 M
+"1,845",GBR,Great Boulder Resources Ltd,$0.051,+0.001,+2.00%,$9.59 M,-15.79%
+"1,846",-,SHO,Sportshero Ltd,$0.028,0.00,0.00%,$9.56 M
+"1,847",-,B2Y,Bounty Mining Ltd,$0.029,0.00,0.00%,$9.54 M
+"1,848",-,APH,Australian Primary Hemp Ltd,$0.17,0.00,0.00%,$9.53 M
+"1,849",-,MRQ,MRG Metals Ltd,$0.007,0.00,0.00%,$9.45 M
+"1,850",TEM,Tempest Minerals Ltd,$0.04,-0.001,-2.44%,$9.44 M,+33.99%
+"1,851",TMX,Terrain Minerals Ltd,$0.013,+0.001,+8.33%,$9.40 M,+225.00%
+"1,852",-,KSM,K2 Australian Small Cap Fund (Hedge Fund),$2.34,0.00,0.00%,$9.27 M
+"1,853",CLT,Cellnet Group Ltd,$0.04,-0.002,-4.76%,$9.26 M,-51.30%
+"1,854",-,GLE,GLG Corp Ltd,$0.125,0.00,0.00%,$9.26 M
+"1,855",-,MRD,Mount Ridley Mines Ltd,$0.003,0.00,0.00%,$9.26 M
+"1,856",-,AUDS,Betashares Strong Australian Dollar Fund (Hedge Fund),$9.23,0.00,0.00%,$9.23 M
+"1,857",-,FNX,Finexia Financial Group Ltd,$0.06,0.00,0.00%,$9.22 M
+"1,858",CGO,CPT Global Ltd,$0.24,-0.01,-4.00%,$9.18 M,+41.18%
+"1,859",-,ESE,Esense-Lab Ltd,$0.018,0.00,0.00%,$9.18 M
+"1,860",-,JCS,Jcurve Solutions Ltd,$0.028,0.00,0.00%,$9.18 M
+"1,861",CXM,Centrex Metals Ltd,$0.028,+0.003,+12.00%,$9.12 M,-68.10%
+"1,862",TAO,TAO Commodities Ltd,$0.29,+0.04,+16.00%,$9.10 M,+114.82%
+"1,863",QXR,QX Resources Ltd,$0.017,-0.003,-15.00%,$9.07 M,0.00%
+"1,864",-,FFC,Farmaforce Ltd,$0.07,0.00,0.00%,$9.01 M
+"1,865",VR8,Vanadium Resources Ltd,$0.024,-0.002,-7.69%,$8.98 M,-45.46%
+"1,866",-,SXA,Strata-X Energy Ltd,$0.085,0.00,0.00%,$8.96 M
+"1,867",FRX,Flexiroam Ltd,$0.022,+0.001,+4.76%,$8.95 M,-10.09%
+"1,868",NTI,Neurotech International Ltd,$0.023,-0.001,-4.17%,$8.94 M,+53.33%
+"1,869",-,CBE,Cobre Ltd,$0.135,0.00,0.00%,$8.89 M
+"1,870",-,WML,Woomera Mining Ltd,$0.026,0.00,0.00%,$8.84 M
+"1,871",DDT,Datadot Technology Ltd,$0.007,-0.001,-12.50%,$8.82 M,+5.26%
+"1,872",-,PGI,Panterra Gold Ltd,$0.045,0.00,0.00%,$8.78 M
+"1,873",-,SBR,Sabre Resources Ltd,$0.007,0.00,0.00%,$8.75 M
+"1,874",-,ORM,Orion Metals Ltd,$0.016,0.00,0.00%,$8.72 M
+"1,875",TRL,Tanga Resources Ltd,$0.051,+0.006,+13.33%,$8.72 M,+27.50%
+"1,876",-,TMG,Trigg Mining Ltd,$0.14,0.00,0.00%,$8.71 M
+"1,877",-,DVL,Dorsavi Ltd,$0.03,0.00,0.00%,$8.68 M
+"1,878",HCD,Hydrocarbon Dynamics Ltd,$0.025,-0.001,-3.85%,$8.67 M,-68.52%
+"1,879",BLZ,BLAZE International Ltd,$0.033,+0.003,+10.00%,$8.66 M,+57.14%
+"1,880",-,PSA,Petsec Energy Ltd,$0.021,0.00,0.00%,$8.58 M
+"1,881",-,ADX,ADX Energy Ltd,$0.005,0.00,0.00%,$8.57 M
+"1,882",-,MQR,Marquee Resources Ltd,$0.081,0.00,0.00%,$8.50 M
+"1,883",-,GOO,Gooroo Ventures Ltd,$0.057,0.00,0.00%,$8.48 M
+"1,884",IVT,Inventis Ltd,$0.009,+0.001,+12.50%,$8.43 M,+200.00%
+"1,885",-,LHM,Land & Homes Group Ltd,$0.008,0.00,0.00%,$8.40 M
+"1,886",-,CRB,Carbine Resources Ltd,$0.042,0.00,0.00%,$8.39 M
+"1,887",-,MLS,Metals Australia Ltd,$0.002,0.00,0.00%,$8.38 M
+"1,888",SFM,Santa Fe Minerals Ltd,$0.115,+0.005,+4.55%,$8.37 M,+38.55%
+"1,889",RAS,Ragusa Minerals Ltd,$0.08,+0.002,+2.56%,$8.37 M,+9.59%
+"1,890",E200,SPDR S&P/ASX 200 Esg Fund,$20.91,+0.31,+1.51%,$8.36 M,+2.85%
+"1,891",-,1AG,Alterra Ltd,$0.045,0.00,0.00%,$8.33 M
+"1,892",MAR,Malachite Resources Ltd,$0.065,+0.005,+8.33%,$8.32 M,-35.00%
+"1,893",ARN,Aldoro Resources Ltd,$0.125,+0.005,+4.17%,$8.30 M,-19.36%
+"1,894",-,AUQ,Alara Resources Ltd,$0.013,0.00,0.00%,$8.25 M
+"1,895",-,MEG,Megado Gold Ltd,$0.21,0.00,0.00%,$8.24 M
+"1,896",-,OEX,OILEX Ltd,$0.002,0.00,0.00%,$8.24 M
+"1,897",EMD,Emyria Ltd,$0.074,+0.004,+5.71%,$8.24 M,-48.97%
+"1,898",AUH,Austchina Holdings Ltd,$0.005,+0.001,+25.00%,$8.17 M,+25.00%
+"1,899",-,SGI,Stealth Global Holdings Ltd,$0.086,0.00,0.00%,$8.16 M
+"1,900",XTC,Xantippe Resources Ltd,$0.002,-0.001,-33.33%,$8.15 M,-33.33%
+"1,901",-,WBE,Whitebark Energy Ltd,$0.002,0.00,0.00%,$8.13 M
+"1,902",-,DAF,Discovery Africa Ltd,$0.04,0.00,0.00%,$8.09 M
+"1,903",OVT,Ovato Ltd,$0.011,+0.001,+10.00%,$8.05 M,-80.00%
+"1,904",-,AMD,Arrow Minerals Ltd,$0.006,0.00,0.00%,$8.01 M
+"1,905",-,EMT,Emetals Ltd,$0.02,0.00,0.00%,$8.00 M
+"1,906",-,NWM,Norwest Minerals Ltd,$0.10,0.00,0.00%,$7.99 M
+"1,907",-,BSM,Bass Metals Ltd,$0.002,0.00,0.00%,$7.99 M
+"1,908",AHL,Ahalife Holdings Ltd,$0.006,-0.001,-14.29%,$7.98 M,-50.00%
+"1,909",RFR,Rafaella Resources Ltd,$0.087,-0.002,-2.25%,$7.97 M,-24.35%
+"1,910",NOR,Norwood Systems Ltd,$0.032,+0.001,+3.23%,$7.93 M,+6.67%
+"1,911",ENX,Enegex Ltd,$0.059,-0.005,-7.81%,$7.91 M,+667.81%
+"1,912",DVDY,Vaneck Vectors Morningstar Australian Moat Income ETF,$19.72,+0.37,+1.91%,$7.89 M,+0.77%
+"1,913",-,TCF,360 Capital Enhanced Income Fund,$5.52,0.00,0.00%,$7.88 M
+"1,914",-,KEY,KEY Petroleum Ltd,$0.004,0.00,0.00%,$7.87 M
+"1,915",YOW,Yowie Group Ltd,$0.036,-0.003,-7.69%,$7.87 M,-52.00%
+"1,916",-,ANL,Amani Gold Ltd,$0.001,0.00,0.00%,$7.84 M
+"1,917",-,WTL,WT Financial Group Ltd,$0.047,0.00,0.00%,$7.83 M
+"1,918",-,EGL,Environmental Group Ltd (the),$0.03,0.00,0.00%,$7.83 M
+"1,919",SKN,Skin Elements Ltd,$0.024,+0.002,+9.09%,$7.82 M,+167.26%
+"1,920",-,BYH,Bryah Resources Ltd,$0.059,0.00,0.00%,$7.78 M
+"1,921",-,IAM,Intiger Group Ltd,$0.004,0.00,0.00%,$7.74 M
+"1,922",TYX,Tyranna Resources Ltd,$0.006,-0.001,-14.29%,$7.69 M,+20.00%
+"1,923",BXN,Bioxyne Ltd,$0.012,-0.003,-20.00%,$7.68 M,-33.33%
+"1,924",MOH,Moho Resources Ltd,$0.11,+0.01,+10.00%,$7.65 M,+54.93%
+"1,925",PAM,Pan Asia Metals Ltd,$0.155,+0.015,+10.71%,$7.57 M,-22.50%
+"1,926",-,CRM,Carbon Minerals Ltd,$0.40,0.00,0.00%,$7.52 M
+"1,927",-,THR,Thor Mining Plc,$0.019,0.00,0.00%,$7.52 M
+"1,928",-,ONE,Oneview Healthcare Plc,$0.043,0.00,0.00%,$7.50 M
+"1,929",-,OOK,Ookami Ltd,$0.022,0.00,0.00%,$7.50 M
+"1,930",SRH,Saferoads Holdings Ltd,$0.205,-0.045,-18.00%,$7.46 M,+2.50%
+"1,931",LCT,Living Cell Technologies Ltd,$0.013,-0.001,-7.14%,$7.43 M,-27.78%
+"1,932",-,HHM,Hampton Hill Mining NL,$0.025,0.00,0.00%,$7.37 M
+"1,933",-,VAR,Variscan Mines Ltd,$0.035,0.00,0.00%,$7.35 M
+"1,934",-,APV,Appsvillage Australia Ltd,$0.09,0.00,0.00%,$7.29 M
+"1,935",NES,Nelson Resources Ltd,$0.063,-0.005,-7.35%,$7.23 M,-19.88%
+"1,936",RAN,Range International Ltd,$0.02,+0.002,+11.11%,$7.23 M,-4.76%
+"1,937",LSH,Lifespot Health Ltd,$0.059,-0.001,-1.67%,$7.18 M,+28.26%
+"1,938",-,DCX,Discovex Resources Ltd,$0.006,0.00,0.00%,$7.18 M
+"1,939",-,PGR,The Pas Group Ltd,$0.052,0.00,0.00%,$7.11 M
+"1,940",JPR,Jupiter Energy Ltd,$0.046,-0.002,-4.17%,$7.06 M,+557.14%
+"1,941",G88,Golden Mile Resources Ltd,$0.057,-0.002,-3.39%,$7.01 M,-13.64%
+"1,942",FIN,FIN Resources Ltd,$0.024,+0.002,+9.09%,$7.00 M,+84.62%
+"1,943",GED,Golden Deeps Ltd,$0.013,-0.001,-7.14%,$7.00 M,-50.00%
+"1,944",-,SYT,Syntonic Ltd,$0.001,0.00,0.00%,$6.94 M
+"1,945",-,N1H,N1 Holdings Ltd,$0.085,0.00,0.00%,$6.93 M
+"1,946",-,RVS,Revasum Inc,$0.21,0.00,0.00%,$6.93 M
+"1,947",PAK,Pacific American Holdings Ltd,$0.022,-0.002,-8.33%,$6.92 M,-29.41%
+"1,948",SIS,Simble Solutions Ltd,$0.029,+0.001,+3.57%,$6.91 M,-29.27%
+"1,949",-,FNT,Frontier Resources Ltd,$0.014,0.00,0.00%,$6.85 M
+"1,950",-,JHL,JAYEX Healthcare Ltd,$0.034,0.00,0.00%,$6.85 M
+"1,951",-,BEM,Blackearth Minerals NL,$0.048,0.00,0.00%,$6.85 M
+"1,952",-,RMP,Red Emperor Resources NL,$0.013,0.00,0.00%,$6.83 M
+"1,953",ZMI,ZINC of Ireland NL,$0.056,-0.002,-3.45%,$6.81 M,-30.00%
+"1,954",SCI,Silver City Minerals Ltd,$0.014,-0.001,-6.67%,$6.80 M,+27.27%
+"1,955",RDS,Redstone Resources Ltd,$0.013,-0.001,-7.14%,$6.79 M,+44.44%
+"1,956",-,CAE,Cannindah Resources Ltd,$0.028,0.00,0.00%,$6.76 M
+"1,957",ROO,Roots Sustainable Agricultural Technologies Ltd,$0.019,+0.001,+5.56%,$6.76 M,-57.78%
+"1,958",-,ODM,Odin Metals Ltd,$0.026,0.00,0.00%,$6.75 M
+"1,959",-,BRK,Brookside Energy Ltd,$0.005,0.00,0.00%,$6.75 M
+"1,960",WNB,Wellness and Beauty Solutions Ltd,$0.005,-0.001,-16.67%,$6.74 M,-61.54%
+"1,961",-,LER,Leaf Resources Ltd,$0.019,0.00,0.00%,$6.73 M
+"1,962",-,LCD,Latitude Consolidated Ltd,$0.024,0.00,0.00%,$6.71 M
+"1,963",-,DTI,DTI Group Ltd,$0.02,0.00,0.00%,$6.70 M
+"1,964",-,4CE,Force Commodities Ltd,$0.012,0.00,0.00%,$6.69 M
+"1,965",-,PUR,Pursuit Minerals Ltd,$0.012,0.00,0.00%,$6.61 M
+"1,966",AER,Aeeris Ltd,$0.11,+0.005,+4.76%,$6.60 M,-18.52%
+"1,967",NC6,Nanollose Ltd,$0.056,-0.001,-1.75%,$6.59 M,-14.04%
+"1,968",PPY,Papyrus Australia Ltd,$0.021,-0.001,-4.55%,$6.58 M,+110.00%
+"1,969",-,GPS,GPS Alliance Holdings Ltd,$0.055,0.00,0.00%,$6.49 M
+"1,970",MLM,Metallica Minerals Ltd,$0.02,-0.001,-4.76%,$6.48 M,+53.85%
+"1,971",SUH,Southern Hemisphere Mining Ltd,$0.039,+0.002,+5.41%,$6.36 M,+127.30%
+"1,972",HLX,HELIX Resources Ltd,$0.008,-0.001,-11.11%,$6.35 M,-47.48%
+"1,973",CUL,Cullen Resources Ltd,$0.021,+0.001,+5.00%,$6.30 M,+67.10%
+"1,974",-,RGI,Roto-Gro International Ltd,$0.04,0.00,0.00%,$6.29 M
+"1,975",SVD,Scandivanadium Ltd,$0.014,+0.002,+16.67%,$6.28 M,+75.00%
+"1,976",-,BDI,Blina Minerals NL,$0.001,0.00,0.00%,$6.27 M
+"1,977",-,VP7,Velocity Property Group Ltd,$0.55,0.00,0.00%,$6.26 M
+"1,978",-,EAX,Energy Action Ltd,$0.24,0.00,0.00%,$6.23 M
+"1,979",-,AHN,Athena Resources Ltd,$0.02,0.00,0.00%,$6.16 M
+"1,980",-,NCR,Nucoal Resources Ltd,$0.008,0.00,0.00%,$6.15 M
+"1,981",-,OKR,Okapi Resources Ltd,$0.17,0.00,0.00%,$6.13 M
+"1,982",-,AUP,Aurora Property Buy-Write Income Trust,$2.99,0.00,0.00%,$6.06 M
+"1,983",-,RNX,Renegade Exploration Ltd,$0.007,0.00,0.00%,$6.04 M
+"1,984",LNAS,ETFs Ultra Long Nasdaq 100 Hedge Fund,$10.05,+0.05,+0.50%,$6.03 M,-2.71%
+"1,985",-,MAX,Millinium's Alternatives Fund,$5.00,0.00,0.00%,$6.00 M
+"1,986",GO2,The GO2 People Ltd,$0.04,+0.005,+14.29%,$5.91 M,+101.69%
+"1,987",-,KLR,Kaili Resources Ltd,$0.04,0.00,0.00%,$5.90 M
+"1,988",-,CPT,Cipherpoint Ltd,$0.042,0.00,0.00%,$5.88 M
+"1,989",-,BHD,Benjamin Hornigold Ltd,$0.242,0.00,0.00%,$5.85 M
+"1,990",MRR,Minrex Resources Ltd,$0.025,+0.003,+13.64%,$5.84 M,+177.78%
+"1,991",-,CDT,Castle Minerals Ltd,$0.012,0.00,0.00%,$5.84 M
+"1,992",-,EEU,Betashares Euro ETF,$15.68,0.00,0.00%,$5.72 M
+"1,993",OPL,Opyl Ltd,$0.155,+0.005,+3.33%,$5.72 M,+55.00%
+"1,994",-,KPE,Kina Petroleum Corporation,$0.45,0.00,0.00%,$5.71 M
+"1,995",TML,Timah Resources Ltd,$0.062,+0.001,+1.64%,$5.69 M,-11.43%
+"1,996",EFE,Eastern Iron Ltd,$0.012,+0.001,+9.09%,$5.68 M,+140.00%
+"1,997",-,CSE,Copper Strike Ltd,$0.053,0.00,0.00%,$5.66 M
+"1,998",-,PIN,Pinchme.com Inc,$0.04,0.00,0.00%,$5.66 M
+"1,999",-,VKA,Viking Mines Ltd,$0.018,0.00,0.00%,$5.65 M
+"2,000",-,SIL,Smiles Inclusive Ltd,$0.035,0.00,0.00%,$5.57 M
+"2,001",-,CMC,China Magnesium Corporation Ltd,$0.011,0.00,0.00%,$5.56 M
+"2,002",-,DMKT,AMP Capital Dynamic Markets Fund (Hedge Fund),$2.05,0.00,0.00%,$5.52 M
+"2,003",-,SMIDA,Santana Minerals Ltd,$0.19,0.00,0.00%,$5.52 M
+"2,004",-,RMG,RMG Ltd,$0.007,0.00,0.00%,$5.50 M
+"2,005",-,FE8,Faster Enterprises Ltd,$0.049,0.00,0.00%,$5.43 M
+"2,006",CML,Chase Mining Corporation Ltd,$0.017,-0.001,-5.56%,$5.42 M,-41.38%
+"2,007",-,PCL,Pancontinental Oil & Gas NL,$0.001,0.00,0.00%,$5.41 M
+"2,008",-,MSG,MCS Services Ltd,$0.029,0.00,0.00%,$5.40 M
+"2,009",-,SXX,Southern Cross Exploration N.L.,$0.005,0.00,0.00%,$5.39 M
+"2,010",-,NVU,Nanoveu Ltd,$0.06,0.00,0.00%,$5.38 M
+"2,011",ETPMPD,ETFs Group,$299.12,-2.38,-0.79%,$5.38 M,+19.84%
+"2,012",ETPMPT,ETFs Group,$114.81,+0.69,+0.61%,$5.37 M,-12.51%
+"2,013",TMK,Tamaska Oil and Gas Ltd,$0.006,+0.001,+20.00%,$5.34 M,-14.29%
+"2,014",-,TGO,Trimantium Growthops Ltd,$0.035,0.00,0.00%,$5.32 M
+"2,015",-,SP3,Spectur Ltd,$0.05,0.00,0.00%,$5.32 M
+"2,016",PKO,Peako Ltd,$0.028,-0.003,-9.68%,$5.30 M,+11.03%
+"2,017",-,KGD,Kula Gold Ltd,$0.034,0.00,0.00%,$5.30 M
+"2,018",-,DMG,Dragon Mountain Gold Ltd,$0.02,0.00,0.00%,$5.27 M
+"2,019",-,FTT,Factor Therapeutics Ltd,$0.005,0.00,0.00%,$5.21 M
+"2,020",-,CIO,Connected Io Ltd,$0.021,0.00,0.00%,$5.21 M
+"2,021",-,RLC,Reedy Lagoon Corporation Ltd,$0.011,0.00,0.00%,$5.17 M
+"2,022",ADD,Adavale Resources Ltd,$0.03,-0.003,-9.09%,$5.14 M,+403.74%
+"2,023",KTE,K2 Energy Ltd,$0.017,-0.001,-5.56%,$5.11 M,+240.00%
+"2,024",IDZ,Indoor Skydive Australia Group Ltd,$0.015,+0.002,+15.39%,$5.05 M,+50.00%
+"2,025",-,DLC,Delecta Ltd,$0.005,0.00,0.00%,$5.04 M
+"2,026",-,PNN,Pepinnini Minerals Ltd,$0.165,0.00,0.00%,$5.04 M
+"2,027",-,A1G,African Gold Ltd,$0.16,0.00,0.00%,$5.02 M
+"2,028",-,NXE,New Energy Minerals Ltd,$0.027,0.00,0.00%,$4.98 M
+"2,029",TZL,TZ Ltd,$0.054,-0.006,-10.00%,$4.95 M,-55.00%
+"2,030",-,BIR,BIR Financial Ltd,$0.06,0.00,0.00%,$4.88 M
+"2,031",-,GLV,Global Oil & Gas Ltd,$0.012,0.00,0.00%,$4.80 M
+"2,032",-,AOA,Ausmon Resources Ltd,$0.007,0.00,0.00%,$4.76 M
+"2,033",-,HQLT,Betashares Global Quality Leaders ETF Currency Hedged,$21.17,0.00,0.00%,$4.76 M
+"2,034",-,DHHF,Betashares Diversified High Growth ETF,$23.54,0.00,0.00%,$4.73 M
+"2,035",QAG,Betashares Agriculture ETF-Currency Hedged (Synthetic),$5.54,+0.12,+2.21%,$4.73 M,-0.54%
+"2,036",ATP,Atlas Pearls Ltd,$0.011,+0.002,+22.22%,$4.71 M,+22.22%
+"2,037",-,CWL,Consolidated Financial Holdings Ltd,$0.037,0.00,0.00%,$4.69 M
+"2,038",-,GLA,Gladiator Resources Ltd,$0.002,0.00,0.00%,$4.66 M
+"2,039",-,PVL,Powerhouse Ventures Ltd,$0.072,0.00,0.00%,$4.65 M
+"2,040",-,LML,Lincoln Minerals Ltd,$0.008,0.00,0.00%,$4.60 M
+"2,041",-,PRZ,Parazero Ltd,$0.036,0.00,0.00%,$4.58 M
+"2,042",-,MTB,Mount Burgess Mining NL,$0.007,0.00,0.00%,$4.55 M
+"2,043",-,ARC,Australian Rural Capital Ltd,$0.35,0.00,0.00%,$4.53 M
+"2,044",-,HGM,High Grade Metals Ltd,$0.008,0.00,0.00%,$4.53 M
+"2,045",-,VPC,VPCL Ltd,$0.004,0.00,0.00%,$4.52 M
+"2,046",-,IEQ,International Equities Corporation Ltd,$0.035,0.00,0.00%,$4.49 M
+"2,047",SRY,Story-I Ltd,$0.012,-0.001,-7.69%,$4.44 M,-14.29%
+"2,048",OKJ,Oakajee Corporation Ltd,$0.048,+0.007,+17.07%,$4.35 M,-15.79%
+"2,049",-,XST,Xstate Resources Ltd,$0.003,0.00,0.00%,$4.35 M
+"2,050",-,KOR,Korab Resources Ltd,$0.013,0.00,0.00%,$4.32 M
+"2,051",-,AAP,Australian Agricultural Projects Ltd,$0.014,0.00,0.00%,$4.27 M
+"2,052",-,MHI,Merchant House International Ltd,$0.045,0.00,0.00%,$4.24 M
+"2,053",-,RXH,Rewardle Holdings Ltd,$0.008,0.00,0.00%,$4.21 M
+"2,054",-,P2P,P2P Transport Ltd,$0.044,0.00,0.00%,$4.13 M
+"2,055",-,MPR,Mpower Group Ltd,$0.026,0.00,0.00%,$4.13 M
+"2,056",-,ROG,Red Sky Energy Ltd,$0.002,0.00,0.00%,$4.07 M
+"2,057",-,IMS,Impelus Ltd,$0.005,0.00,0.00%,$4.02 M
+"2,058",BEL,Bentley Capital Ltd,$0.052,+0.001,+1.96%,$3.96 M,+4.00%
+"2,059",CYQ,CYCLIQ Group Ltd,$0.002,-0.001,-33.33%,$3.92 M,+100.00%
+"2,060",-,RMI,Resource Mining Corporation Ltd,$0.013,0.00,0.00%,$3.85 M
+"2,061",-,IVO,Invigor Group Ltd,$0.025,0.00,0.00%,$3.80 M
+"2,062",CAU,Cronos Australia Ltd,$0.077,-0.003,-3.75%,$3.74 M,-77.35%
+"2,063",-,RFN,Reffind Ltd,$0.003,0.00,0.00%,$3.73 M
+"2,064",-,DBBF,Betashares Diversified Balanced ETF,$24.61,0.00,0.00%,$3.69 M
+"2,065",-,DGGF,Betashares Diversified Growth ETF,$24.31,0.00,0.00%,$3.68 M
+"2,066",-,ANW,Aus Tin Mining Ltd,$0.001,0.00,0.00%,$3.65 M
+"2,067",-,HHY,HHY Fund,$0.045,0.00,0.00%,$3.65 M
+"2,068",-,MTL,Manalto Ltd,$0.001,0.00,0.00%,$3.64 M
+"2,069",-,SL1,SYMBOL Mining Ltd,$0.007,0.00,0.00%,$3.64 M
+"2,070",-,KKL,Kollakorn Corporation Ltd,$0.015,0.00,0.00%,$3.61 M
+"2,071",-,ZEU,ZEUS Resources Ltd,$0.02,0.00,0.00%,$3.60 M
+"2,072",-,DZZF,Betashares Diversified Conservative Income ETF,$23.92,0.00,0.00%,$3.59 M
+"2,073",-,THD,Thred Ltd,$0.002,0.00,0.00%,$3.58 M
+"2,074",-,NSE,New Standard Energy Ltd,$0.004,0.00,0.00%,$3.56 M
+"2,075",-,OXX,Octanex Ltd,$0.013,0.00,0.00%,$3.55 M
+"2,076",-,EXO,ENNOX Group Ltd,$0.002,0.00,0.00%,$3.54 M
+"2,077",RNE,Renu Energy Ltd,$0.029,-0.003,-9.38%,$3.50 M,+26.09%
+"2,078",-,CFO,Cfoam Ltd,$0.018,0.00,0.00%,$3.46 M
+"2,079",-,MGZ,Medigard Ltd,$0.02,0.00,0.00%,$3.45 M
+"2,080",EMP,Emperor Energy Ltd,$0.028,+0.002,+7.69%,$3.45 M,-40.43%
+"2,081",-,RAG,Ragnar Metals Ltd,$0.011,0.00,0.00%,$3.45 M
+"2,082",-,RD1,Registry Direct Ltd,$0.02,0.00,0.00%,$3.45 M
+"2,083",-,AO1,Assetowl Ltd,$0.007,0.00,0.00%,$3.43 M
+"2,084",-,SVS,Sunvest Corporation Ltd,$0.28,0.00,0.00%,$3.40 M
+"2,085",BIQ,"Buildingiq, Inc",$0.009,+0.001,+12.50%,$3.36 M,-43.75%
+"2,086",-,FGO,Flamingo Ai Ltd,$0.003,0.00,0.00%,$3.36 M
+"2,087",-,BAS,Bass Oil Ltd,$0.001,0.00,0.00%,$3.34 M
+"2,088",FGL,Frugl Group Ltd,$0.027,-0.003,-10.00%,$3.34 M,-62.50%
+"2,089",-,PGY,Pilot Energy Ltd,$0.026,0.00,0.00%,$3.28 M
+"2,090",-,IPC,Imperial Pacific Ltd,$1.05,0.00,0.00%,$3.24 M
+"2,091",POW,Protean Energy Ltd,$0.01,-0.001,-9.09%,$3.18 M,+150.00%
+"2,092",-,SHE,Stonehorse Energy Ltd,$0.008,0.00,0.00%,$3.16 M
+"2,093",-,SF1,Stemify Ltd,$0.02,0.00,0.00%,$3.14 M
+"2,094",LIO,Lion Energy Ltd,$0.015,+0.001,+7.14%,$3.11 M,-31.82%
+"2,095",-,IEC,Intra Energy Corporation Ltd,$0.008,0.00,0.00%,$3.10 M
+"2,096",-,HOR,Horseshoe Metals Ltd,$0.012,0.00,0.00%,$3.05 M
+"2,097",-,STC,Sinetech Ltd,$0.003,0.00,0.00%,$3.04 M
+"2,098",-,MDX,Mindax Ltd,$0.003,0.00,0.00%,$2.96 M
+"2,099",-,PRM,Prominence Energy NL,$0.006,0.00,0.00%,$2.94 M
+"2,100",-,AGJ,Agricultural Land Trust,$0.03,0.00,0.00%,$2.93 M
+"2,101",-,ENB,Eneabba Gas Ltd,$0.005,0.00,0.00%,$2.89 M
+"2,102",-,SAN,Sagalio Energy Ltd,$0.014,0.00,0.00%,$2.87 M
+"2,103",-,APG,Austpac Resources NL,$0.001,0.00,0.00%,$2.83 M
+"2,104",-,PPL,Pureprofile Ltd,$0.024,0.00,0.00%,$2.82 M
+"2,105",-,TKF,Tikforce Ltd,$0.001,0.00,0.00%,$2.80 M
+"2,106",-,MMR,Mec Resources Ltd,$0.004,0.00,0.00%,$2.74 M
+"2,107",-,AXT,Argo Exploration Ltd,$0.014,0.00,0.00%,$2.73 M
+"2,108",DOR,Doriemus Plc,$0.047,+0.005,+11.91%,$2.73 M,-6.00%
+"2,109",-,GGE,Grand Gulf Energy Ltd,$0.007,0.00,0.00%,$2.69 M
+"2,110",-,FDX,Frontier Diamonds Ltd,$0.024,0.00,0.00%,$2.66 M
+"2,111",-,GGX,GAS2GRID Ltd,$0.002,0.00,0.00%,$2.65 M
+"2,112",-,R3D,R3D Global Ltd,$0.055,0.00,0.00%,$2.59 M
+"2,113",-,CMD,Cassius Mining Ltd,$0.009,0.00,0.00%,$2.59 M
+"2,114",-,LHB,Lionhub Group Ltd,$0.003,0.00,0.00%,$2.48 M
+"2,115",-,TRM,Truscott Mining Corporation Ltd,$0.02,0.00,0.00%,$2.46 M
+"2,116",IGN,Ignite Ltd,$0.027,-0.002,-6.90%,$2.42 M,+3.85%
+"2,117",-,KP2,Kore Potash Plc,$0.011,0.00,0.00%,$2.41 M
+"2,118",-,UUV,UUV Aquabotix Ltd,$0.001,0.00,0.00%,$2.39 M
+"2,119",IMPQ,Einvest Future Impact Small Caps Fund (Managed Fund),$4.65,+0.06,+1.31%,$2.35 M,+7.14%
+"2,120",-,PKD,Parkd Ltd,$0.031,0.00,0.00%,$2.33 M
+"2,121",-,QSS,Questus Ltd,$0.024,0.00,0.00%,$2.22 M
+"2,122",-,CVS,Cervantes Corporation Ltd,$0.004,0.00,0.00%,$2.14 M
+"2,123",-,MSI,Multistack International Ltd,$0.019,0.00,0.00%,$2.13 M
+"2,124",-,LVE,Love Group Global Ltd,$0.052,0.00,0.00%,$2.11 M
+"2,125",-,RMT,Rma Energy Ltd,$0.001,0.00,0.00%,$2.10 M
+"2,126",GOAT,Vaneck Vectors Morningstar World Ex Australia Wide Moat ETF,$20.10,+0.29,+1.46%,$2.01 M,+0.50%
+"2,127",QFY,Quantify Technology Holdings Ltd,$0.001,-0.001,-50.00%,$2.01 M,-80.00%
+"2,128",VETH,Vanguard Ethically Conscious Australian Shares ETF,$49.54,+1.04,+2.14%,$1.98 M,-2.11%
+"2,129",GGOV,Betashares Global Government Bond 20+ Year ETF - Cur Hedged,$24.50,+0.08,+0.33%,$1.96 M,-1.84%
+"2,130",-,GCR,Golden Cross Resources Ltd,$0.019,0.00,0.00%,$1.93 M
+"2,131",-,RPG,Raptis Group Ltd,$0.03,0.00,0.00%,$1.90 M
+"2,132",-,AKN,Auking Mining Ltd,$0.002,0.00,0.00%,$1.87 M
+"2,133",-,ACS,Accent Resources NL,$0.01,0.00,0.00%,$1.81 M
+"2,134",-,TNP,Triple Energy Ltd,$0.025,0.00,0.00%,$1.80 M
+"2,135",-,MCB,MCB Resources Ltd,$0.07,0.00,0.00%,$1.80 M
+"2,136",XPE,Xped Ltd,$0.001,-0.001,-50.00%,$1.79 M,0.00%
+"2,137",-,OEQ,Orion Equities Ltd,$0.10,0.00,0.00%,$1.78 M
+"2,138",-,AHK,Ark Mines Ltd,$0.034,0.00,0.00%,$1.78 M
+"2,139",-,VIA,Viagold Rare Earth Resources Holdings Ltd,$0.019,0.00,0.00%,$1.58 M
+"2,140",-,LRM,Lustrum Minerals Ltd,$0.045,0.00,0.00%,$1.57 M
+"2,141",-,ABW,Aurora Absolute Return Fund,$0.19,0.00,0.00%,$1.55 M
+"2,142",-,SBU,Siburan Resources Ltd,$0.002,0.00,0.00%,$1.40 M
+"2,143",MCX,Mariner Corporation Ltd,$0.029,-0.001,-3.33%,$1.39 M,-55.39%
+"2,144",-,TTL,Transcendence Technologies Ltd,$0.008,0.00,0.00%,$1.39 M
+"2,145",-,TTA,TTA Holdings Ltd,$0.01,0.00,0.00%,$1.37 M
+"2,146",-,8EC,8IP Emerging Companies Ltd,$0.033,0.00,0.00%,$1.35 M
+"2,147",-,RNY,RNY Property Trust,$0.005,0.00,0.00%,$1.32 M
+"2,148",-,ATM,Aneka Tambang (Persero) TBK (PT),$1.00,0.00,0.00%,$1.30 M
+"2,149",-,BSP,Black Star Petroleum Ltd,$0.002,0.00,0.00%,$1.30 M
+"2,150",-,PBX,Pacific Bauxite Ltd,$0.003,0.00,0.00%,$1.19 M
+"2,151",-,CGM,Cougar Metals NL,$0.001,0.00,0.00%,$1.18 M
+"2,152",-,T3D,333D Ltd,$0.001,0.00,0.00%,$1.07 M
+"2,153",PWNCA,Parkway Minerals NL,$0.004,+0.001,+33.33%,$986.40 TH,+300.00%
+"2,154",-,CCJ,County International Ltd,$0.004,0.00,0.00%,$957.40 TH
+"2,155",-,PPLR,Pureprofile Ltd,$0.001,0.00,0.00%,$940.21 TH
+"2,156",-,RBX,Resource Base Ltd,$0.034,0.00,0.00%,$934.71 TH
+"2,157",-,EMUCA,EMU NL,$0.026,0.00,0.00%,$876.86 TH
+"2,158",-,TOM,Tomizone Ltd,$0.002,0.00,0.00%,$850.40 TH
+"2,159",-,AQS,AQUIS Entertainment Ltd,$0.022,0.00,0.00%,$785.82 TH
+"2,160",-,E2E,Eon NRG Ltd,$0.001,0.00,0.00%,$769.89 TH
+"2,161",-,QUE,Queste Communications Ltd,$0.027,0.00,0.00%,$730.95 TH
+"2,162",-,PCH,Property Connect Holdings Ltd,$0.001,0.00,0.00%,$685.86 TH
+"2,163",-,LITCF,Lithium Australia NL,$0.005,0.00,0.00%,$644.31 TH
+"2,164",-,QTG,Q Technology Group Ltd,$0.004,0.00,0.00%,$600.83 TH
+"2,165",-,ABL,Abilene Oil and Gas Ltd,$0.001,0.00,0.00%,$397.61 TH
+"2,166",-,REF,Reverse Corp Ltd,$0.004,0.00,0.00%,$371.44 TH
+"2,167",-,LAM,Laramide Resources Ltd,$0.35,0.00,0.00%,$363.53 TH
+"2,168",-,AIB,Aurora Global Income Trust,$0.052,0.00,0.00%,$362.27 TH
+"2,169",-,CDH,Chongherr Investments Ltd,$0.002,0.00,0.00%,$260.42 TH
+"2,170",-,CFOR,Cfoam Ltd,$0.001,0.00,0.00%,$256.23 TH
+"2,171",-,KNH,Koon Holdings Ltd,$0.071,0.00,0.00%,$186.53 TH
+"2,172",-,CINPA,Carlton Investments Ltd,$2.06,0.00,0.00%,$170.94 TH
+"2,173",-,SSLPA,Sietel Ltd,$1.00,0.00,0.00%,$75.00 TH
+"2,174",-,WHFPA,Whitefield Ltd,$1.00,0.00,0.00%,$23.79 TH
+"2,175",MAET,Munro Global Growth Fund (Hedge Fund),$5.07,+0.03,+0.60%,$5.00,0.00%
